@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://alexhartford.org/</loc>
+    <loc>http://alexhartford.org/lambda/</loc>
   </url><url>
-    <loc>http://alexhartford.org/proposal/</loc>
+    <loc>http://alexhartford.org/lambda/proposal/</loc>
   </url><url>
-    <loc>http://alexhartford.org/addendum/</loc>
+    <loc>http://alexhartford.org/lambda/addendum/</loc>
   </url><url>
-    <loc>http://alexhartford.org/rules/</loc>
+    <loc>http://alexhartford.org/lambda/rules/</loc>
   </url><url>
-    <loc>http://alexhartford.org/setting/</loc>
+    <loc>http://alexhartford.org/lambda/setting/</loc>
   </url>
 </urlset>

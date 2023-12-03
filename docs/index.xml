@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Index on Lambda</title>
-    <link>http://alexhartford.org/</link>
+    <link>http://alexhartford.org/lambda/</link>
     <description>Recent content in Index on Lambda</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://alexhartford.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://alexhartford.org/lambda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proposal</title>
-      <link>http://alexhartford.org/proposal/</link>
+      <link>http://alexhartford.org/lambda/proposal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexhartford.org/proposal/</guid>
+      <guid>http://alexhartford.org/lambda/proposal/</guid>
       <description>Proposal An outline of what a player might expect in Lambda.
 Priorities The game I propose is a game in which&amp;hellip;
 Decisions are more important than choices. The utmost care is taken to strip away everything which does not lead to some interesting consequence or implication.
@@ -20,19 +20,19 @@ Heroes&amp;rsquo; true character is revealed. I tend to focus on choices which i
     
     <item>
       <title>Rules</title>
-      <link>http://alexhartford.org/addendum/</link>
+      <link>http://alexhartford.org/lambda/addendum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexhartford.org/addendum/</guid>
+      <guid>http://alexhartford.org/lambda/addendum/</guid>
       <description>Addendum Game-specific rules for Lambda.</description>
     </item>
     
     <item>
       <title>Rules</title>
-      <link>http://alexhartford.org/rules/</link>
+      <link>http://alexhartford.org/lambda/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexhartford.org/rules/</guid>
+      <guid>http://alexhartford.org/lambda/rules/</guid>
       <description>Rubicon The System for Lambda.
 Note that the rules here are made to be standalone, so if you encounter any strange wording, refer to the Addendum.
 Priorities Rubicon is a system which is&amp;hellip;
@@ -42,10 +42,10 @@ Rules-light. Tight, simple core mechanic. Keep dice-rolling to a minimum. Ruling
     
     <item>
       <title>Setting</title>
-      <link>http://alexhartford.org/setting/</link>
+      <link>http://alexhartford.org/lambda/setting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://alexhartford.org/setting/</guid>
+      <guid>http://alexhartford.org/lambda/setting/</guid>
       <description>A short tale from the desert. Once, here, in this very place, was the greatest kingdom known to man. In the Age of Heroes, the great palace of Aeschylon stood tall and mighty over a verdant grove. Queen Hyperion united the realms of man under a banner as strong and storied as any before it, and brought a peace hitherto unknown. &amp;ldquo;The Green Spring&amp;rdquo; it was called, and it was a century of peace for all.</description>
     </item>
     
