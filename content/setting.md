@@ -2,6 +2,11 @@
 title: "Setting"
 ---
 
+# Setting
+This document outlines, in broad strokes, the setting that ***Lambda*** takes place in.
+
+---
+
 ## A short tale from the desert.
 Once, here, in this very place, was the greatest kingdom known to man.
 In the Age of Heroes, the great palace of Aeschylon stood tall and mighty over a verdant grove.

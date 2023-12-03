@@ -581,12 +581,13 @@ This game doesn't define weapons for use, as much as provides a guideline for wh
 > It is very rare to encounter weapons not governed by STR at this tier.
 
 
-Any given weapon can be wielded in two hands, allowing the user to roll damage twice and take the larger roll.
+Any given weapon can be wielded in two hands, allowing the user to roll damage twice and take the larger value.
+The same applies to wielding two weapons at once.
 Some weapons can only be wielded in two hands.
 
-Weapons are always unique. They each have special properties which the dungeon master determines.
+Weapons are usually unique. They have special properties which the dungeon master determines.
 Most weapons are governed by STR or AGI, but rarely can be governed by either depending on the wielder.
-    Very rarely, weapons are governed by other Attributes.
+    Very rarely, weapons are governed by other attributes than the martial.
 
 ### Armor
 Armor is expensive and heavy, but might save your life.
@@ -598,7 +599,7 @@ Light Armor
 > 12 + AGI / 3
 
 Medium Armor
-> 14 + AGI (Max 2)
+> 13 + AGI / 4
 
 Heavy Armor
 > 16, Disadvantage on stealth. Cannot cast spells.
