@@ -1,4 +1,4 @@
-baseURL = 'http://alexhartford.org/'
+baseURL = 'http://alexhartford.org/lambda'
 languageCode = 'en-us'
 title = 'Lambda'
 disableKinds = ['taxonomy', 'term']
