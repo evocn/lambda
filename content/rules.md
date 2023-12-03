@@ -5,7 +5,7 @@ title: "Rules"
 # Rubicon
 The System for ***Lambda***.
 
-*Note that the rules here are made to be standalone, so if you encounter any strange wording, refer to the [Addendum](/addendum/).*
+*Note that the rules here are made to be standalone, so if you encounter any strange wording, refer to the [Addendum](/lambda/addendum/).*
 
 ---
 
