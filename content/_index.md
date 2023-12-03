@@ -1,7 +1,15 @@
 ---
-title: "Home page"
+title: "Index"
 ---
 
-This line is from `content/_index.md`.
+**Greetings!**
 
-[Go to setting](/setting/).
+This is the landing page for ***Lambda***, an RPG campaign by Alex Hartford.
+
+> If this is your first time here, the [Proposal](/proposal/) is where you'll want to go.
+
+> If you're looking for a rule, here's the [Book](/rules/).
+
+> And a nice little introduction to the setting is located [here](/setting/).
+
+If anything confuses you, let me know.

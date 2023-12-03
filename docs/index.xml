@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home page on Lambda</title>
-    <link>http://example.org/</link>
-    <description>Recent content in Home page on Lambda</description>
+    <title>Index on Lambda</title>
+    <link>http://alexhartford.org/</link>
+    <description>Recent content in Index on Lambda</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://alexhartford.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First post</title>
-      <link>http://example.org/setting/</link>
+      <link>http://alexhartford.org/setting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/setting/</guid>
+      <guid>http://alexhartford.org/setting/</guid>
       <description>This line is from content/firstpost.md.
 Home</description>
+    </item>
+    
+    <item>
+      <title>Proposal</title>
+      <link>http://alexhartford.org/proposal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/proposal/</guid>
+      <description>Proposal for Lambda A Tabletop Roleplaying Game Campaign | By Alex Hartford
+Priorities The game I propose is a game in which&amp;hellip;
+Decisions are more important than choices. The utmost care is taken to strip away everything which does not lead to some interesting consequence or implication.
+Heroes&amp;rsquo; true character is revealed. I tend to focus on choices which impact who a character is, and what they believe in. I draw heavy inspiration from film.</description>
     </item>
     
   </channel>
