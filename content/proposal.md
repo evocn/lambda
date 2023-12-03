@@ -2,8 +2,11 @@
 title: "Proposal"
 ---
 
-# Proposal for ***Lambda***
-**A Tabletop Roleplaying Game Campaign** | *By Alex Hartford*
+# Proposal
+
+An outline of what a player might expect in ***Lambda***.
+
+---
 
 ## Priorities
 The game I propose is a game in which...
@@ -27,6 +30,30 @@ Consistency, dedication, and trust matter a lot at my table.
 If we're going to pull a game like this off, we need all hands on deck!
 I need 3-4 hours a week of time, though scheduling conflicts may occur.
 What matters most is that when you come to my table, you are locked in, and laser focused.
+
+---
+
+## Gameplay
+The game I'm interested in running involves three pillars of play: ***Exploration, Combat, and Social Interaction***.
+
+The main essence of ***Exploration*** involves the mystery of an unknown world, and the promise of discovery.
+
+Exploration centers around character motivations and narrative. 
+For instance, your character might seek a long-lost blade of legend, and explore the world to find its resting place.
+
+The main essence of ***Combat*** involves dramatic situations with outside-the-box approaches.
+
+Combat is loose, and dangerous. The enemies characters encounter might not be set up for them to win.
+Because of this, flat-out combat is rare, and short. Heroes, just like human beings, will probably be apprehensive about entering a fight, rather than circumnavigating it in some way.
+
+Characters have lots of options at their disposal. They must use these options carefully, or encounter defeat.
+
+The main essence of ***Social Interaction*** is that of relationships.
+
+This aspect of the game is not governed by mechanical systems, but is deeply ingrained in the core of the game.
+It's clear to me that we all care about this here.
+
+---
 
 ## Rules
 The game will use my system, ***Rubicon***, whose rules are included with this document.
@@ -79,23 +106,3 @@ I aim to avoid all matters which would keep a player from authentically particip
 
 I enjoy jokes, jests, and jibes, but I want my players to know that it's the exception, not the rule, at the table.
 We're here to tell a story! We can talk and hang out before and after the session.
-
-## Gameplay
-The game I'm interested in running involves three pillars of play: ***Exploration, Combat, and Social Interaction***.
-
-The main essence of ***Exploration*** involves the mystery of an unknown world, and the promise of discovery.
-
-Exploration centers around character motivations and narrative. 
-For instance, your character might seek a long-lost blade of legend, and explore the world to find its resting place.
-
-The main essence of ***Combat*** involves dramatic situations with outside-the-box approaches.
-
-Combat is loose, and dangerous. The enemies characters encounter might not be set up for them to win.
-Because of this, flat-out combat is rare, and short. Heroes, just like human beings, will probably be apprehensive about entering a fight, rather than circumnavigating it in some way.
-
-Characters have lots of options at their disposal. They must use these options carefully, or encounter defeat.
-
-The main essence of ***Social Interaction*** is that of relationships.
-
-This aspect of the game is not governed by mechanical systems, but is deeply ingrained in the core of the game.
-It's clear to me that we all care about this here.
