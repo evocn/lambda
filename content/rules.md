@@ -76,11 +76,11 @@ A hero can have a score from -10 to 10 in any attribute.
 
 * ***Strength*** | Combat, Encumberance.
 
-* ***Agility*** | Thievery, Speed, Dexterity with your hands or body.
+* ***Dexterity*** | Thievery, Speed, Agility with your hands or body.
 
 * ***Constitution*** | Health, Endurance.
 
-* ***Knowledge*** | Analysis, History, Medicine, Mathematics, Physics, Astronomy...
+* ***Intelligence*** | Analysis, History, Medicine, Mathematics, Physics, Astronomy...
 
 * ***Wisdom*** | Perception, Insight, Matters of the heart.
 
@@ -171,14 +171,14 @@ Fighters come in many forms, but all live by the sword, and die by it.
 > How many fights have they been in? If it is a great many, who have they lost?
 > Also, consider what their end goal is. No one can fight forever.
 
-Important stats: STR, AGI, CON.
+Important stats: STR, DEX, CON.
 
 Base HP: 14
 
 ***Trained*** |
 You have some form of training in combat.
 When you hit with an attack, you deal extra damage equal to half the weapon's governing attribute.
-For instance, if your AGI is 5, and you hit with your dagger (1d4 damage), you deal 1d4+2 damage.
+For instance, if your DEX is 5, and you hit with your dagger (1d4 damage), you deal 1d4+2 damage.
 
 #### Fighting Style
 You choose a particular style of fighting which you excel at.
@@ -269,7 +269,7 @@ Deal +2d6 damage on an attack.
 > These take up 1 LOAD each. You cannot cast spells without them.
 
 ***Imbue | 1 SP*** |
-For one minute, your weapon deals additional damage equal to KNO.
+For one minute, your weapon deals additional damage equal to INT.
 
 ***Shield | 1 SP*** |
 Nullify damage of an incoming attack or trap.
@@ -287,7 +287,7 @@ A person with particular skills and the ability to get to places and take things
 > Others want to give back, and make sure no one else has to steal to make ends meet.
 > And of course, some just lust for gold. May they find it in spades.
 
-Important stats: AGI, CHA.
+Important stats: DEX, CHA.
 
 Base HP: 8
 
@@ -335,7 +335,7 @@ Some simply spend their days in meditation, among the woodland beings and the mo
 > Wizards keep the balance in the realm. They are very rarely interested in their own ends.
 > When creating your wizard, consider what threats they may think about, and how their quest for knowledge might help them towards stopping it.
 
-Important stats: KNO.
+Important stats: INT.
 
 Base HP: 10
 
@@ -586,20 +586,20 @@ The same applies to wielding two weapons at once.
 Some weapons can only be wielded in two hands.
 
 Weapons are usually unique. They have special properties which the dungeon master determines.
-Most weapons are governed by STR or AGI, but rarely can be governed by either depending on the wielder.
+Most weapons are governed by STR or DEX, but rarely can be governed by either depending on the wielder.
     Very rarely, weapons are governed by other attributes than the martial.
 
 ### Armor
 Armor is expensive and heavy, but might save your life.
 
 A hero wearing no armor has an AC equal to
-> 10 + AGI / 2
+> 10 + DEX / 2
 
 Light Armor
-> 12 + AGI / 3
+> 12 + DEX / 3
 
 Medium Armor
-> 13 + AGI / 4
+> 13 + DEX / 4
 
 Heavy Armor
 > 16, Disadvantage on stealth. Cannot cast spells.
@@ -685,11 +685,11 @@ You allocate those six numbers among your hero's attributes.
 
 3. ***Fill out your stats.***
 
-MOV = 30 + AGI * 2.5 (rounded towards 20 to the nearest 5)
+MOV = 30 + DEX * 2.5 (rounded towards 20 to the nearest 5)
 
 HP = Base + CON
 
-SP = 3 + (Max of KNO, WIS) / 2
+SP = 3 + (Max of INT, WIS) / 2
 
 LOAD = 8 + STR
 

@@ -6,6 +6,8 @@ title: "Index"
 
 This is the landing page for ***Lambda***, an RPG campaign by Alex Hartford.
 
+> If you got here from my main page, you can go back there with this [link](/).
+
 > If this is your first time here, the [Proposal](/lambda/proposal/) is where you'll want to go.
 
 > If you're looking for a rule, here's the [Core Rule Book](/lambda/rules/), along with the ***Lambda***-specific [Addendum](/lambda/addendum/).

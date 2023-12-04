@@ -7,23 +7,27 @@ Game-specific rules for ***Lambda***.
 
 ---
 
-## Economy
+## Equipment and Trading
 ***Currency*** |
 Trade in this setting typically involves the trading hands of various coins.
-The most common coin is the Silver Dirham. Rarer, but more valuable, is the Golden Dinar.
 
+In the Four Kingdoms, the standard coin is the Golden Mark.
+
+The most common coin in the Grey Wastes is the Silver Dirham. Also traded is the more valuable Golden Dinar.
 The Dinar is a smaller coin than the Dirham, but is heavier.
 
 As a reference point, most people will trade 10:1 between Silver Dirham and Golden Dinar.
+Between the Four Kingdoms and the Grey Wastes, the Golden Mark usually trades one-to-one for the Dinar, but not all merchants will accept this.
+The two coins have nearly the same weight, however.
 
 These coins are forged in the great cities, and circulate through many realms.
-There are various forms of other coin, which have regional popularity, and will only be traded by certain folk.
+There are various other forms of coin, which have regional popularity, and will only be traded by certain folk.
 
-> For simplicity, this guide will refer only to an item's value in terms of Golden Dinar, and will abbreviate this as GP.
+> For simplicity, this guide will refer only to an item's value in terms of Gold, and will abbreviate this as GP.
 
 ***Estimation*** | 
 Below is a list of commonly found weapons, armor, and gear, along with typical prices for good quality pieces in populated areas.
-> Note that buying used weaponry can be cheaper, but can be unreliable.
+> Note that buying used weaponry can be cheaper, but weapons purchased secondhand can be unreliable, and might need honing at a smithy.
 > Note also that these prices are typical in populated areas, but in small hovels, a weapon may be considered far more valuable.
 
 ### Weapons
@@ -40,29 +44,35 @@ Below is a list of commonly found weapons, armor, and gear, along with typical p
 > When an opponent is nearby, you have disadvantage to attacking with a ranged weapon.
 
 #### Common Weapons
-***Jambiya*** | d4, AGI | Value: 2 GP
-> A small dagger, near-ubiquitous.
+***Jambiya*** | d4, DEX | Value: 2 GP
+> A small dagger, near-ubiquitous among the desert people.
 > The hilt of the Jambiya worn by a man usually indicates his status.
 
-***Whip*** | d4+1, AGI | Value: 15 GP
-> A particularly interesting weapon, used by specialists.
+***Dirk*** | d4, DEX | Value: 1 GP
+> A moderately sized dagger of the Four Kingdoms.
+
+***Whip*** | d4, DEX | Value: 15 GP
+> A particularly interesting weapon, used by specialists in the Desert.
 > Can attack at a short range, and keep foes from closing the gap.
 > Completely nullified by good armor. Enemies take no damage if they wear mail or plate.
 
-***Sling*** | d4, STR or AGI | Value: 3 GP
+***Sling*** | d4, STR or DEX | Value: 3 GP
 > A sling is a valuable tool against a foe at a moderate distance.
 > Important to note that in the desert, it isn't often possible to gather stones as ammunition.
 > Most sling-wielders carry pouches of sharpened stones with them.
 
-***Kindjal*** | d6, STR or AGI | Value: 15 GP
-> A short, straight, double-edged blade.
-
-***Recurve Bow*** | d6, AGI | Value: 25 GP
-> A ranged weapon. Typically used for hunting and war. 
+***Hunting Bow*** | d4+1, DEX | Value: 10 GP
+> A ranged weapon, used in the Four Kingdoms to hunt game.
 > Requires arrows as ammunition.
 
-***Khatar*** | d6, STR or AGI | Value: 20 GP
-> A short, squat blade typically worn forward-facing on the hand.
+***Club*** | d4, STR | Value: 1 SP
+> A stick with a heavy end. Servicable as a weapon in a pinch.
+
+***Sickle*** | d4, STR | Value: 1 GP
+> A tool meant for farming. Can draw blood if need be.
+
+***Kindjal*** | d6, STR or DEX | Value: 15 GP
+> A short, straight, double-edged blade, wielded by the Desert Folk.
 
 ***Djerid*** | d6, STR | Value: 20 GP
 > A short, sharp spear.
@@ -72,51 +82,68 @@ Below is a list of commonly found weapons, armor, and gear, along with typical p
 > An axe with a dulled edge, made for splitting wood.
 
 ***Side Sword*** | d6+1, STR | Value: 30 GP
-> A short blade from the far West.
+> A short blade from the Four Kingdoms.
+
+***Recurve Bow*** | d6, DEX | Value: 25 GP
+> A ranged weapon. Typically used by the Desert Folk for hunting and war. 
+> Requires arrows as ammunition.
+
+***Khatar*** | d6, STR or DEX | Value: 20 GP
+> A short, squat blade typically worn forward-facing on the hand.
+> A specialty of the southern Desert Folk.
 
 ***Mace*** | d8, STR | Value: 15 GP
 > A hunk of metal attached to a stick.
 > The heft of this weapon is its primary source of power. You must wield it with two hands.
 
 ***Longsword*** | d8+1, STR | Value: 40 GP 
-> A long blade from the far West.
+> A long blade from the Four Kingdoms. Castle-forged steel.
 
-***Scimitar*** | d8, AGI | Value: 50 GP
+***Scimitar*** | d8, DEX | Value: 50 GP
 > A long, curved blade with a single edge.
 > The riding folk of the Desert forged this sword to be effective on horseback.
 > A scimitar of quality is a rare thing, though forgeries trade hands often in the marketplaces.
 
-***War Bow*** | d10, AGI | Value: 40 GP
+***War Bow*** | d10, DEX | Value: 40 GP
 > A massive bow, which fires long-range arrows.
 > The drawstring requires significant strength to pull. A hero can only wield the War Bow with a STR of 3 or greater.
 > Requires specialty arrows as ammunition.
 
 ***War Sword*** | d10, STR | Value: 50 GP
-> A fine blade, forged for a Knight to use in the waging of some old war.
-> A rare sight indeed. The old wars are over now.
+> A fine blade, forged specialty for a Knight to use in the waging of war.
 > Must be wielded with two hands.
 
 ### Armor
 #### Common Armor Configurations
-***Tunic*** | 11 + AGI / 3 | 1 LOAD | Value: 10 GP
+***Tunic*** | 11 + DEX / 3 | 1 LOAD | Value: 10 GP
 > The standard garb of the Desert-man.
 > Protection from the sun by day, warmth by night.
 
-***Padded Leather*** | 12 + AGI / 3 | 2 LOAD | Value: 30 GP
+***Padded Leather*** | 12 + DEX / 3 | 2 LOAD | Value: 30 GP
 > Offers more protection from cuts and blows than a standard tunic.
 
-***Mail***  | 14 + AGI / 4 | 3 LOAD | Value: 50 GP
+***Boiled Leather*** | 13 + DEX / 4 | 2 LOAD | Value: 20 GP
+> Standard armor for a poor soldier in the Four Kingdoms.
+
+***Mail***  | 14 + DEX / 4 | 3 LOAD | Value: 50 GP
 > The garb of a warrior. Mail can turn aside slashes and arrows alike.
-> Over long days in the sun, the heat of metal can grow to be unbearable.
+> Rarely worn in the Desert, as over long days in the sun, the heat of metal can grow to be unbearable.
 > Impedes stealth. Vulnerable to lightning and flame.
 
 ***Plate Mail*** | 16 | 4 LOAD | Value: 100 GP
 > A heavy set of mail with plates to protect the torso and the shoulders.
-> Often, the plates are inscribed with prayers or sayings in the ancient tongues.
+> In the Free Cities, the plates are inscribed with prayers or sayings in the ancient tongues.
+> In the Four Kingdoms, plate mail is the mark of a great knight.
 > Impedes stealth, acrobatics. Vulnerable to lightning and flame.
 
 ***Conical Helm*** | +1 AC | 1 LOAD | Value: 10 GP
-> One often wears a turban over this tall, pointed helm.
+> In the Desert, one often wears a turban over this tall, pointed helm.
+
+***Buckler*** | +1 AC | 1 LOAD | Value: 5 GP
+> A small shield worn in both the Kingdoms and the Free Cities.
+
+***Greatshield*** | +3 AC | 2 LOAD | Value: 40 GP
+> A fine shield forged of pure steel.
 
 ***El-Darakah*** | +2 AC | 1 LOAD | Value: 20 GP
 > A shield made of wood or leather, wrapped in the shape of a butterfly's wings.
@@ -192,3 +219,14 @@ Most animals consume supplies at the same rate as a hero.
 
 > A cart cannot travel across rivers, streams, rocky terrain, desert, or swamps.
 > In fact, any traversal not on a given road is a risky proposition.
+
+### Services
+***Weapon Master*** | 
+> A swordsmith, fletcher, or other craftsman will repair, hone, or craft weapons for a fair price.
+
+> Typically, repair costs are proportional to a weapon's value, costing about a third of the weapon's price to repair it.
+> A dull weapon is treated as broken, and costs the same as to repair.
+
+> To craft new weapons, a smith typically will charge the usual market value of a weapon, plus a small amount for the services rendered.
+
+## Overland Travel

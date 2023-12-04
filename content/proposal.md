@@ -97,7 +97,7 @@ I want those motivations to be challenged by the danger the heroes feel.
 I want characters to act in a reasonable and personal way to them, and in a way that a character of their world might.
 
 I have no reservations about the gruesome, the grim, or the bleak.
-However, I don't involve sexual violence in my game, and rarely focus on matters of race.
+However, I don't involve sexual violence in my game.
 I aim to avoid all matters which would keep a player from authentically participating in my game.
 
 I enjoy jokes, jests, and jibes, but I want my players to know that it's the exception, not the rule, at the table.
