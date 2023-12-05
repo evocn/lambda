@@ -57,15 +57,14 @@ The main essence of ***Social Interaction*** is the natural dynamics of human re
 
 ## Rules
 The game will use my custom system, ***Rubicon***, whose rules are found [here](/lambda/rules/).
-There are [supplemental rules](/lambda/addendum/) as well, for the particular setting which I present to you.
 
 ***Notes on the rules***
 * The system has no explicit progression built in. Instead, progression is made clear through the world and the choices a character makes.
-* I use a flattened version of ability uses called Skill Points (SP). Everyone has them, and they govern a character's ability to perform heroic feats.
-* Encumberance is a pretty key aspect of the system. We care about load, travel time, and the like.
+* I use a flattened version of ability cooldowns called Skill Points (SP). Everyone has them, and they govern a character's ability to perform heroic feats like spells and special abilities.
+* Encumberance is a pretty key aspect of the system. The game cares about load, travel time, and the like.
 * The system is built around choice and tradeoff. Dump stats have consequences.
 * There are only a few character archetypes at the outset. I tend to stick to the core archetypes: Fighter, Thief, Wizard, Cleric, Leader.
-You will note, however, that within each are options which create specialization.
+You will note, however, that within each are options which create specialization, and more will arise as the game is played.
 
 ## Length
 The game I run tends towards discrete chunks, which I call ***arcs.***

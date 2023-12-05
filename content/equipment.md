@@ -48,33 +48,37 @@ The weapons are grouped into categories based on relative price.
 ***Masterpiece weapons*** | > d12 damage | 100+ GP | Pieces of art. Extremely rare.
 
 | Weapon        | Attribute |Damage | Cost | Range | Properties |
-| ------------- |:---------:| -----:| -----:|:-----:|:----------:|
+| ------------- |:---------:|:-----:|:-----:|:-----:|:----------:|
 | ***Peasant*** | | | | | |
-| Dagger        | DEX       |   d4  |   2   | Melee / Thrown | |
-| Club          | STR       |   d4  |   1   | Melee | |
-| Staff / Whip  | STR / DEX |   d4  |   3   | Reach | |
-| Hatchet       | STR       |   d4  |   2   | Melee / Thrown | |
-| Sling         | DEX       |   d4  |   3   | Short | Consumes Ammunition |
+| Dagger        | DEX       |   d4  |   2 GP | Melee / Thrown | |
+| Club          | STR       |   d4  |   1 GP | Melee | |
+| Staff / Whip  | STR / DEX |   d4  |   3 GP | Reach | |
+| Hatchet       | STR       |   d4  |   2 GP | Melee / Thrown | |
+| Sling         | DEX       |   d4  |   3 GP | Short | Ammunition |
 | ***Common*** | | | | | |
-| Axe / Hammer  | STR       |   d6  |   5   | Melee / Thrown | |
-| Spear         | STR       |   d6  |  10   | Reach / Thrown | |
-| Sword         | STR / DEX |   d6  |  15   | Melee | |
-| Scimitar      | DEX       |   d6  |  20   | Melee | |
-| Hunting Bow   | DEX       |   d6  |  20   | Long  | Consumes Ammunition |
+| Axe / Hammer  | STR       |   d6  |   5 GP | Melee / Thrown | |
+| Spear         | STR       |   d6  |  10 GP | Reach / Thrown | |
+| Sword         | STR / DEX |   d6  |  15 GP | Melee | |
+| Scimitar      | DEX       |   d6  |  20 GP | Melee | |
+| Hunting Bow   | DEX       |   d6  |  20 GP | Long  | Ammunition |
 | ***Martial*** | | | | | |
-| Battle Axe / Mace   | STR |   d8  |  20   | Melee | Must be Two-Handed |
-| Longsword     | STR       |   d8  |  40   | Melee | |
-| Rapier        | DEX       |   d8  |  50   | Melee | |
-| Recurve Bow   | DEX       |   d8  |  30   | Long  | Consumes Ammunition |
+| Battle Axe / Mace   | STR |   d8  |  20 GP | Melee | Must be Two-Handed |
+| Longsword     | STR       |   d8  |  40 GP | Melee | |
+| Rapier        | DEX       |   d8  |  50 GP | Melee | |
+| Recurve Bow   | DEX       |   d8  |  30 GP | Long  | Ammunition |
 | ***Heroic*** | | | | | |
-| Greatsword    | STR       |  2d6  | 120   | Melee | Must be Two-Handed |
-| Maul / Hammer | STR       |  d12  |  80   | Melee | Must be Two-Handed |
-| Halberd       | STR       |  d10  |  75   | Reach | Must be Two-Handed |
-| War Bow       | DEX       |  d10  |  60   | Long  | Consumes Ammunition |
-| ***Masterpiece Weapons*** | | | | | |
-| Damascened Blade | STR    | 3d6   | ---   | Melee | |
+| Maul / Hammer | STR       |  d12  |  60 GP | Melee | Must be Two-Handed |
+| Halberd       | STR       |  d10  |  75 GP | Reach | Must be Two-Handed |
+| War Bow       | DEX       |  d10  |  80 GP | Long  | Ammunition |
+| Greatsword    | STR       |  2d6  | 120 GP | Melee | Must be Two-Handed |
+| ***Masterpiece*** | | | | | |
+| Damascened Blade | STR    |  3d6  | 400 GP | Melee | |
 
 Note that this is merely a sampling of the weapons which exist.
+
+Many masterpieces or artifacts are priceless, and are so rare that few people exist who could feasibly buy such a thing.
+
+**LOAD** of a weapon is calculated by the number of hands required to wield it. 1 LOAD for one hand, 2 LOAD for two hands.
 
 ---
 
@@ -83,13 +87,14 @@ Below is the list of basic armors.
 
 | Armor     | AC            | LOAD  | Cost  | Properties |
 | --------- |:-------------:|:-----:|:-----:|:----------:|
-| No Armor  | 10 + DEX / 2  | 0     | Free  | |
-| Light     | 11 + DEX / 3  | 2     | 30    | |
-| Medium    | 14 + DEX / 4  | 3     | 50    | |
-| Heavy     | 16            | 4     | 200   | Unable to cast spells. Disadvantage on stealth and acrobatics. |
-| Buckler   | +1 AC         | 1     | 10    | Takes up a free hand. |
-| Shield    | +2 AC         | 1     | 20    | Takes up a free hand. |
-| Helm      | +1 AC         | 1     | 25    | Disadvantage on perception. |
+| None      | 10+DEX/2  | 0     | Free  | |
+| Light     | 11+DEX/3  | 2     | 30 GP | |
+| Medium    | 14+DEX/4  | 3     | 50 GP | |
+| Heavy     | 16            | 4     | 200 GP | No spells. Disadvantage on stealth and acrobatics. |
+| | | | | |
+| Buckler   | +1 AC         | 1     | 5 GP  | Takes up a free hand. |
+| Shield    | +2 AC         | 1     | 25 GP | Takes up a free hand. |
+| Helm      | +1 AC         | 1     | 25 GP | Disadvantage on perception. |
 
 Note that more specialized armors exist, for scenarios like wilderness travel and cold / heat resistance.
 These are mere categories.
@@ -99,52 +104,39 @@ These are mere categories.
 ## Gear
 Below is a list of commonly stocked gear in major cities.
 Villages will have some or none of these things for sale or trade.
-All items are 1 LOAD unless otherwise specified.
 
-| Armor     | AC            | LOAD  | Cost  | Properties |
-| --------- |:-------------:|:-----:|:-----:|:----------:|
+| Gear          | Cost  |  LOAD | Properties |
+| ---------     |:-----:|:-----:|:----------:|
+| Supplies      | 1 SP  | 1     | Food and water for three days. |
+| 3 Torches     | 5 SP  | 1     | |
+| 30 ft. Rope   | 1 GP  | 1     | |
+| 10 Sling Stones | 1 SP  | 1   | Ammunition for slings. |
+| 10 Arrows     | 5 GP  | 1     | Ammunition for bows. |
+| 10 Lockpicks  | 5 GP  | 1     | Roll a lockpicking check with advantage. |
+|||||
+| Shovel        | 1 GP  | 1     | |
+| Crowbar       | 5 GP  | 1     | |
+| Grappling Hook| 10 GP | 1     | |
+| 6-foot Ladder | 1 GP  | 2     | |
+| 10-foot Pole  | 1 GP  | 1     | |
+| Whistle       | 5 SP  | 0     | |
+| Dice          | 1 GP  | 0     | |
+|||||
+| Smith's Tools | 5 GP  | 1     | Repair or sharpen a dull blade. Single Use. |
+| Healer's Kit  | 5 GP  | 1     | Stabilize a creature without incurring injury. Single Use. |
 
-***Supplies*** | 1 SP
+Other gear is pretty common, but not worth much. Things like butter, buckets, sticks, rocks, fishing poles, that sort of thing.
 
-***3 Torches*** | 1 SP
+## Animals
+***Pack animals*** can carry LOAD for you.
 
-***10 Arrows*** | 5 SP
-
-***10 Sling Stones*** | 1 SP
-
-***Smith's Tools*** | 5 GP
-> Allows you to repair a weapon or set of armor while away from a forge.
-> The process takes one hour, and consumes the tools.
-
-***10 Lockpicks*** | 1 GP
-> Allows a thief to roll a lockpicking check with advantage.
-
-***Ladder*** | 1 GP
-
-***10-Foot Pole*** | 1 GP
-
-***Whistle*** | 5 SP
-
-***30 ft. Rope*** | 1 GP
-
-***Shovel*** | 5 SP
-
-***Crowbar*** | 1 GP
-
-***Grappling Hook*** | 10 GP
-
-***Healer's Kit*** | 5 GP
-> Allows a hero to be stabilized without incurring an injury.
-> Consumed in the process.
-
-### Pack Animals
-Pack animals can carry LOAD.
-Mounts can carry heroes, increasing your overland travel speed.
+***Mounts*** can carry heroes, increasing your overland travel speed.
 
 Most animals consume supplies at the same rate as a hero.
 
 ***Donkey/Mule*** | 8 GP
 > A Mule carries up to 8 LOAD, but is unable to be mounted.
+> A Mule travels at a rate of 30 ft.
 
 ***Draft Horse*** | 25 GP
 > A horse is the mount of choice outside the desert.
@@ -174,7 +166,3 @@ Most animals consume supplies at the same rate as a hero.
 > A dull weapon is treated as broken, and costs the same as to repair.
 
 > To craft new weapons, a smith typically will charge the usual market value of a weapon, plus a small amount for the services rendered.
-
-
----
-

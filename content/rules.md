@@ -43,7 +43,7 @@ Another set of assumptions comes in the rules of the game:
 
 ---
 
-# Rules
+# Basic Rules
 ***The Core Mechanic*** | 
 The game is adjudicated using the D20.
 
@@ -88,7 +88,9 @@ A archetype is a specialization of a character's role. Each player character has
 ***Zone*** |
 A Zone is just a circular area centered around a point with a radius of 15 feet. It's a simple way to refer to areas in-game.
 
-## Combat
+---
+
+# Combat
 Combat begins when two parties would try to adjudicate against eachother.
 
 ***Initiative*** |
@@ -116,10 +118,12 @@ A hero can forgo their actions on a turn to try to dodge incoming attacks, impos
 ***Use Item*** |
 Items define their use times, but most can be used as a Quick Action. 
 
-***Editor's Note*** |
+*Editor's Note* |
 This game has no concept of "Flanking", "Opportunity Attacks", or "Hiding" in combat. These sorts of things either don't exist, or are adjudicated given specific scenarios.
 
-## Death and Injury
+---
+
+# Death and Injury
 A hero reduced below 1 HP is incapacitated.
 
 They may be stabilized by another hero who takes their action to do so.
@@ -128,16 +132,19 @@ If not stabilized within 1 minute, they die.
 
 A hero who is stabilized does not return to battle, and regains consciousness after an hour.
 
-***Injury*** |
+## Injury
 If stabilized, a hero returns to 1 HP, but must roll on the injury table.
 Additionally, all injuries come with some mental or physical mark for a hero to carry with them the rest of their days.
 
-### Injuries (d4)
-* 1-2 | Lose 1d4 of a random Attribute.
-* 3   | Your weapon or armor (d2) is broken and must be repaired. It cannot be used.
-* 4   | All checks have disadvantage until the next rest.
+| (d4)| Effect |
+|:---:|:------:|
+| 1-2 | Lose 1d4 of a random Attribute. |
+| 3   | Your weapon or armor (d2) is broken and must be repaired. |
+| 4   | All checks have disadvantage until the next rest. |
 
-## Rest
+---
+
+# Rest
 In order to regain spent HP and SP, as well as heal particular status ailments, heroes must rest.
 In order to rest, the party must have adequate food and water.
 
@@ -145,71 +152,40 @@ For each night of rest in a comfortable place,  a hero regains all their HP and 
 
 For each night of rest while camping somewhere, a hero regains half their HP and SP.
 
-## Progression
-Progression comes in the form of items, artifacts, and blessings.
+---
 
-The mere killing of beasts is not enough to make a hero. It is in the choices they make that the difference lies.
+# Progression
+Progression usually comes in the form of items, artifacts, and blessings.
 
 Often, it will be clear to a hero how they may progress, whether it be through the acquisition of a storied weapon,
 their God's blessing, the study of ancient texts in battle tactics, or the acquisition of wealth through subterranean expedition.
-
 If it is not clear to the player, they must consult with the Dungeon Master, to clarify what their progression might look like.
+
+Here are some examples of progression in this system, as it is a confusing concept at first.
+* A Fighter saves their coins until they can purchase a suit of Chain Mail, cementing their ability to defend their friends.
+* A Magi seeks the ruined temple to their deity. With the help of their friends, they successfully make the pilgrimage, for which their God rewards them with a new power.
+* A Wizard finds a dusty tome in the basement of an old northern keep, where once the spells of darkness were practiced. They have the option before them to study dark magic.
+* A Thief successfully infiltrates a humongous party, pushing their limits and learning some new tricks in the process.
+* A Leader guides his party through a series of military conflicts, hardening their skills in the process.
+
+These progressions occur in downtime, and are ad hoc based on the circumstances.
 
 ---
 
-## Encumbrance
-All equipment weighs a hero down.
+# Equipment
+***Encumberance*** |
+All equipment weighs a hero down. The amount of LOAD a hero can carry is governed by their STR.
 A hero who is overencumbered cannot fight, and their movement speed is halved, especially when travelling long distances.
 A party might hire pack animals to carry a heavy load, or travel lighter than they might otherwise.
 
-Typical LOAD values are listed below!
-
-1 | ***1-Handed weapons***
-
-2 | ***2-Handed weapons***
-
-2 | ***Light Armor***
-
-3 | ***Medium Armor***
-
-4 | ***Heavy Armor***
-
-1 | ***Shield***
-
-1 | ***Helm***
-
-1 | ***3 Torches***
-
-1 | ***5 Days' Supplies***
-
-1 | ***30 ft. of Rope***
-
-1 | ***10 Pieces of ammunition***
-
-1 | ***A lantern and 3 hours of oil***
-
-1 | ***50 Coins***
-
-1 | ***Smithing Tools***
-
-1 | ***10 Lockpicks*** 
-
-Miscellaneous items which can be held in one hand can be carried, with 3 of such items constituting 1 LOAD.
-> For example, a hero might carry a potion of healing, a tinderbox, and a waterskin, constituting 1 LOAD.
-
-Larger miscellaneous items cost 1 LOAD each, unless it is unreasonable for it to do so.
-> For example, a tent costs 1 LOAD, as does a bedroll. A small ladder would probably account for 2 LOAD, per DM discretion.
+***Pack Animals*** |
+Horses, Mules, and the like can carry equipment long distances, either to bring tools to a dungeon, or to bring loot back home.
 
 ***Repairs*** |
-Weapons and armor which is damaged cannot be used, and must be repaired by a professional.
+Weapons and armor which are damaged cannot be used, and must be repaired by a professional with tools.
 
 ***Foraging*** |
 A character skilled in foraging can make a check to find food and water once per day.
 Unskilled characters can make the check as well, but are rarely successful, and often exhaust themselves in the process.
 
-***Pack Animals*** |
-Horses, Mules, and the like can carry equipment long distances, either to bring tools to a dungeon, or to bring loot back home.
-No rules are provided here, but the Dungeon Master is encouraged to develop their own system for this.
-
 ---
-
