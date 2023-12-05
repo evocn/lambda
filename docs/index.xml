@@ -14,14 +14,15 @@
       <guid>http://alexhartford.org/lambda/generation/</guid>
       <description>Generating Characters Below is an outline of how to generate characters for Lambda.
 Allocate your attributes.
-Choose one of the following distributions. You allocate those six numbers among your hero&amp;rsquo;s attributes. 2, 2, 2, 2, 0, 0
+Choose one of the following distributions. You allocate those six numbers among your hero&amp;rsquo;s attributes.
+2, 2, 2, 2, 0, 0
 4, 2, 1, 0, 0, 0
 5, 3, 1, 0, -1, -3
 6, 2, 0, -1, -1, -3
 Choose an archetype.
 Familiarize yourself with your new abilities and skills.
-Calculate some numbers.
-MOV = 30 + DEX * 2.</description>
+Select your equipment.
+Choose a peasant&amp;rsquo;s weapon.</description>
     </item>
     
     <item>
