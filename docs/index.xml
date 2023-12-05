@@ -8,6 +8,24 @@
     <language>en-us</language><atom:link href="http://alexhartford.org/lambda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://alexhartford.org/lambda/generation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/lambda/generation/</guid>
+      <description>Generating Characters Below is an outline of how to generate characters for Lambda.
+Allocate your attributes.
+Choose one of the following distributions. You allocate those six numbers among your hero&amp;rsquo;s attributes. 2, 2, 2, 2, 0, 0
+4, 2, 1, 0, 0, 0
+5, 3, 1, 0, -1, -3
+6, 2, 0, -1, -1, -3
+Choose an archetype.
+Familiarize yourself with your new abilities and skills.
+Calculate some numbers.
+MOV = 30 + DEX * 2.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://alexhartford.org/lambda/ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -15,6 +33,31 @@
       <description>Here I keep the ideas which no player should see. Keep out!
 Tortoise-shell shield.
 Gemstones set in swords of high birth.</description>
+    </item>
+    
+    <item>
+      <title>Archetypes</title>
+      <link>http://alexhartford.org/lambda/archetypes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/lambda/archetypes/</guid>
+      <description>Archetypes There are five archetypes: Thief, Fighter, Leader, Wizard, and Magi.
+Below is a description of the traits and abilities of each.
+Thief A person with particular skills and the ability to get to places and take things which most people cannot.
+It is usually a desparate person who resorts to stealing to survive. A thief&amp;rsquo;s past is usually best forgotten, marred with mistakes or regrets. When creating your Thief, think about who they were before today.</description>
+    </item>
+    
+    <item>
+      <title>Equipment</title>
+      <link>http://alexhartford.org/lambda/equipment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/lambda/equipment/</guid>
+      <description>Equipment Arms and Armor for Lambda.
+Currency Trade in this setting typically involves the various forms of coin.
+In the Four Kingdoms, the standard coin is the Golden Mark.
+The most common coin in the Grey Wastes is the Silver Dirham. Also traded is the more valuable Golden Dinar. The Dinar is a smaller coin than the Dirham, but is heavier.
+As a reference point, most people will trade 10:1 between Silver Dirham and Golden Dinar.</description>
     </item>
     
     <item>
@@ -31,28 +74,15 @@ Heroes&amp;rsquo; true character is revealed. I tend to focus on choices which i
     
     <item>
       <title>Rules</title>
-      <link>http://alexhartford.org/lambda/addendum/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://alexhartford.org/lambda/addendum/</guid>
-      <description>Addendum Game-specific rules for Lambda.
-Equipment and Trading Currency | Trade in this setting typically involves the trading hands of various coins.
-In the Four Kingdoms, the standard coin is the Golden Mark.
-The most common coin in the Grey Wastes is the Silver Dirham. Also traded is the more valuable Golden Dinar. The Dinar is a smaller coin than the Dirham, but is heavier.
-As a reference point, most people will trade 10:1 between Silver Dirham and Golden Dinar.</description>
-    </item>
-    
-    <item>
-      <title>Rules</title>
       <link>http://alexhartford.org/lambda/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/lambda/rules/</guid>
       <description>Rubicon The System for Lambda.
-Note that the rules here are made to be standalone, so if you encounter any strange wording, refer to the Addendum.
 Priorities Rubicon is a system which is&amp;hellip;
 Honest. Specialized heroes. Glaring weaknesses. Dump stats matter. Progression is specific. It is earned, not expected. Character death is possible, and in many circumstances probable.
-Rules-light. Tight, simple core mechanic. Keep dice-rolling to a minimum. Rulings, not rules.</description>
+Rules-light. Tight, simple core mechanic. Keep dice-rolling to a minimum. Rulings, not rules. Small numbers with big consequences. Simple, to allow for endless customization as a game progresses.
+Focused on character specialization. Heroes play a specific role.</description>
     </item>
     
     <item>
