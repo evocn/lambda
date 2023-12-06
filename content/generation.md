@@ -1,3 +1,6 @@
+---
+title: "Generation"
+---
 
 # Generating Characters
 Below is an outline of how to generate characters for ***Lambda***.
@@ -41,3 +44,4 @@ LOAD = 8 + STR
 
 Give 'em a name!
 
+![noble](/lambda/images/noble.jpg)

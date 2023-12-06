@@ -3,7 +3,7 @@ title: "Rules"
 ---
 
 # Rubicon
-The System for ***Lambda***.
+The Rules System for ***Lambda***.
 
 ---
 
@@ -43,7 +43,10 @@ Another set of assumptions comes in the rules of the game:
 
 ---
 
-# Basic Rules
+# The Basics
+
+![combat](/lambda/images/combat.jpg)
+
 ***The Core Mechanic*** | 
 The game is adjudicated using the D20.
 

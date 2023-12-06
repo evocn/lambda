@@ -11,18 +11,18 @@ Below is a description of the traits and abilities of each.
 ---
 
 ## Thief
-A person with particular skills and the ability to get to places and take things which most people cannot.
+An individual with particular skills.
 
-> It is usually a desparate person who resorts to stealing to survive. 
+![thief](/lambda/images/thief.jpg)
+
 > A thief's past is usually best forgotten, marred with mistakes or regrets.
 > When creating your Thief, think about who they were before today.
-> Not every thief has ambitions. Some just wish to escape the squalor of the hand life has dealt to them.
+> 
+> Also note that while many are in it for the money, not every thief has the same ambitions. 
+> Some just wish to escape the squalor of the hand life has dealt to them.
 > Others want to give back, and make sure no one else has to steal to make ends meet.
-> And of course, some just lust for gold. May they find it in spades.
 
-Important stats: DEX, CHA.
-
-Base HP: 8
+***Important stats: DEX, CHA*** | ***Base HP: 8***
 
 ### Sneaky
 You gain advantage to stealth, and can move silently even at full speed.
@@ -65,14 +65,14 @@ Disappear. Unless you're in a very open setting, you evade all peoples' notice a
 Warrior, soldier, guardsman, mercenary, gladiator. 
 Fighters come in many forms, but all live by the sword, and die by it.
 
+![fighter](/lambda/images/fighter.jpg)
+
 > When creating a Fighter, think about how they began to fight.
 > Was it out of necessity, or a desire for glory?
 > How many fights have they been in? If it is a great many, who have they lost?
 > Also, consider what their end goal is. No one can fight forever.
 
-Important stats: STR, DEX, CON.
-
-Base HP: 14
+***Important stats: STR, DEX, CON *** | ***Base HP: 14***
 
 ### Trained
 You have some form of training in combat.
@@ -184,17 +184,18 @@ A leader sets the agenda, manages resources, and finds victory, taking risks whe
 
 They might not be skilled in individual combat, or they may. Nonetheless, their value to a group is indispensible.
 
+![leader](/lambda/images/leader.jpg)
+
 > Every Leader has a reason to bring men into battle. As you create your Leader, consider this.
 > When they step onto the battlefield, they carry their men's hopes on their shoulders, and they also shoulder the burden of responsibility.
 > Think of how your Leader will handle defeat, loss, and discord, as well as what their true goals are.
 > A Leader's goals are big, and men must rally their own goals around the leader's.
 
-Important stats: CHA
-
-Base HP: 12
+***Important stats: CHA, WIS*** | ***Base HP: 12***
 
 ### Command
-Once per turn, as a Quick Action, an ally of your choice may immediately 
+Once per turn, as a Quick Action, you may issue a Command.
+An ally of your choice may immediately 
 move up to half their speed,
 make a saving throw for a condition,
 or perform an action.
@@ -221,7 +222,7 @@ Choose 3 abilities from the list below.
     Take 10 minutes to give an inspiring speech. Up to 10 characters who hear it gain 5+CHA Hit Points, and 1 SP. No overflow!
 
 ***Encouragement | 1 SP | Quick*** |
-    Give an ally a word of encouragement. They regain 2 SP.
+    Give an ally a word of encouragement. They regain SP equal to your WIS / 2.
 
 ***War Cry! | 2 SP | Quick*** |
     Allies who hear your cry gain advantage on all attacks until your next turn, and critical hits deal double their usual damage!
@@ -233,13 +234,13 @@ A scholar of the arcane arts. Most wizards spend their days in a dark room, rese
 Others set out on the road in search of knowledge and to use their power to help people.
 Some simply spend their days in meditation, among the woodland beings and the moon and stars.
 
+![wizard](/lambda/images/wizard.jpg)
+
 > A Wizard is not just a college student who learned some spells. They are usually special beings, with special destinies.
 > Wizards keep the balance in the realm. They are very rarely interested in their own ends.
 > When creating your wizard, consider what threats they may think about, and how their quest for knowledge might help them towards stopping it.
 
-Important stats: INT.
-
-Base HP: 10
+***Important stat: INT*** | ***Base HP: 10***
 
 ### Familiar
 You gain a familiar, a creature of magical essence that aids you.
@@ -257,7 +258,7 @@ In order to cast spells, a Wizard requires materials, written spells, and an arc
 Their spell book and materials take up 1 LOAD each, and their arcane focus requires 1 LOAD as well.
 Without any of these essential components, they must make checks for memory to cast any spell.
 
-Choose 5 of the following spells.
+Choose 5 of the following spells. INT is their governing attribute.
 
 ***Light*** |
 Illuminate an object and cast light in a Zone until you dispel it.
@@ -328,19 +329,19 @@ A willing creature you touch transforms into a small creature to perform tasks. 
 ---
 
 ## Magi
-A magi is a hero who draws power from some source.
+A magi is a hero who draws power from some external source.
 
 A magi may gain their power from the forces of nature, owing to their intense focus and involvement in the natural world.
 Another may owe their supernatural abilities to a strange event which saved their life.
-Another still may pray to a God, who grants them abilities in exchange that they may do good on this world... or ill.
+Another still may pray to a God, who grants them abilities in exchange that they may do good on this world.
+
+![magi](/lambda/images/magi.jpg)
 
 > A magi is a rare hero indeed, for power is rarely given in such a form, and vows are hard to keep.
 > They must make sacrifices to whatever force they draw their power from,
 > And, if they have one, they must please their patron in their words and deeds.
 
-Important stats: WIS.
-
-Base HP: 12
+***Important stat: WIS*** | ***Base HP: 12***
 
 ### Eerie Sense
 You can sense subtle things, like the presence of supernatural things, the stilled wind, 
@@ -351,6 +352,7 @@ In order to cast spells, a magi requires a Divine Focus and the favor of their G
 The Divine Focus can be an object with another purpose, such as a shield or a hammer, but if not, it costs 1 LOAD.
 
 Choose 4 of the spells below. These are the spells your God has blessed you with, or which you have naturally acquired.
+WIS is their governing attribute.
 
 ***Restore | Quick*** | 
 You can stabilize a creature without their incurring an injury from the injuries table.
@@ -412,6 +414,3 @@ Try to freeze a creature in place. They repeat the save at the end of their turn
 
 ***Turn | 1 SP*** | 
 All creatures of unnatural origin must try to remain in place, else flee from you.
-
----
-

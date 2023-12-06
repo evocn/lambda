@@ -19,6 +19,8 @@ As a reference point, most people will trade 10:1 between Silver Dirham and Gold
 Between the Four Kingdoms and the Grey Wastes, the Golden Mark usually trades one-to-one for the Dinar, but not all merchants will accept this.
 The two coins have nearly the same weight, however.
 
+![coins](/lambda/images/coins.jpg)
+
 These coins are forged in the great cities, and circulate through many realms.
 There are various other forms of coin, which have regional popularity, and will only be traded by certain folk.
 
@@ -33,6 +35,9 @@ Below is a list of commonly found weapons, armor, and gear, along with typical p
 ---
 
 ## Weapons
+
+![weapons](/lambda/images/weapons.jpg)
+
 Below is the list of basic weapons.
 
 The weapons are grouped into categories based on relative price.
@@ -83,6 +88,9 @@ Many masterpieces or artifacts are priceless, and are so rare that few people ex
 ---
 
 ## Armor
+
+![armor](/lambda/images/armor.jpg)
+
 Below is the list of basic armors.
 
 | Armor     | AC            | LOAD  | Cost  | Properties |
@@ -102,6 +110,8 @@ These are mere categories.
 ---
 
 ## Gear
+![equipment](/lambda/images/equipment.jpg)
+
 Below is a list of commonly stocked gear in major cities.
 Villages will have some or none of these things for sale or trade.
 
@@ -128,6 +138,8 @@ Villages will have some or none of these things for sale or trade.
 Other gear is pretty common, but not worth much. Things like butter, buckets, sticks, rocks, fishing poles, that sort of thing.
 
 ## Animals
+![camel](/lambda/images/camel.jpg)
+
 ***Pack animals*** can carry LOAD for you.
 
 ***Mounts*** can carry heroes, increasing your overland travel speed.
@@ -150,7 +162,7 @@ Most animals consume supplies at the same rate as a hero.
 
 > Camels are very hardy creatures, and require very little water. Therefore, they require supplies only every other day.
 
-### Vehicles
+## Vehicles
 ***Cart*** | 20 GP
 > A cart can be pulled by two mules or a draft horse.
 > They give up their ability to carry load, but the cart can carry up to three heroes, their equipment, and 10 extra LOAD, or 40 LOAD without any heroes.
@@ -158,7 +170,7 @@ Most animals consume supplies at the same rate as a hero.
 > A cart cannot travel across rivers, streams, rocky terrain, desert, or swamps.
 > In fact, any traversal not on a given road is a risky proposition.
 
-### Services
+## Services
 ***Weapon Master*** | 
 > A swordsmith, fletcher, or other craftsman will repair, hone, or craft weapons for a fair price.
 

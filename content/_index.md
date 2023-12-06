@@ -2,6 +2,8 @@
 title: "Index"
 ---
 
+![peace](/lambda/images/peace.jpg)
+
 **Greetings!**
 
 This is the landing page for ***Lambda***, an RPG campaign by Alex Hartford.
@@ -16,3 +18,6 @@ This is the landing page for ***Lambda***, an RPG campaign by Alex Hartford.
 If anything confuses you, let me know.
 
 I look forward to our adventures together!
+
+![war](/lambda/images/war.jpg)
+

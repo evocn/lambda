@@ -73,7 +73,7 @@ The typical arc is 3 sessions.
 To begin, I propose we play through one arc, and proceed from there.
 
 ## My Style
-I tend to run fast and loose. <20 minute combats. I expect players to be pretty active during play. I dislike waiting for turns or otherwise.
+I tend to run fast and loose. Combats last less than 20 minutes. I expect players to be pretty active during play. The game should be nimble!
 
 I like to run a game in-person, without miniatures. I like to play with music.
 
@@ -101,6 +101,8 @@ I aim to avoid all matters which would keep a player from authentically particip
 
 I enjoy jokes, jests, and jibes, but I want my players to know that it's the exception, not the rule, at the table.
 We're here to tell a story! We can talk and hang out before and after the session.
+
+---
 
 ## Conclusion
 So that's the proposal.
