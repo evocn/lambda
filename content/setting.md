@@ -172,7 +172,7 @@ The people of the desert can be roughly divided into tribes along blood lines.
 To the knowledge of the green people, however, the desert folk's allegiances are strange and alien.
 
 
-### The Last War
+### The Last War of the Four Kingdoms
 Often in the years since the Four Kingdoms claimed the lands of green have they fought amongst eachother.
 
 Their wars are bloody, and are most often fought with cloak and dagger as well as sword.
@@ -206,14 +206,17 @@ Rarely, a prophet comes from the population who claims to have powers granted by
 But these tend to be grifters, not miracle men.
 
 #### The Three Gods of the Green Lands
-***Chanterelle*** | Goddess of Harvest
+***Chanterelle*** | Goddess of the sky
 > Worshipped by the people of Errol.
+> Said to bring the weather, and the days and the nights.
 
 ***Moradin*** | God of the Earth
 > An ancient God, worshipped by the Lankhmar.
+> Brings iron, stone, and everything dead.
 
 ***Torm*** | God of Courage
 > God of the Dominus. A warrior-god of new fashion.
+> Said to have created man.
 
 #### The God of the Desert People
 The Western folk know only one god, who goes by many names.
@@ -244,3 +247,41 @@ However, the Artifacts of old still exist, though many have been buried in ruins
 
 Some artifacts lie in the hands of Kings today, and it is from those weapons of great power that their sovereignty lies, along with their wealth and blood ties to older kings.
 
+### The Past
+This continent has been occupied by men for longer than any records could tell.
+
+The folk of the desert have a long history on this land, but other empires have risen and fallen alongside their tenure.
+
+The last of these great empires was known by its people as Myelar. It reigned over a golden age of a thousand years.
+The prosperity of these lands brought people to wealth, to peace, and to a culmination of culture and knowledge.
+
+Magic was strong back then, and they used it to build miraculous structures, towers which would last ten thousand years, and to forge artifacts, testaments to the skill of generations of craftspeople.
+Technology which was far ahead of its - and our - time.
+
+What caused the end of these golden days is little known.
+But when the Four Kingdoms arose in their place, beginning with raiders from the northern shore, the great wealth of Myelar - the Sunlight Domain - vanished.
+Now, only ruins remain.
+
+### Non-human species
+Humans come in many shapes and sizes. They come from many lands.
+
+But among them, and kept to the wilderness, are rumored to be various non-human creatures.
+
+The very people of Myelar, the ***Elves***, as they are known today, remain in incredibly small numbers.
+They are a pale, gaunt folk, sensitive to human diseases and to bleeding.
+However, it is said that every one is touched by divinity, and has the powers of magic within them.
+
+***Orcs*** and ***Goblins*** resemble humans in some ways, though none know the origin of these creatures.
+Some say they spawn from the earth itself. Others claim them to have been created by a magical mishap.
+Whatever the original cause, humans pay the price dearly. Orcs are the primary
+threat to the Four Kingdoms today, and Goblins threaten farmers and villages
+everywhere across the verdant lands.
+
+### The Far East
+What lies beyond the Eastern sea? The merchants of Richio claim it to be a
+strange place, inhabited by a proud people, who perform strange rites and war
+amongst themselves.
+
+It is known that the swords of this place are sharper than any known in the west.
+
+Not much else is known of this land.
