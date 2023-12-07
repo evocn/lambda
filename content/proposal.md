@@ -4,11 +4,13 @@ title: "Proposal"
 
 # Proposal
 
+## [Gameplay](#gameplay) | [Rules](#rules) | [Length](#length) | [My Style](#my-style) | [Tone and Setting](#tone-and-setting)
+
 An outline of what a player might expect in ***Lambda***.
 
 ---
 
-## Priorities
+# Priorities
 The game I propose is a game in which...
 > ***Decisions are more important than choices.***
 The utmost care is taken to strip away everything which does not lead to some interesting consequence or implication.
@@ -33,7 +35,7 @@ What matters most is that when you come to my table, you are locked in, and lase
 
 ---
 
-## Gameplay
+# Gameplay
 The game I'm interested in running involves three pillars of play: ***Exploration***, ***Combat***, and ***Social Interaction***.
 
 The main essence of ***Exploration*** involves the mystery of an unknown world, and the promise of discovery.
@@ -55,24 +57,24 @@ The main essence of ***Social Interaction*** is the natural dynamics of human re
 
 ---
 
-## Rules
+# Rules
 The game will use my custom system, ***Rubicon***, whose rules are found [here](/lambda/rules/).
 
 ***Notes on the rules***
-* The system has no explicit progression built in. Instead, progression is made clear through the world and the choices a character makes.
+* The system has no defined progression built in. Instead, progression is tied to goals.
 * I use a flattened version of ability cooldowns called Skill Points (SP). Everyone has them, and they govern a character's ability to perform heroic feats like spells and special abilities.
 * Encumberance is a pretty key aspect of the system. The game cares about load, travel time, and the like.
 * The system is built around choice and tradeoff. Dump stats have consequences.
 * There are only a few character archetypes at the outset. I tend to stick to the core archetypes: Fighter, Thief, Wizard, Cleric, Leader.
 You will note, however, that within each are options which create specialization, and more will arise as the game is played.
 
-## Length
+# Length
 The game I run tends towards discrete chunks, which I call ***arcs.***
 The typical arc is 3 sessions.
 
 To begin, I propose we play through one arc, and proceed from there.
 
-## My Style
+# My Style
 I tend to run fast and loose. Combats last less than 20 minutes. I expect players to be pretty active during play. The game should be nimble!
 
 I like to run a game in-person, without miniatures. I like to play with music.
@@ -83,7 +85,7 @@ If a player comes up with a plan that seems very likely to succeed, I tend to no
 My system is based on negotiation. Few actions have defined modifiers, but when you make a check, 
 you make me a case as to which modifiers should apply.
 
-## Tone and Setting
+# Tone and Setting
 I want to run swords and sorcery fantasy, with the cinematic feel that epics tend to conjure up.
 I want magic to be rare and mysterious. I want there to be unknown ruins in the untrodden wilderness holding untold secrets.
 
@@ -101,12 +103,3 @@ I aim to avoid all matters which would keep a player from authentically particip
 
 I enjoy jokes, jests, and jibes, but I want my players to know that it's the exception, not the rule, at the table.
 We're here to tell a story! We can talk and hang out before and after the session.
-
----
-
-## Conclusion
-So that's the proposal.
-
-If it sounds like the kind of game you would like to play, then let me know and we'll move forward with character creation!
-
-Otherwise, no worries! Life is too short to play games we won't enjoy. Thanks for your time, and I wish you well.

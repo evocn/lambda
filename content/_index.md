@@ -2,22 +2,16 @@
 title: "Index"
 ---
 
-![peace](/lambda/images/peace.jpg)
+# *Lambda*, an RPG Campaign
+***Alex Hartford*** | ***Winter 2024***
 
-**Greetings!**
+If I sent you this, you'll want to read the [Proposal](/lambda/proposal/).
 
-This is the landing page for ***Lambda***, an RPG campaign by Alex Hartford.
+You'll also probably want to read the first few paragraphs of the [Setting](/lambda/setting/).
 
-> If you got here from my main page, you can go back there with this [link](/).
-
-> If this is your first time here, the [Proposal](/lambda/proposal/) is where you'll want to go.
-
-> If you're confused about how the game works, here's the [Core Rules](/lambda/rules/).
-> There are also rules for [Character Archetypes](/lambda/archetypes/) and [Equipment](/lambda/equipment/).
-
-If anything confuses you, let me know.
+And for all the nitty gritty, here's the [Core Rules](/lambda/rules/).
+There are also rules for subsystems above.
 
 I look forward to our adventures together!
 
-![war](/lambda/images/war.jpg)
-
+![lambda](/lambda/images/lambda.jpg)

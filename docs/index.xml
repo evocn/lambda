@@ -23,8 +23,7 @@ Gemstones set in swords of high birth.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/lambda/archetypes/</guid>
-      <description>Archetypes There are five archetypes: Thief, Fighter, Leader, Wizard, and Magi.
-Below is a description of the traits and abilities of each.
+      <description>Archetypes Thief | Fighter | Leader | Wizard | Magi Below is a description of the traits and abilities of the five archetypes.
 Thief An individual with particular skills.
 A thief&amp;rsquo;s past is usually best forgotten, marred with mistakes or regrets. When creating your Thief, think about who they were before today.
 Also note that while many are in it for the money, not every thief has the same ambitions. Some just wish to escape the squalor of the hand life has dealt to them.</description>
@@ -37,10 +36,12 @@ Also note that while many are in it for the money, not every thief has the same 
       
       <guid>http://alexhartford.org/lambda/equipment/</guid>
       <description>Equipment Arms and Armor for Lambda.
-Currency Trade in this setting typically involves the various forms of coin.
-In the Four Kingdoms, the standard coin is the Golden Mark.
-The most common coin in the Grey Wastes is the Silver Dirham. Also traded is the more valuable Golden Dinar. The Dinar is a smaller coin than the Dirham, but is heavier.
-As a reference point, most people will trade 10:1 between Silver Dirham and Golden Dinar.</description>
+Weapons | Armor | Gear | Miscellaneous
+Weapons Below is the list of basic weapons.
+The weapons are grouped into categories based on relative price.
+Peasant&amp;rsquo;s weapons | ~d4 damage | 1-5 GP | Common items, used by poor folk.
+Simple weapons | ~d6 damage | 5-20 GP | Weapons that once saw a smith.
+Martial weapons | ~d8 damage | 20-50 GP | Weapons forged for the waging of war.</description>
     </item>
     
     <item>
@@ -49,17 +50,11 @@ As a reference point, most people will trade 10:1 between Silver Dirham and Gold
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/lambda/generation/</guid>
-      <description>Generating Characters Below is an outline of how to generate characters for Lambda.
-Allocate your attributes.
-Choose one of the following distributions. You allocate those six numbers among your hero&amp;rsquo;s attributes.
-2, 2, 2, 2, 0, 0
-4, 2, 1, 0, 0, 0
-5, 3, 1, 0, -1, -3
-6, 2, 0, -1, -1, -3
-Choose an archetype.
-Familiarize yourself with your new abilities and skills.
-Select your equipment.
-Choose a peasant&amp;rsquo;s weapon.</description>
+      <description>Generating Heroes Below is an outline of how to generate heroes for Lambda.
+Allocate your attributes. Choose one of the following distributions. You allocate those six numbers among your hero&amp;rsquo;s attributes.
+Typical =&amp;gt; 5 | 3 | 1 | 0 | -1 | -3
+Balanced =&amp;gt; 3 | 2 | 2 | 1 | -1 | -2
+Specialist =&amp;gt; 7 | 1 | 0 | -1 | -3 | -3</description>
     </item>
     
     <item>
@@ -68,10 +63,10 @@ Choose a peasant&amp;rsquo;s weapon.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/lambda/proposal/</guid>
-      <description>Proposal An outline of what a player might expect in Lambda.
+      <description>Proposal Gameplay | Rules | Length | My Style | Tone and Setting An outline of what a player might expect in Lambda.
 Priorities The game I propose is a game in which&amp;hellip;
 Decisions are more important than choices. The utmost care is taken to strip away everything which does not lead to some interesting consequence or implication.
-Heroes&amp;rsquo; true character is revealed. I tend to focus on choices which impact who a character is, and what they believe in. I draw heavy inspiration from film.</description>
+Heroes&amp;rsquo; true character is revealed. I tend to focus on choices which impact who a character is, and what they believe in.</description>
     </item>
     
     <item>
@@ -80,21 +75,20 @@ Heroes&amp;rsquo; true character is revealed. I tend to focus on choices which i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/lambda/rules/</guid>
-      <description>Rubicon The Rules System for Lambda.
+      <description>Rubicon Basics | Heroes | Combat | Equipment The Rules System for Lambda.
 Priorities Rubicon is a system which is&amp;hellip;
 Honest. Specialized heroes. Glaring weaknesses. Dump stats matter. Progression is specific. It is earned, not expected. Character death is possible, and in many circumstances probable.
-Rules-light. Tight, simple core mechanic. Keep dice-rolling to a minimum. Rulings, not rules. Small numbers with big consequences. Simple, to allow for endless customization as a game progresses.
-Focused on character specialization. Heroes play a specific role.</description>
+Rules-light. Tight, simple core mechanic. Keep dice-rolling to a minimum. Rulings, not rules. Small numbers with big consequences. Simple, to allow for endless customization as a game progresses.</description>
     </item>
     
     <item>
-      <title>Setting</title>
+      <title>The Setting</title>
       <link>http://alexhartford.org/lambda/setting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/lambda/setting/</guid>
-      <description>Setting This document outlines, in broad strokes, the setting that Lambda takes place in.
-The State of the World The Precipice is the name given to the strip of wilderness between the lands of the Four Kingdoms to the East, and the Free Cities to the West.
+      <description>The Setting The World | The Local Area | Reference This document outlines, in broad strokes, the setting that Lambda takes place in.
+The World The Precipice is the name given to the strip of wilderness between the lands of the Four Kingdoms to the East, and the Free Cities to the West.
 This is where our game takes place.
 The Four Kingdoms lie on the green lands, where harvests are plentiful and nature&amp;rsquo;s bounty provides for the masses.</description>
     </item>

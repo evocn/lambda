@@ -3,6 +3,8 @@ title: "Rules"
 ---
 
 # Rubicon
+## [Basics](#basics) | [Heroes](#heroes) | [Combat](#combat) | [Equipment](#equipment)
+
 The Rules System for ***Lambda***.
 
 ---
@@ -27,107 +29,107 @@ Party relationships and synergy matter.
 Heroes have glaring weaknesses, which they must bolster somehow.
 Combat focused on limited resources, Risk-taking, and craftiness.
 
-The game assumes a low-fantasy setting.
-* Fighters wield swords, axes, and longbows, and wear armor into battle.
-* Thieves have skills which are useful in infiltrating dungeons and gathering information.
-* Wizards exist, though are very rare, and use their knowledge of the natural world to shape it with spells.
-* Magi are beings with some innate power, typically touched by divinity or naturally acquired otherwise.
-* Leaders bring men into battle with eachother, using tactics to their advantage.
-
-Another set of assumptions comes in the rules of the game:
-* Death is close to permanent.
-* Transportation of goods and adventurers is difficult.
-* Progression is based on exploration, not killing monsters.
-* Equipment is valuable, even the plain sword which your character wields.
-  the Dungeon Master must work to provide progression in the form of weapons and tools for use in adventuring.
+The game aims at a ***Heroic, Low-Fantasy*** setting.
+Fighters wield swords, axes, and longbows, and wear armor into battle.
+Magic, a relic of the past, still exists in the artifacts of old and the rare individual touched by a special gift.
+Death is close to permanent.
+Transportation of goods and adventurers is difficult.
+Equipment is valuable, even the plain sword which your character wields.
 
 ---
 
-# The Basics
+# Basics
+The game is adjudicated using the ***d20***.
 
-![combat](/lambda/images/combat.jpg)
+All modifiers to checks are based on ***Negotiation***. A player makes their case to the Dungeon Master which modifiers should be added to a particular check.
 
-***The Core Mechanic*** | 
-The game is adjudicated using the D20.
+***Advantage*** and ***Disadvantage*** are used as a basic way to augment checks based on circumstances.
 
-All modifiers to checks are based on negotiation. A player makes their case to the Dungeon Master which modifiers should be added to a particular check.
+Heroes can move up to their ***Speed*** on their turn.
 
-Advantage and Disadvantage are used as a basic way to augment checks.
+***Health*** govern a hero's life force and their ability to go on.
 
-***Movement*** | 
-Heroes can move up to their Movement (MOV) on their turn.
+***Skill*** govern a hero's ability to perform superhuman feats.
 
-***Hit Points*** |
-Hit Points (HP) govern a hero's life force and their ability to go on.
+***Armor*** governs how difficult it is to land a solid blow.
 
-***Skill Points*** |
-Skill Points (SP) govern a hero's ability to perform superhuman feats.
-
-***Armor*** |
-Armor Class (AC) governs how difficult it is to land a solid blow.
-
-***Attributes*** |
-Attributes are plain modifiers governing a hero's ability to do things.
-
-For instance, attacking with a sword is probably governed by STR. Charming a lord is probably governed by CHA.
-
+***Attributes*** are plain numbers governing a hero's ability to do things.
 A hero can have a score from -10 to 10 in any attribute.
+There are 6 attributes: ***Strength***, ***Dexterity***, ***Constitution***, ***Intelligence***, ***Wisdom***, and ***Charisma***.
 
-* ***Strength*** | Combat, Encumberance.
-
-* ***Dexterity*** | Thievery, Speed, Agility with your hands or body.
-
-* ***Constitution*** | Health, Endurance.
-
-* ***Intelligence*** | Analysis, History, Medicine, Mathematics, Physics, Astronomy...
-
-* ***Wisdom*** | Perception, Insight, Matters of the heart.
-
-* ***Charisma*** | Leadership, Motivation, Manipulation.
-
-***Archetype*** | 
-A archetype is a specialization of a character's role. Each player character has one archetype.
-
-***Zone*** |
-A Zone is just a circular area centered around a point with a radius of 15 feet. It's a simple way to refer to areas in-game.
+An ***Archetype*** is a specialization of a character's role. Each player character has one archetype.
 
 ---
 
 # Combat
 Combat begins when two parties would try to adjudicate against eachother.
 
-***Initiative*** |
+![combat](/lambda/images/combat.jpg)
+
+The game has no concept of rolling ***Initiative***.
 Who goes first is determined by the circumstance. Usually the heroes act first.
 Heroes act in order around the table. They may seat themselves accordingly at the start of each turn. This process must not require DM intervention.
 
-***On Your Turn*** |
-A hero can move and act, in any order.
+***On Your Turn***, a hero can move and act, in any order.
 A hero can use Quick Actions at any time during their turn, or in response to events which apply to that action.
 
-***Attacking*** |
-A hero attacking with a weapon makes a roll against the victim's armor class, adding the weapon's governing modifier to the roll.
+## Actions
+A hero ***Attacking*** makes a roll against the victim's armor class, adding their weapon's governing modifier to the roll.
 On a hit, they roll a damage die based on the weapon.
 
-***Critical Hit!***
-A hero who rolls a natural 20 to hit deals the maximum possible damage on the attack, given all modifiers.
-Dungeon Master-controlled characters do not earn Critical Hits. They are encouraged to provide challenge in other, less variable ways.
+A hero can forgo their actions on a turn to try to ***Dodge*** incoming attacks, imposing disadvantage on them.
 
-***Reactions*** |
-Some circumstances involve reactions. There are no restrictions on reactions, and a hero can take as many in a row as is necessary or applicable.
+A hero can try to ***Shove*** an enemy, making an attack roll with their Strength attribute. On a hit, they push their target up to 5 feet.
 
-***Dodge*** |
-A hero can forgo their actions on a turn to try to dodge incoming attacks, imposing disadvantage on them.
+A hero can move up to their speedE as an action on their turn.
 
-***Use Item*** |
-Items define their use times, but most can be used as a Quick Action. 
+A hero can try to ***Grapple*** with an enemy, holding them in place. To do so, they
+must have a free hand. They roll an attack roll against an enemy using their
+Strength attribute, and on a hit, they have grappled the enemy.
+The enemy cannot move, and tries to escape at the end of their turn.
 
-*Editor's Note* |
-This game has no concept of "Flanking", "Opportunity Attacks", or "Hiding" in combat. These sorts of things either don't exist, or are adjudicated given specific scenarios.
+## Other things that might happen
+***Difficult Terrain*** costs twice as much movement to cover.
+
+Some circumstances involve ***Quick Actions***. There are no restrictions on Quick Actions, and a hero can take as many in a row as is necessary or applicable.
+
+You can ***Stow***, ***Equip***, or ***Use*** an item as a quick action on your turn once. More than one item in a turn requires an action.
+
+A hero who rolls a natural 20 to hit with an attack deals a ***Critical Hit!*** They deal the maximum possible damage on the attack, given all modifiers.
+
+A ***Zone*** is just a circular area centered around a point with a radius of 15 feet. It's a simple way to refer to areas in-game.
+
+A creature in ***Cover*** cannot be targeted by a ranged attack.
+
+All attacks against a creature who is ***Prone*** have advantage. A creature must spend half their speed to get up from being prone.
+
+This game has no concept of "Flanking", "Opportunity Attacks", "Partial Cover", or "Hiding" in combat.
+These sorts of things either don't exist in the game, or are adjudicated given specific scenarios.
 
 ---
 
-# Death and Injury
-A hero reduced below 1 HP is incapacitated.
+# Heroes
+Hero archetypes are outlined on [this page](/lambda/archetypes).
+
+![sage](/lambda/images/sage.jpg)
+
+## Progression
+Progression usually comes in the form of items, artifacts, and blessings.
+
+Often, it will be clear to a hero how they may progress, whether it be through the acquisition of a storied weapon,
+their God's blessing, the study of ancient texts in battle tactics, or the acquisition of wealth through subterranean expedition.
+
+The Dungeon Master will provide a clear indication of what is required for a hero to progress.
+
+Here are some examples of progression in this system, as it is a confusing concept at first.
+* A Fighter saves their coins until they can purchase a suit of Chain Mail, cementing their ability to defend their friends.
+* A Magi seeks the ruined temple to their deity. With the help of their friends, they successfully make the pilgrimage, for which their God rewards them with a new power.
+* A Wizard finds a dusty tome in the basement of an old northern keep, where once the spells of darkness were practiced. They have the option before them to study dark magic.
+* A Thief successfully infiltrates a refined party, pushing their limits and learning some new tricks in the process.
+* A Leader guides his party through a series of military conflicts, hardening their skills in the process. They gain a new ability after some much-needed rest.
+
+## Death
+A hero reduced below 1 Health is incapacitated.
 
 They may be stabilized by another hero who takes their action to do so.
 
@@ -136,7 +138,7 @@ If not stabilized within 1 minute, they die.
 A hero who is stabilized does not return to battle, and regains consciousness after an hour.
 
 ## Injury
-If stabilized, a hero returns to 1 HP, but must roll on the injury table.
+If stabilized, a hero returns to 1 Health, but must roll on the injury table.
 Additionally, all injuries come with some mental or physical mark for a hero to carry with them the rest of their days.
 
 | (d4)| Effect |
@@ -145,50 +147,46 @@ Additionally, all injuries come with some mental or physical mark for a hero to 
 | 3   | Your weapon or armor (d2) is broken and must be repaired. |
 | 4   | All checks have disadvantage until the next rest. |
 
----
-
-# Rest
-In order to regain spent HP and SP, as well as heal particular status ailments, heroes must rest.
+## Recovery
+In order to regain spent Health and Skill, as well as heal particular status ailments, heroes must rest.
 In order to rest, the party must have adequate food and water.
 
-For each night of rest in a comfortable place,  a hero regains all their HP and SP.
+For each night of rest in a comfortable place,  a hero regains all their Health and Skill.
 
-For each night of rest while camping somewhere, a hero regains half their HP and SP.
-
----
-
-# Progression
-Progression usually comes in the form of items, artifacts, and blessings.
-
-Often, it will be clear to a hero how they may progress, whether it be through the acquisition of a storied weapon,
-their God's blessing, the study of ancient texts in battle tactics, or the acquisition of wealth through subterranean expedition.
-If it is not clear to the player, they must consult with the Dungeon Master, to clarify what their progression might look like.
-
-Here are some examples of progression in this system, as it is a confusing concept at first.
-* A Fighter saves their coins until they can purchase a suit of Chain Mail, cementing their ability to defend their friends.
-* A Magi seeks the ruined temple to their deity. With the help of their friends, they successfully make the pilgrimage, for which their God rewards them with a new power.
-* A Wizard finds a dusty tome in the basement of an old northern keep, where once the spells of darkness were practiced. They have the option before them to study dark magic.
-* A Thief successfully infiltrates a humongous party, pushing their limits and learning some new tricks in the process.
-* A Leader guides his party through a series of military conflicts, hardening their skills in the process.
-
-These progressions occur in downtime, and are ad hoc based on the circumstances.
+For each night of rest while camping somewhere, a hero regains half their Health and Skill.
 
 ---
 
 # Equipment
-***Encumberance*** |
-All equipment weighs a hero down. The amount of LOAD a hero can carry is governed by their STR.
-A hero who is overencumbered cannot fight, and their movement speed is halved, especially when travelling long distances.
+The equipment of the game is outlined on [this page](/lambda/equipment/).
+
+Trade in this setting typically involves the various forms of ***Currency***.
+
+In the Four Kingdoms, the standard coin is the Golden Mark.
+
+The most common coin in the Grey Wastes is the Silver Dirham. Also traded is the more valuable Golden Dinar.
+The Dinar is a smaller coin than the Dirham, but is heavier.
+
+As a reference point, most people will trade 10:1 between Silver Dirham and Golden Dinar.
+Between the Four Kingdoms and the Grey Wastes, the Golden Mark usually trades one-to-one for the Dinar, but not all merchants will accept this.
+The two coins have nearly the same weight, however.
+
+These coins are forged in the great cities, and circulate through many realms.
+There are various other forms of coin, which have regional popularity, and will only be traded by certain folk.
+
+Any listed price of an item in this reference is for a common form of the item in a populated area.
+Note that buying used weaponry can be cheaper, but weapons purchased secondhand can be unreliable, and might need honing at a smithy.
+Note also that these prices are typical in populated areas, but in small hovels, a weapon may be considered far more or less valuable, depending on if the seller knows the item's worth.
+
+All equipment ***Encumbers*** a hero. The amount of Load a hero can carry is governed by their Strength.
+A hero who is overencumbered cannot fight, and their Speed is halved, especially when travelling long distances.
 A party might hire pack animals to carry a heavy load, or travel lighter than they might otherwise.
 
-***Pack Animals*** |
-Horses, Mules, and the like can carry equipment long distances, either to bring tools to a dungeon, or to bring loot back home.
+***Pack Animals*** like
+horses and mules can carry equipment long distances - either to bring tools to a dungeon, or to bring loot back home.
 
-***Repairs*** |
-Weapons and armor which are damaged cannot be used, and must be repaired by a professional with tools.
+Weapons and armor which are damaged cannot be used, and must be ***Repaired*** by a professional with tools.
 
-***Foraging*** |
-A character skilled in foraging can make a check to find food and water once per day.
-Unskilled characters can make the check as well, but are rarely successful, and often exhaust themselves in the process.
+A character skilled in ***Foraging*** can make a check to find food and water once per day.
 
 ---

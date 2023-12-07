@@ -1,14 +1,18 @@
 ---
-title: "Setting"
+title: "The Setting"
 ---
 
-# Setting
+# The Setting
+## [The World](#the-world) | [The Local Area](#the-local-area) | [Reference](#reference)
+
 This document outlines, in broad strokes, the setting that ***Lambda*** takes place in.
 
 ---
 
-## The State of the World
+# The World
 ***The Precipice*** is the name given to the strip of wilderness between the lands of the Four Kingdoms to the East, and the Free Cities to the West.
+
+![the precipice](/lambda/images/the_precipice.jpg)
 
 This is where our game takes place.
 
@@ -39,7 +43,18 @@ Strange plots are rumored in the court of the emperor, and the Kings prepare for
 But for a local peasant, or a merchant, or a craftsman, the affairs of these lords hold little sway.
 The world is as it always has been - hard, expensive, and dangerous.
 
-## The Local Area
+---
+
+# The Local Area
+
+**[Khmer](#khmer)** | 
+**[Hamun's Wood](#hamuns-wood)** | 
+**[Emory](#the-city-of-emory)** | 
+**[Maegor's Hills](#maegors-hills)** | 
+**[Farwatch](#farwatch)** | 
+**[Dragon's Range](#dragons-range)** | 
+**[The Gray Wastes](#the-gray-wastes)**
+
 The game begins in The Precipice, in a small farmer's hamlet called ***Khmer***.
 
 A day's ride to the East is the City of ***Emory***, a stop on the road to the Hold of Errol.
@@ -50,7 +65,7 @@ To the south is a forest the locals call ***Hamun's Wood***. To the north, a mou
 
 And finally, if a traveller sets out due West from Khmer, and crosses the hills of the ***Dragon's Range***, they will emerge in the great sea of sand - ***The Gray Wastes***.
 
-### Khmer
+## Khmer
 Khmer is a collection of farms and mills, with a couple of businesses at its center. Its population sits around 150.
 
 It is located on the southern bank of a great lake, in the shadow of Maegor's Peak.
@@ -76,7 +91,7 @@ At the hamlet's square stands a few businesses.
   On the off-chance a merchant comes to town, there are rooms here for lodging.
 * A tavern, where folk gather to enjoy the company of others, along with a warm meal and a cup of ale.
 
-### Hamun's Wood
+## Hamun's Wood
 Hamun was a sage of the aboriginal people of this land long ago.
 
 The forest to the south of Khmer is a quiet place, with a variety of flora and fauna.
@@ -88,7 +103,7 @@ They survive by foraging and hunting, and mostly keep to themselves.
 They are known on occasion to ransack a remote farmhouse, and to kidnap humans for sacrifice or labor.
 In recent years, they seem to have grown bolder. There have been two incidents in the last year alone.
 
-### The City of Emory
+## The City of Emory
 Emory is the largest city West of Errol Keep. Its population numbers around a thousand.
 
 Its primary industry is trade. Emory is often where caravans from the desert exchange wares with the merchants of Errol, and where each turns back to return to their own lands.
@@ -108,14 +123,14 @@ For that reason, Emory is home to many thieves and grifters.
 a dozen miles to the south of Emory lies the ruins of the Old Town, which was abandoned due to climate change a century ago.
 It, and the surrounding lands to the south, are barren, rocky, hot, and dry, and continue to degrade over the years.
 
-### Maegor's Hills
+## Maegor's Hills
 Named for Lord Maegor, who once built a fort atop Maegor Peak here, these hills loom over Khmer lake and all the valley of the precipice.
 
 The range is a cold, bleak place, and travel through it is difficult.
 
 Few creatures live here, save for buzzards and bees.
 
-### Farwatch
+## Farwatch
 Farwatch is a hold at the edge of the desert.
 
 It hosts 50 soldiers of Errol, alongside a population of families and craftsmen to support them.
@@ -126,21 +141,34 @@ You can buy a decent weapon here, as well as various common supplies for the jou
 The hold has earned the title Wind-Hold by those who travel through here, as the desert winds whip against the walls of the Western bank, making a characteristic noise all throughout your stay here.
 
 
-### Dragon's Range
+## Dragon's Range
 A range of mountains between the green lands and the grey wastes.
 
 The Dragon's Range is apparently so called because it was once home to a great Blue Dragon, in the ages long past when such creatures commanded the landscape.
 
 But the Dragons are dead, and this range of hills is nothing but stone and earth now.
 
-### The Gray Wastes
-The great Western desert stretches in all directions, beyond the horizon.
+## The Gray Wastes
+The great Western desert stretches as far as the eye can see.
 
-There is apparently a city less than a week's ride from Farwatch, though there is no clear road, and navigation in the desert is nigh impossible without a guide.
+There is apparently a city in the desert, less than a week's ride from Farwatch, though there is no clear road, and navigation in the desert is nigh impossible without a guide.
 
 ---
 
-## Reference
+# Reference
+**[The Four Kingdoms](#the-four-kingdoms)**
+|
+**[The Desert](#the-desert)**
+|
+**[Gods](#gods)**
+|
+**[Magic](#magic)**
+|
+**[The Past](#the-past)**
+|
+**[Non-humans](#non-humans)**
+|
+**[The Far East](#the-far-east)**
 
 Below are details which people in the green lands might know.
 
@@ -148,29 +176,37 @@ Peasants might only know rumors or gossip about these things, but a lord or a me
 
 They are unlikely to be relevant to a character in your circumstances at the start of the game, but might serve as a good reference for later on.
 
-### The Four Kingdoms
-***Errol*** is the House which commands the West.
+## The Four Kingdoms
+### Errol
+![errol](/lambda/images/keep_errol.jpg)
+
+Errol is the House which commands the West.
 Their lands are primarily agricultural.
 The people are peaceful here, and for many years have prospered.
 
-***Lankhmar*** is the House which commands the North.
+### Lankhmar
+![lankhmar](/lambda/images/keep_lankhmar.jpg)
+
+Lankhmar commands the North.
 The great northern mountain ranges hold riches, which are harvested in the multitude mines of the Lankhmar Kingdom.
 A mining folk, the people of this northern kingdom are hardened by the cold winters and grueling labor.
 
-***Richio*** is the House which commands the East.
-The East is a merchant's land. A thin strip along the sea is the holdings of the Kingdom of Richio.
+### Marconi
+![marconi](/lambda/images/keep_marconi.jpg)
+
+Marconi is the House which commands the East.
+The East is a merchant's land. A thin strip along the sea is the holdings of the Kingdom of Marconi.
 Their sea-faring ways make them the primary source of export and import, and they trade with strange lands to the East of the continent.
 
-***Dominus*** is the House of the central green lands, and currently holds the honor of the Emperor of the Four Kingdoms.
+### Reuss
+![Reuss](/lambda/images/keep_reuss.jpg)
+
+***Reuss*** is the House of the central green lands, and currently holds the honor of the Emperor of the Four Kingdoms.
 They are a nexus for the other three kingdoms, and leaders of culture, religion, and politics are born from their multitude bloodlines.
 
 The capitol of the Empire is the city of King's Rock on the Southern shore.
 
-### The Desert Folk
-The people of the desert can be roughly divided into tribes along blood lines.
-
-To the knowledge of the green people, however, the desert folk's allegiances are strange and alien.
-
+---
 
 ### The Last War of the Four Kingdoms
 Often in the years since the Four Kingdoms claimed the lands of green have they fought amongst eachother.
@@ -181,18 +217,36 @@ Near five decades ago, the Four Kingdoms fought once again amongst themselves.
 The Emperor of the time hailed from the House of Errol, having held the great throne for a century prior.
 But this age was a time fraught with political discord and plots.
 
-The belligerent house was that of Richio, who commanded a host of sellswords gathered from Eastern lands.
-They laid siege on King's Rock, while simultaneously forming an alliance with the Dominus.
+The belligerent house was that of Marconi, who commanded a host of sellswords gathered from Eastern lands.
+They laid siege on King's Rock, while simultaneously forming an alliance with the Reuss.
 
-The Dominus host rode from the North, and King's Rock was cut off from Errol Keep to the West.
+The Reuss host rode from the North, and King's Rock was cut off from Errol Keep to the West.
 
 The Emperor and his retinue fled the castle, returning home to Errol Keep.
-The House of Errol, however, betrayed their master emperor, and bent the knee to the new lord of the land, the Dominus.
+The House of Errol, however, betrayed their master emperor, and bent the knee to the new lord of the land, the Reuss.
 
-The Richio formed ties of blood between their family and that of the Dominus, and pledged their loyalty as well.
+The Marconi formed ties of blood between their family and that of the Reuss, and pledged their loyalty as well.
 
 For many years and three emperors has the dynasty reigned in King's Rock, in an era of military peace.
-### Gods
+
+---
+
+## The Desert
+
+![nafud](/lambda/images/keep_nafud.jpg)
+
+To the west is a vast desert, an ocean of sand.
+
+The people of the desert can be roughly divided into tribes along blood lines.
+
+Those of the West tend to refer to them as the Desert Folk, or as the Nafud.
+
+To the knowledge of the green people, however, the desert folk's allegiances are strange and alien.
+
+---
+
+
+## Gods
 Gods are worshipped in the Four Kingdoms and the Grey Wastes alike.
 
 Folk make offerings and say prayers to the heavens, hoping for good fortune.
@@ -205,7 +259,7 @@ But now, the Gods seem to hold little sway over the physical world, and few folk
 Rarely, a prophet comes from the population who claims to have powers granted by the Gods.
 But these tend to be grifters, not miracle men.
 
-#### The Three Gods of the Green Lands
+### The Three Gods of the Green Lands
 ***Chanterelle*** | Goddess of the sky
 > Worshipped by the people of Errol.
 > Said to bring the weather, and the days and the nights.
@@ -215,18 +269,20 @@ But these tend to be grifters, not miracle men.
 > Brings iron, stone, and everything dead.
 
 ***Torm*** | God of Courage
-> God of the Dominus. A warrior-god of new fashion.
+> God of the Reuss. A warrior-god of new fashion.
 > Said to have created man.
 
-#### The God of the Desert People
+### The God of the Desert People
 The Western folk know only one god, who goes by many names.
 
 They call it the Lightgiver, the Lord, the Sun-King, the Great Mother.
 
 Many tribes hold holy different prophets and leaders of the past, but all pray to the same heavenly authority.
 
-### Magic
-Magic is a key part of this world.
+---
+
+## Magic
+Magic, while rare today, is an important part of the history of this world.
 
 It is known that masters of the natural world exist, whose powers of knowledge and esoteric lore allow them to shape the world as they please.
 
@@ -247,7 +303,9 @@ However, the Artifacts of old still exist, though many have been buried in ruins
 
 Some artifacts lie in the hands of Kings today, and it is from those weapons of great power that their sovereignty lies, along with their wealth and blood ties to older kings.
 
-### The Past
+---
+
+## The Past
 This continent has been occupied by men for longer than any records could tell.
 
 The folk of the desert have a long history on this land, but other empires have risen and fallen alongside their tenure.
@@ -262,7 +320,9 @@ What caused the end of these golden days is little known.
 But when the Four Kingdoms arose in their place, beginning with raiders from the northern shore, the great wealth of Myelar - the Sunlight Domain - vanished.
 Now, only ruins remain.
 
-### Non-human species
+---
+
+## Non-humans
 Humans come in many shapes and sizes. They come from many lands.
 
 But among them, and kept to the wilderness, are rumored to be various non-human creatures.
@@ -277,11 +337,15 @@ Whatever the original cause, humans pay the price dearly. Orcs are the primary
 threat to the Four Kingdoms today, and Goblins threaten farmers and villages
 everywhere across the verdant lands.
 
-### The Far East
-What lies beyond the Eastern sea? The merchants of Richio claim it to be a
+---
+
+## The Far East
+What lies beyond the Eastern sea? The merchants of Marconi claim it to be a
 strange place, inhabited by a proud people, who perform strange rites and war
 amongst themselves.
 
 It is known that the swords of this place are sharper than any known in the west.
 
-Not much else is known of this land.
+Very little else is known of this land.
+
+---
