@@ -3,12 +3,9 @@ title: "Equipment"
 ---
 
 # Equipment
-Arms and Armor for ***Lambda***.
+## [Weapons](#weapons) | [Armor](#armor) | [Gear](#gear) | [Miscellaneous](#miscellaneous-goods)
 
-[Weapons](#weapons) |
-[Armor](#armor) |
-[Gear](#gear) |
-[Miscellaneous](#miscellaneous-goods)
+Arms and Armor for ***Lambda***.
 
 ---
 
@@ -74,13 +71,13 @@ Below is the list of basic armors.
 | Armor     | AC            | Load  | Cost  | Properties |
 | --------- |:-------------:|:-----:|:-----:|:----------:|
 | None      | 10+Dexterity/2  | 0     | Free  | |
-| Light     | 11+Dexterity/3  | 2     | 30 GP | |
+| Light     | 12+Dexterity/3  | 2     | 30 GP | |
 | Medium    | 14+Dexterity/4  | 3     | 50 GP | |
 | Heavy     | 16            | 4     | 200 GP | Disadvantage on stealth and acrobatics. -10 Speed. |
 | | | | | |
 | Buckler   | +1 AC         | 1     | 5 GP  | Takes up a free hand. |
 | Shield    | +2 AC         | 1     | 25 GP | Takes up a free hand. |
-| Helm      | +1 AC         | 1     | 25 GP | Disadvantage on perception. |
+| Helm      | +1 AC         | 1     | 15 GP | Disadvantage on perception. |
 
 Note that more specialized armors exist, for scenarios like wilderness travel and cold / heat resistance.
 These are mere categories.
@@ -107,7 +104,7 @@ Villages will have some or none of these things for sale or trade.
 | Grappling Hook| 10 GP | 1     | |
 | 6-foot Ladder | 1 GP  | 2     | |
 | 10-foot Pole  | 1 GP  | 1     | |
-| Whistle       | 5 SP  | 0     | |
+| Whistle       | 2 SP  | 0     | |
 | Dice          | 1 GP  | 0     | |
 |||||
 | Smith's Tools | 5 GP  | 1     | Repair or sharpen a dull blade. Single Use. |

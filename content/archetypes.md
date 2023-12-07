@@ -29,7 +29,7 @@ You gain advantage on stealth, and can move silently even at full speed.
 ### Skills
 You are trained in some particular arts of thievery, whether it be espionage or assassination.
 
-> Choose 4 of the following abilities:
+> Choose 3 of the following abilities:
 
 ***Thiefcraft*** | 
 Advantage to detect traps, pick locks, pick pockets.
@@ -72,9 +72,9 @@ Fighters come in many forms, but all live by the sword, and die by it.
 > How many fights have they been in? If it is a great many, who have they lost?
 > Also, consider what their end goal is. No one can fight forever.
 
-***Important stats: Strength, Dexterity, CON*** | ***Base Health: 14***
+***Important stats: Strength, Dexterity, Constitution*** | ***Base Health: 14***
 
-### Trained
+### Training
 You have some form of training in combat.
 When you hit with an attack, you deal extra damage equal to half the weapon's governing attribute.
 For instance, if your Dexterity is 5, and you hit with your dagger (1d4 damage), you deal 1d4+2 damage.
@@ -132,27 +132,6 @@ You gain the abilities outlined in its description.
 > ***Crucial Strike*** | 1 Skill | Quick |
 > Declare an attack as crucial. If you hit with it, the target has disadvantage on attacks and abilities until the end of their next turn.
 
-#### ***Monk*** | A student of the old arts.
-> In order to be a Monk, your character must have some personal resolution they hold to.
-> Upon faltering in this resolution, they may lose the abilities outlined below.
-> 
-> ***Clear Body*** |
-> When not wearing armor, your AC gains a bonus equal to Wisdom/2.
-> 
-> ***Swift*** |
-> +10 Speed. Advantage on acrobatics.
-> 
-> ***Tempered*** |
-> Eat/Drink every other day.
-> 
-> ***Disarm | 1 Skill*** | 
-> Try to disarm a foe.
-> 
-> ***Practice | 1 Skill | Quick*** | 
-> Move twice as fast for a turn,
-> climb equal to your movement,
-> or take half the fall damage you would normally take.
-
 #### ***Paladin*** | A warrior sworn to an oath.
 > As part of being a Paladin, you must make a solemn vow.
 > Upon breaking this vow, your character will lose all the powers bestowed below.
@@ -161,23 +140,43 @@ You gain the abilities outlined in its description.
 > You may create a small sphere as bright as sunlight which lasts for one hour.
 > 
 > ***Lay on Hands | 1 Skill*** |
-> Heal a creature you can touch for 1d6+Charisma.
+> A creature you can touch gains 1d6 + Charisma Health.
 > 
 > ***Duel | 1 Skill | Quick*** |
-> Try to compel a creature into a duel. As long as none intervene, they may only attack you.
+> Try to compel a creature into a duel. As long as no allies intervene, they may only attack you.
 > 
 > ***Smite | 1 Skill | Quick*** |
-> Deal +2d6 damage on an attack.
+> Deal 2d6 + Charisma extra damage on an attack.
+
+#### ***Monk*** | A student of the old arts.
+> In order to be a Monk, your character must have some personal resolution they hold to.
+> Upon faltering in this resolution, they may lose the abilities outlined below.
+> 
+> ***Swiftness*** |
+> +10 Speed. Advantage on acrobatics.
+> 
+> ***Discipline*** |
+> Eat/Drink every other day.
+> 
+> ***Disarm*** | 1 Skill | 
+> Try to disarm a foe. Your Wisdom governs the check.
+> 
+> ***Balance*** | 1 Skill | Quick | 
+> Move twice as fast for a turn,
+> climb equal to your movement,
+> or take half the fall damage you would normally take.
 
 #### ***Rune Knight*** | A fighter with knowledge of elemental magic.
 > In order to be a Rune Knight, your character must carry magical materials with which to cast spells, along with a spellbook.
 > These take up 1 Load each. You cannot cast spells without them.
+>
+> ***Cantrip*** | Choose a spell that costs no Skill to cast from the Wizard spell list. You can cast it.
 > 
 > ***Imbue | 1 Skill*** |
-> For one minute, your weapon deals additional damage equal to Intelligence.
+> For one minute, your weapon deals additional damage equal to your Intelligence.
 > 
 > ***Shield | 1 Skill*** |
-> Nullify damage of an incoming attack or trap.
+> Reduce the damage of an incoming attack or trap by an amount equal to your Intelligence * 2.
 > 
 > ***Lure | 1 Skill | Quick*** |
 > Try to magically pull an enemy or object up to 15 feet towards you.
@@ -222,10 +221,10 @@ You have some ability which sets you apart from the rank and file, and makes you
     A boon die is a die which a creature can use on any check, save, or damage roll. It starts as a D8.
 
 ***Move*** | 1 Skill | Quick |
-    All allies can immediately move up to their speed.
+    All allies can immediately move up to their Speed.
 
 ***Speech*** | 1 Skill | 
-    Take 10 minutes to give an inspiring speech. Up to 10 characters who hear it gain 5+Charisma Hit Points, and 1 Skill. No overflow!
+    Take 10 minutes to give an inspiring speech. Up to 10 characters who hear it gain 5 + Charisma Health, and 1 Skill. No overflow!
 
 ***Encouragement*** | 1 Skill | Quick |
     Give an ally a word of encouragement. They regain Skill equal to your Wisdom / 2.
@@ -254,17 +253,17 @@ You have the ability to identify the magical properties of an item, given a day 
 ### Arcane Magic
 You have some knowledge of the nature of the universe, which allows you to bend it to your will.
 
-In order to cast spells, a Wizard requires materials, written spells, and an arcane focus.
-Their spell book and materials take up 1 Load each, and their arcane focus requires 1 Load as well.
-Without any of these essential components, they must make checks to cast any spell, consuming Skill on failure.
+In order to cast spells, a Wizard require written spells and an arcane focus.
+A spell book and arcane focus each require 1 Load.
+Without either of these components, they must make checks to cast any spell, consuming 1 Skill on failure.
 
-> Choose 4 of the following spells. Intelligence is their governing attribute.
+> Choose 5 of the following spells. Intelligence is their governing attribute.
 
 ***Light*** |
 Illuminate an object and cast light in a Zone until you dispel it.
 
-***Alarm*** |
-Set one point as an alarm space
+***Eye*** |
+Set an eye on a Zone. You can always see it in your mind, and are alerted if anything occurs there.
 
 ***Friends*** |
 Try to make a creature's disposition change. If it fails, they will know.
@@ -300,18 +299,23 @@ You can see through its eyes, communicate with it, and order it to do small task
 Casting this spell requires a day of rituals.
 
 
+***Knock*** | 1 Skill |
+Unlock any lock.
+
+***Scry | 1 Skill*** |
+Try to locate a creature or an object you know of.
 
 ***Dispel*** | 1 Skill |
 Try to remove the magical properties of an item or creature. This includes cursed places and items.
 
-***Slow*** | 1 Skill |
-While you concentrate, creatures in a Zone move half as fast.
-
-***Quicken*** | 1 Skill |
-While you concentrate, creatures in a Zone move twice as fast.
+***Slow/Quicken*** | 1 Skill |
+While you concentrate, time in a Zone you can see moves half or twice as fast.
 
 ***Silence***  | 1 Skill |
-While you concentrate, creatures in a Zone can neither heard nor utter sound.
+While you concentrate, creatures in a Zone you can see neither hear nor utter sound.
+
+***Truth***  | 1 Skill |
+While you concentrate, creatures in a Zone can see cannot tell a lie.
 
 ***Warp*** | 1 Skill | Quick | 
 You may teleport yourself or a willing creature you can see up to 30 feet.
@@ -346,7 +350,7 @@ Another still may pray to a God, who grants them abilities in exchange that they
 > They must make sacrifices to whatever force they draw their power from,
 > And, if they have one, they must please their patron in their words and deeds.
 
-***Important stat: Wisdom*** | ***Base Health: 12***
+***Important stat: Wisdom*** | ***Base Health: 10***
 
 ### Eerie Sense
 You can sense subtle things, like the presence of supernatural things, the stilled wind, 
@@ -379,26 +383,26 @@ Cause a dead plant or animal to live again, or to grow very quickly.
 
 
 ***Heal | 1 Skill*** | 
-A creature you can see gains 2d6+Charisma Health.
+A creature you can see gains 2d6+Wisdom Health.
 
 ***Sanctuary | 1 Skill*** | 
 Concentrate to create a Zone which no enemies can enter, and which no objects can move into or out of.
 It can last, at maximum, for one hour.
 
-***Locate | 1 Skill*** |
-Try to locate a creature or an object you know of.
+***Curse | 1 Skill*** |
+A creature you can see has disadvantage on all checks until the end of their next turn.
 
-***Possess | 1 Skill*** |
-Try to control a creature's mind and act for them for up to a minute.
-
-***Wither | 1 Skill*** |
-A creature you can see loses 2d6+Charisma Health.
-
-***Revivify | 5 Skill*** |
-A character who died in the last day can be resurrected, but they take 3 Injuries from the Injury table. Your Skill is permanently reduced by 1.
+***Turn | 1 Skill*** | 
+All creatures of unnatural origin which can see you must try to continue on, else flee from you.
 
 ***Armor of Faith | 1 Skill*** | 
 A character you touch gains an AC of 18 for 10 minutes.
 
-***Turn | 1 Skill*** | 
-All creatures of unnatural origin must try to remain in place, else flee from you.
+***Wither | 1 Skill*** |
+A creature you can see loses Health equal to your Wisdom. You gain Health equal to half the damage dealt.
+
+***Wrath | 1 Skill*** |
+All creatures in your Zone try to avoid a crack of lightning. They take damage equal to your Wisdom * 2.
+
+***Revivify | 5 Skill*** |
+A character who died in the last day can be resurrected, but they take 3 Injuries from the Injury table. Your Skill is permanently reduced by 1.

@@ -35,8 +35,7 @@ Also note that while many are in it for the money, not every thief has the same 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/lambda/equipment/</guid>
-      <description>Equipment Arms and Armor for Lambda.
-Weapons | Armor | Gear | Miscellaneous
+      <description>Equipment Weapons | Armor | Gear | Miscellaneous Arms and Armor for Lambda.
 Weapons Below is the list of basic weapons.
 The weapons are grouped into categories based on relative price.
 Peasant&amp;rsquo;s weapons | ~d4 damage | 1-5 GP | Common items, used by poor folk.
@@ -51,10 +50,10 @@ Martial weapons | ~d8 damage | 20-50 GP | Weapons forged for the waging of war.<
       
       <guid>http://alexhartford.org/lambda/generation/</guid>
       <description>Generating Heroes Below is an outline of how to generate heroes for Lambda.
-Allocate your attributes. Choose one of the following distributions. You allocate those six numbers among your hero&amp;rsquo;s attributes.
-Typical =&amp;gt; 5 | 3 | 1 | 0 | -1 | -3
-Balanced =&amp;gt; 3 | 2 | 2 | 1 | -1 | -2
-Specialist =&amp;gt; 7 | 1 | 0 | -1 | -3 | -3</description>
+Choose an archetype. Familiarize yourself with your abilities.
+Select your equipment. Heroes in this game start out poor. You get 10 Gold. Roll a d20. On a 20, you start with 20 Gold.
+You can spend it on whatever you please, but I&amp;rsquo;d recommend getting a weapon and spending the rest on equipment.
+You probably should save some, too, so you can buy food.</description>
     </item>
     
     <item>

@@ -7,35 +7,40 @@ Below is an outline of how to generate heroes for ***Lambda***.
 
 ---
 
-## Allocate your attributes.
-
-Choose one of the following distributions.
-You allocate those six numbers among your hero's attributes.
-
-> ***Typical =>*** **5 | 3 | 1 | 0 | -1 | -3**
->
-> ***Balanced =>*** **3 | 2 | 2 | 1 | -1 | -2**
-> 
-> ***Specialist =>*** **7 | 1 | 0 | -1 | -3 | -3**
-
 ## Choose an [archetype](/lambda/archetypes).
-Familiarize yourself with your new abilities and skills.
+Familiarize yourself with your abilities.
 
 ## Select your [equipment](/lambda/equipment/).
 Heroes in this game start out poor.
+You get ***10 Gold***. Roll a d20. On a 20, you start with ***20 Gold***.
 
-Choose a peasant's weapon. Determine where you got such a weapon.
+You can spend it on whatever you please, but I'd recommend getting a weapon and spending the rest on equipment.
 
-Pick two pieces of adventuring equipment.
+You probably should save some, too, so you can buy food.
 
-Roll your wealth. You have (1d4-1)*10 GP.
+But do whatever you want. If you want to spend it all on that nice, fancy spear, I'm not gonna stop you.
+
+> If you are a Wizard, Magi, or chose the Paladin / Rune Knight fighting style, 
+> also mark down your spellcasting equipment. You get that stuff for free. My treat.
+
+## Allocate your attributes.
+Distribute these six numbers among your hero's attributes, wherever you want them to go:
+
+## *| 5 | 3 | 1 | 0 | -1 | -3 |*
+
+Choose wisely!
 
 ## Finishing touches!
 Your ***Speed*** is equal to 30 + (Dexterity * 2). Round down to the nearest 5.
 
-Your ***Health*** is equal to your Archetype's base Health + Constitution.
+Your ***Armor Class*** with no armor on is equal to 10 + (Dexterity / 2).
 
-Your ***Skill*** is equal to 3 + max(Intelligence, Wisdom) / 2
+Your ***Health*** is equal to your Archetype's base Health + Constitution.
+> For convenience, here's the numbers:
+
+> ***| Thief - 8 | Fighter - 14 | Leader - 12 | Wizard - 10 | Magi - 10 |***
+
+Your ***Skill*** is equal to 3 + max(Intelligence, Wisdom, Charisma) / 2
 
 You can carry an amount of ***Load*** equal to 8 + Strength.
 
