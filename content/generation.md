@@ -33,14 +33,14 @@ Choose wisely!
 ## Finishing touches!
 Your ***Speed*** is equal to 30 + (Dexterity * 2). Round down to the nearest 5.
 
-Your ***Armor Class*** with no armor on is equal to 10 + (Dexterity / 2).
+Your ***Armor Class*** with no armor on is equal to 11 + (Dexterity / 2).
 
 Your ***Health*** is equal to your Archetype's base Health + Constitution.
 > For convenience, here's the numbers:
 
 > ***| Thief - 8 | Fighter - 14 | Leader - 12 | Wizard - 10 | Magi - 10 |***
 
-Your ***Skill*** is equal to 3 + max(Intelligence, Wisdom, Charisma) / 2
+Your ***Skill*** is equal to 2 + max(Intelligence, Wisdom, Charisma) / 2
 
 You can carry an amount of ***Load*** equal to 8 + Strength.
 

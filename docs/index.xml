@@ -8,13 +8,85 @@
     <language>en-us</language><atom:link href="http://alexhartford.org/lambda/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://alexhartford.org/lambda/dm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/lambda/dm/</guid>
+      <description>CAUTION | Dungeon Master&amp;rsquo;s Notes! These are personal notes and ideas which no player should see. Keep out!
+party | ideas | reference | treasure |
+Adjustments for Session 2:
+SP is now 2 + max(mental stats) / 2
+Grant can pick a new ability for Lance, swapping out a current one.
+No armor = 11 + Dex / 2.
+Wither is different now. It no longer requires an attack roll, but it costs 2 SP to use.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://alexhartford.org/lambda/ideas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://alexhartford.org/lambda/ideas/</guid>
-      <description>Here I keep the ideas which no player should see. Keep out!
-Tortoise-shell shield.
-Gemstones set in swords of high birth.</description>
+      <description>Tortoise-shell shield. Gemstones set in swords change their properties.
+Ideals An episodic, personal samurai tale about wanderers getting mixed up with local troubles.
+Set in a time of chaos, with a gray war fast approaching, and the forces of nature close at hand.
+Three nations. Medieval Europe, Revolutionary Arabia, and Isolationist Japan. All settle on the ruins of a great Macedonia.
+Downtime Rest up (3 Health) Train or Study (+1 to an Attribute) Work (20 Gold) Research (Information)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://alexhartford.org/lambda/party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/lambda/party/</guid>
+      <description>The Party An at-a-glance reference.
+Character Class HP AC Speed Passive Load Skill Recovered Damage Alice Thief 9 13 30 7 5 4 4,2 / 2,1 d4 / ? Lance Leader 11 11 40 13 8 3 5,1 / 2,1 d4 / ? Aditzi Magi 9 11 30 13 5 4 4,2 / 2,1 d4 / 5 &amp;mdash;&amp;mdash; &amp;mdash;- &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; / &amp;mdash; &amp;mdash;/&amp;mdash; &amp;mdash;&amp;mdash; &amp;mdash;- &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; / &amp;mdash; &amp;mdash;/&amp;mdash; Mountain the Mule can carry 8 Load.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://alexhartford.org/lambda/reference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/lambda/reference/</guid>
+      <description>Alice The second in line to the baking dynasty of the Brown family.
+An overconfident child, with no talents useful to her.
+She spends her restless days slinking around town, getting into trouble, and hating her sister.
+Lance An old hermit from the black hills.
+In another life, he was a merchant. His business partner cheated him out of his riches.
+Ever since, bitter and afraid, Lance has hidden in the woods, and he has grown old.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://alexhartford.org/lambda/treasure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/lambda/treasure/</guid>
+      <description>Treasure A good list of treasures to seed in dungeons.
+Items Peasant Shield
++1 Dagger
++1 Sling
+Whip
+Gold
+Silver
+Common +1 Sword
++1 Bow
++1 Axe
++1 Spear
++1 Spell Focus
+Potion of Invisibility
+Potion of Strength
+Potion of Fire Resistance
+Bracers of Archery
+Bracers of Defense
+Ioun Stone of Vitality
+Ioun Stone of Soul
+Ioun Stone of Light
+Ioun Stone of Levitation
+Martial Broom of Flying
+Boots of Speed</description>
     </item>
     
     <item>

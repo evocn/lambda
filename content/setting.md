@@ -66,6 +66,8 @@ To the south is a forest the locals call ***Hamun's Wood***. To the north, a mou
 And finally, if a traveller sets out due West from Khmer, and crosses the hills of the ***Dragon's Range***, they will emerge in the great sea of sand - ***The Gray Wastes***.
 
 ## Khmer
+![khmer](/lambda/images/khmer.jpg)
+
 Khmer is a collection of farms and mills, with a couple of businesses at its center. Its population sits around 150.
 
 It is located on the southern bank of a great lake, in the shadow of Maegor's Peak.
@@ -92,6 +94,8 @@ At the hamlet's square stands a few businesses.
 * A tavern, where folk gather to enjoy the company of others, along with a warm meal and a cup of ale.
 
 ## Hamun's Wood
+![hamuns wood](/lambda/images/hamuns_wood.jpg)
+
 Hamun was a sage of the aboriginal people of this land long ago.
 
 The forest to the south of Khmer is a quiet place, with a variety of flora and fauna.
@@ -131,6 +135,8 @@ The range is a cold, bleak place, and travel through it is difficult.
 Few creatures live here, save for buzzards and bees.
 
 ## Farwatch
+![farwatch](/lambda/images/keep.png)
+
 Farwatch is a hold at the edge of the desert.
 
 It hosts 50 soldiers of Errol, alongside a population of families and craftsmen to support them.
@@ -149,6 +155,8 @@ The Dragon's Range is apparently so called because it was once home to a great B
 But the Dragons are dead, and this range of hills is nothing but stone and earth now.
 
 ## The Gray Wastes
+![desert](/lambda/images/desert.jpg)
+
 The great Western desert stretches as far as the eye can see.
 
 There is apparently a city in the desert, less than a week's ride from Farwatch, though there is no clear road, and navigation in the desert is nigh impossible without a guide.
@@ -269,7 +277,7 @@ But these tend to be grifters, not miracle men.
 > Brings iron, stone, and everything dead.
 
 ***Torm*** | God of Courage
-> God of the Reuss. A warrior-god of new fashion.
+> A warrior-god of new fashion. Worshipped by the Reuss.
 > Said to have created man.
 
 ### The God of the Desert People

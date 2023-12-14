@@ -70,10 +70,10 @@ Below is the list of basic armors.
 
 | Armor     | AC            | Load  | Cost  | Properties |
 | --------- |:-------------:|:-----:|:-----:|:----------:|
-| None      | 10+Dexterity/2  | 0     | Free  | |
-| Light     | 12+Dexterity/3  | 2     | 30 GP | |
-| Medium    | 14+Dexterity/4  | 3     | 50 GP | |
-| Heavy     | 16            | 4     | 200 GP | Disadvantage on stealth and acrobatics. -10 Speed. |
+| None      | 11+Dexterity/2  | 0     | Free  | |
+| Light     | 13+Dexterity/3  | 2     | 30 GP | |
+| Medium    | 15+Dexterity/4  | 3     | 50 GP | |
+| Heavy     | 17              | 4     | 200 GP | Disadvantage on stealth and acrobatics. -10 Speed. |
 | | | | | |
 | Buckler   | +1 AC         | 1     | 5 GP  | Takes up a free hand. |
 | Shield    | +2 AC         | 1     | 25 GP | Takes up a free hand. |
@@ -99,6 +99,8 @@ Villages will have some or none of these things for sale or trade.
 | 10 Arrows     | 5 GP  | 1     | Ammunition for bows. |
 | 10 Lockpicks  | 5 GP  | 1     | Roll a lockpicking check with advantage. |
 |||||
+| Blanket       | 1 GP  | 1     | Allows for a chance at full rests while in the wilderness. |
+| Tent          | 1 GP  | 1     | Negates penalties for sleeping in the rain. |
 | Shovel        | 1 GP  | 1     | |
 | Crowbar       | 5 GP  | 1     | |
 | Grappling Hook| 10 GP | 1     | |

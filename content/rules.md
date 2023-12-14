@@ -151,9 +151,11 @@ Additionally, all injuries come with some mental or physical mark for a hero to 
 In order to regain spent Health and Skill, as well as heal particular status ailments, heroes must rest.
 In order to rest, the party must have adequate food and water.
 
-For each night of rest in a comfortable place,  a hero regains all their Health and Skill.
+For each night of rest in a comfortable place,  a hero regains half their Health and Skill.
 
-For each night of rest while camping somewhere, a hero regains half their Health and Skill.
+For each night of rest while camping somewhere, a hero regains a quarter of their Health and Skill.
+
+For each night of uncomfortable rest, such as sleeping outside in the rain, a hero regains 2 Health and 1 Skill.
 
 ---
 
@@ -181,6 +183,10 @@ Note also that these prices are typical in populated areas, but in small hovels,
 All equipment ***Encumbers*** a hero. The amount of Load a hero can carry is governed by their Strength.
 A hero who is overencumbered cannot fight, and their Speed is halved, especially when travelling long distances.
 A party might hire pack animals to carry a heavy load, or travel lighter than they might otherwise.
+
+Most equipment is simple to calculate. One-handed items cost 1 Load. Two-handed cost 2.
+50 Coins equals 1 Load, and precise things, like potions, cost 1 Load as well.
+Other items are either outlined in these docs, or adjudicated on the fly.
 
 ***Pack Animals*** like
 horses and mules can carry equipment long distances - either to bring tools to a dungeon, or to bring loot back home.

@@ -232,6 +232,12 @@ You have some ability which sets you apart from the rank and file, and makes you
 ***War Cry!*** | 2 Skill | Quick |
     Allies who hear your cry gain advantage on all attacks until your next turn, and critical hits deal double their usual damage!
 
+***Negotiation*** |
+    You know the motivations behind a fight, and have learned how to avoid one if possible. Checks to negotiate with an enemy gain a bonus equal to your Wisdom score.
+
+***Canny*** |
+    You have +5 passive perception and advantage on perceiving threats. Additionally, you make checks to discern an enemy's traits with advantage.
+
 ---
 
 ## Wizard
@@ -241,9 +247,11 @@ Some simply spend their days in meditation, among the woodland beings and the mo
 
 ![wizard](/lambda/images/wizard.jpg)
 
-> A Wizard is not just a college student who learned some spells. They are usually special beings, with special destinies.
-> Wizards keep the balance in the realm. They are very rarely interested in their own ends.
-> When creating your wizard, consider what threats they may think about, and how their quest for knowledge might help them towards stopping it.
+> In this land, a Wizard is not just a college student who learned some spells. They are usually special individuals, with special destinies.
+> Long ago, Wizard was a title granted to members of a small society of heroes, who fought tyranny with their knowledge, and propelled us forth into the modern age.
+> For many years, Wizards kept the balance in the realm, never thinking of their own needs.
+> But over time, the purity of heart diminished, and in turn, the magic was lost.
+> When creating your wizard, consider what sort of things impel their spirits towards such ends, and what magic means to them.
 
 ***Important stat: Intelligence*** | ***Base Health: 10***
 
@@ -363,16 +371,16 @@ A Divine Focus costs 1 Load.
 Choose 4 of the spells below. These are the spells your God has blessed you with, or which you have naturally acquired.
 Wisdom is their governing attribute.
 
-***Restore | Quick*** | 
+***Restore*** | Quick | 
 You can stabilize a creature without their incurring an injury from the injuries table.
 
-***Bless | Quick*** | 
+***Bless*** | Quick | 
 Give a creature +1d4 on all checks for a turn.
 
-***Bane | Quick*** | 
+***Bane*** | Quick | 
 Give a creature -1d4 on all checks for a turn.
 
-***Cure / Calm*** | 
+***Cure*** / Calm | 
 Try to cure a creature's afflictions and illnesses, both physical and mental.
 
 ***Purify*** |
@@ -382,27 +390,27 @@ You can remove poisons or curses food and drink, and you can try to remove them 
 Cause a dead plant or animal to live again, or to grow very quickly.
 
 
-***Heal | 1 Skill*** | 
+***Heal*** | 1 Skill | 
 A creature you can see gains 2d6+Wisdom Health.
 
-***Sanctuary | 1 Skill*** | 
+***Sanctuary*** | 1 Skill | 
 Concentrate to create a Zone which no enemies can enter, and which no objects can move into or out of.
 It can last, at maximum, for one hour.
 
-***Curse | 1 Skill*** |
+***Curse*** | 1 Skill |
 A creature you can see has disadvantage on all checks until the end of their next turn.
 
-***Turn | 1 Skill*** | 
+***Turn*** | 1 Skill | 
 All creatures of unnatural origin which can see you must try to continue on, else flee from you.
 
-***Armor of Faith | 1 Skill*** | 
+***Armor of Faith*** | 1 Skill | 
 A character you touch gains an AC of 18 for 10 minutes.
 
-***Wither | 1 Skill*** |
+***Wither*** | 2 Skill |
 A creature you can see loses Health equal to your Wisdom. You gain Health equal to half the damage dealt.
 
-***Wrath | 1 Skill*** |
+***Wrath*** | 2 Skill |
 All creatures in your Zone try to avoid a crack of lightning. They take damage equal to your Wisdom * 2.
 
-***Revivify | 5 Skill*** |
+***Revivify*** | 5 Skill |
 A character who died in the last day can be resurrected, but they take 3 Injuries from the Injury table. Your Skill is permanently reduced by 1.
