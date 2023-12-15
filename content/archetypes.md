@@ -21,7 +21,7 @@ An individual with particular skills.
 > Some just wish to escape the squalor of the hand life has dealt to them.
 > Others want to give back, and make sure no one else has to steal to make ends meet.
 
-***Important stats: Dexterity, Charisma*** | ***Base Health: 8***
+***Important stats: Dexterity, Charisma*** | ***Base Health: 7***
 
 ### Sneaky
 You gain advantage on stealth, and can move silently even at full speed.
@@ -72,7 +72,7 @@ Fighters come in many forms, but all live by the sword, and die by it.
 > How many fights have they been in? If it is a great many, who have they lost?
 > Also, consider what their end goal is. No one can fight forever.
 
-***Important stats: Strength, Dexterity, Constitution*** | ***Base Health: 14***
+***Important stats: Strength, Dexterity, Constitution*** | ***Base Health: 12***
 
 ### Training
 You have some form of training in combat.
@@ -196,7 +196,7 @@ They might not be skilled in individual combat, or they may. Nonetheless, their 
 > Think of how your Leader will handle defeat, loss, and discord, as well as what their true goals are.
 > A Leader's goals are big, and men must rally their own goals around the leader's.
 
-***Important stats: Charisma, Wisdom*** | ***Base Health: 12***
+***Important stats: Charisma, Wisdom*** | ***Base Health: 10***
 
 ### Command
 Once per turn, as a Quick Action, you may issue a Command.
@@ -253,7 +253,7 @@ Some simply spend their days in meditation, among the woodland beings and the mo
 > But over time, the purity of heart diminished, and in turn, the magic was lost.
 > When creating your wizard, consider what sort of things impel their spirits towards such ends, and what magic means to them.
 
-***Important stat: Intelligence*** | ***Base Health: 10***
+***Important stat: Intelligence*** | ***Base Health: 9***
 
 ### Identify
 You have the ability to identify the magical properties of an item, given a day with the object.
@@ -358,7 +358,7 @@ Another still may pray to a God, who grants them abilities in exchange that they
 > They must make sacrifices to whatever force they draw their power from,
 > And, if they have one, they must please their patron in their words and deeds.
 
-***Important stat: Wisdom*** | ***Base Health: 10***
+***Important stat: Wisdom*** | ***Base Health: 8***
 
 ### Eerie Sense
 You can sense subtle things, like the presence of supernatural things, the stilled wind, 

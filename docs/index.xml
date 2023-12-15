@@ -15,10 +15,11 @@
       <description>CAUTION | Dungeon Master&amp;rsquo;s Notes! These are personal notes and ideas which no player should see. Keep out!
 party | ideas | reference | treasure |
 Adjustments for Session 2:
+HP has been lowered across the board.
 SP is now 2 + max(mental stats) / 2
 Grant can pick a new ability for Lance, swapping out a current one.
 No armor = 11 + Dex / 2.
-Wither is different now. It no longer requires an attack roll, but it costs 2 SP to use.</description>
+Wither is different now.</description>
     </item>
     
     <item>
@@ -41,7 +42,7 @@ Downtime Rest up (3 Health) Train or Study (+1 to an Attribute) Work (20 Gold) R
       
       <guid>http://alexhartford.org/lambda/party/</guid>
       <description>The Party An at-a-glance reference.
-Character Class HP AC Speed Passive Load Skill Recovered Damage Alice Thief 9 13 30 7 5 4 4,2 / 2,1 d4 / ? Lance Leader 11 11 40 13 8 3 5,1 / 2,1 d4 / ? Aditzi Magi 9 11 30 13 5 4 4,2 / 2,1 d4 / 5 &amp;mdash;&amp;mdash; &amp;mdash;- &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; / &amp;mdash; &amp;mdash;/&amp;mdash; &amp;mdash;&amp;mdash; &amp;mdash;- &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; / &amp;mdash; &amp;mdash;/&amp;mdash; Mountain the Mule can carry 8 Load.</description>
+Character Class HP AC Speed Passive Load Skill Recovered Damage Alice Thief 8 13 30 7 5 4 4,2 / 2,1 d4 / ? Lance Leader 10 11 40 13 8 3 5,1 / 2,1 d4 / ? Aditzi Magi 7 11 30 13 5 4 4,2 / 2,1 d4 / 5 &amp;mdash;&amp;mdash; &amp;mdash;- &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; / &amp;mdash; &amp;mdash;/&amp;mdash; &amp;mdash;&amp;mdash; &amp;mdash;- &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; / &amp;mdash; &amp;mdash;/&amp;mdash; Mountain the Mule can carry 8 Load.</description>
     </item>
     
     <item>

@@ -38,7 +38,7 @@ Your ***Armor Class*** with no armor on is equal to 11 + (Dexterity / 2).
 Your ***Health*** is equal to your Archetype's base Health + Constitution.
 > For convenience, here's the numbers:
 
-> ***| Thief - 8 | Fighter - 14 | Leader - 12 | Wizard - 10 | Magi - 10 |***
+> ***| Thief - 7 | Fighter - 13 | Leader - 11 | Wizard - 9 | Magi - 8 |***
 
 Your ***Skill*** is equal to 2 + max(Intelligence, Wisdom, Charisma) / 2
 

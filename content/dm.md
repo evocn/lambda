@@ -12,6 +12,8 @@ Keep out!
 
 **Adjustments for Session 2:**
 
+HP has been lowered across the board. 
+
 SP is now 2 + max(mental stats) / 2
 
 Grant can pick a new ability for Lance, swapping out a current one.
