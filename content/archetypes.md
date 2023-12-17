@@ -391,7 +391,7 @@ Cause a dead plant or animal to live again, or to grow very quickly.
 
 
 ***Heal*** | 1 Skill | 
-A creature you can see gains 2d6+Wisdom Health.
+A creature you can see gains 1d6+Wisdom Health.
 
 ***Sanctuary*** | 1 Skill | 
 Concentrate to create a Zone which no enemies can enter, and which no objects can move into or out of.

@@ -40,7 +40,7 @@ Your ***Health*** is equal to your Archetype's base Health + Constitution.
 
 > ***| Thief - 7 | Fighter - 13 | Leader - 11 | Wizard - 9 | Magi - 8 |***
 
-Your ***Skill*** is equal to 2 + max(Intelligence, Wisdom, Charisma) / 2
+Your ***Skill*** is equal to 2 + max(Intelligence, Wisdom) / 2
 
 You can carry an amount of ***Load*** equal to 8 + Strength.
 

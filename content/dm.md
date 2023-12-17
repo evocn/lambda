@@ -10,21 +10,19 @@ Keep out!
 [reference](/lambda/reference) |
 [treasure](/lambda/treasure) |
 
-**Adjustments for Session 2:**
+**Adjustments for Session 3:**
 
-HP has been lowered across the board. 
+Supplies are simpler.
+* 1 supply = 1 day's food/water. 
+* 3 supplies = 1 Load.
+* You can buy 1 supply for 1 SP in most towns.
 
-SP is now 2 + max(mental stats) / 2
+Heal has been adjusted. It's now 1d6 + Wisdom, and you must touch the target.
 
-Grant can pick a new ability for Lance, swapping out a current one.
+Sanctuary requires the caster to remain inside it while concentrating.
 
-No armor = 11 + Dex / 2.
+Move now only targets three allies at once, and it's a full action.
 
-*Wither* is different now. It no longer requires an attack roll, but it costs 2 SP to use.
-  Everything else is identical about it.
+Lazarus' weapon has a minor change - d8 damage die instead of the d10.
 
-**Alice has...**
-* The Keys to Castle Black.
-* A fine dagger from the Blackbirds there.
-
-
+Armor and weapon prices have been adjusted.

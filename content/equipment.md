@@ -30,26 +30,27 @@ The weapons are grouped into categories based on relative price.
 | ------------- |:---------:|:-----:|:-----:|:-----:|:----------:|
 | ***Peasant*** | | | | | |
 | None          | Strength       |   1   |   Free | Melee | |
-| Dagger        | Dexterity       |   d4  |   2 GP | Melee / Thrown | |
+| Dagger        | Dexterity      |   d4  |   2 GP | Melee / Thrown | |
 | Club          | Strength       |   d4  |   1 GP | Melee | |
 | Staff / Whip  | Strength / Dexterity |   d4  |   3 GP | Reach | |
 | Hatchet       | Strength       |   d4  |   2 GP | Melee / Thrown | |
-| Sling         | Dexterity       |   d4  |   3 GP | Short | Ammunition |
+| Sling         | Dexterity      |   d4  |   3 GP | Short | Ammunition |
 | ***Common*** | | | | | |
 | Axe / Hammer  | Strength       |   d6  |   5 GP | Melee / Thrown | |
-| Spear         | Strength       |   d6  |  10 GP | Reach / Thrown | |
-| Sword         | Strength / Dexterity |   d6  |  15 GP | Melee | |
-| Scimitar      | Dexterity       |   d6  |  20 GP | Melee | |
-| Hunting Bow   | Dexterity       |   d6  |  20 GP | Long  | Ammunition |
+| Spear         | Strength       |   d6  |  10 GP | Reach | |
+| Sword         | Strength / Dexterity   |   d6  |  15 GP | Melee | |
+| Scimitar      | Dexterity      |   d6 + 1  |  20 GP | Melee | |
+| Hunting Bow   | Dexterity      |   d6  |  20 GP | Long  | Ammunition |
 | ***Martial*** | | | | | |
 | Battle Axe / Mace   | Strength |   d8  |  20 GP | Melee | Two-Handed |
+| Longspear     | Strength       |   d8  |  30 GP | Reach | Two-Handed |
 | Longsword     | Strength       |   d8  |  40 GP | Melee | |
-| Rapier        | Dexterity       |   d8  |  50 GP | Melee | |
-| Recurve Bow   | Dexterity       |   d8  |  30 GP | Long  | Ammunition |
+| Rapier        | Dexterity      |   d8  |  50 GP | Melee | |
+| Recurve Bow   | Dexterity      |   d8  |  30 GP | Long  | Ammunition |
 | ***Heroic*** | | | | | |
 | Maul / Hammer | Strength       |  d12  |  60 GP | Melee | Two-Handed |
-| Halberd       | Strength       |  d10  |  75 GP | Reach | Two-Handed |
-| War Bow       | Dexterity       |  d10  |  80 GP | Long  | Ammunition |
+| Pike          | Strength       |  d10  |  75 GP | Reach | Two-Handed |
+| War Bow       | Dexterity      |  d10  |  80 GP | Long  | Ammunition |
 | Greatsword    | Strength       |  2d6  | 120 GP | Melee | Two-Handed |
 | ***Masterpiece*** | | | | | |
 | Damascened Blade | Strength    |  3d6  | 400 GP | Melee | |
@@ -58,7 +59,7 @@ Note that this is merely a sampling of the weapons which exist.
 
 Many masterpieces or artifacts are priceless, and are so rare that few people exist who could feasibly buy such a thing.
 
-**Load** of a weapon is calculated by the number of hands required to wield it. 1 Load for one hand, 2 Load for two hands.
+**Load** of a weapon is usually calculated by the number of hands required to wield it. 1 Load for one hand, 2 Load for two hands.
 
 ---
 
@@ -71,13 +72,13 @@ Below is the list of basic armors.
 | Armor     | AC            | Load  | Cost  | Properties |
 | --------- |:-------------:|:-----:|:-----:|:----------:|
 | None      | 11+Dexterity/2  | 0     | Free  | |
-| Light     | 13+Dexterity/3  | 2     | 30 GP | |
-| Medium    | 15+Dexterity/4  | 3     | 50 GP | |
-| Heavy     | 17              | 4     | 200 GP | Disadvantage on stealth and acrobatics. -10 Speed. |
+| Light     | 13+Dexterity/3  | 2     | 20 GP | |
+| Medium    | 15+Dexterity/4  | 3     | 30 GP | |
+| Heavy     | 17              | 4     | 50 GP | Disadvantage on stealth and acrobatics. -10 Speed. |
 | | | | | |
 | Buckler   | +1 AC         | 1     | 5 GP  | Takes up a free hand. |
-| Shield    | +2 AC         | 1     | 25 GP | Takes up a free hand. |
-| Helm      | +1 AC         | 1     | 15 GP | Disadvantage on perception. |
+| Shield    | +2 AC         | 1     | 10 GP | Takes up a free hand. |
+| Helm      | +1 AC         | 1     | 10 GP | Disadvantage on perception. |
 
 Note that more specialized armors exist, for scenarios like wilderness travel and cold / heat resistance.
 These are mere categories.
@@ -92,7 +93,7 @@ Villages will have some or none of these things for sale or trade.
 
 | Gear          | Cost  |  Load | Properties |
 | ---------     |:-----:|:-----:|:----------:|
-| Supplies      | 1 SP  | 1     | Food and water for three days. |
+| 1 Supply      | 1 SP  | 1/3   | Food and water for one day. |
 | 3 Torches     | 5 SP  | 1     | |
 | 30 ft. Rope   | 1 GP  | 1     | |
 | 10 Sling Stones | 1 SP  | 1   | Ammunition for slings. |

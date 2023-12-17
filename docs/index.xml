@@ -14,12 +14,9 @@
       <guid>http://alexhartford.org/lambda/dm/</guid>
       <description>CAUTION | Dungeon Master&amp;rsquo;s Notes! These are personal notes and ideas which no player should see. Keep out!
 party | ideas | reference | treasure |
-Adjustments for Session 2:
-HP has been lowered across the board.
-SP is now 2 + max(mental stats) / 2
-Grant can pick a new ability for Lance, swapping out a current one.
-No armor = 11 + Dex / 2.
-Wither is different now.</description>
+Adjustments for Session 3:
+Supplies are simpler.
+1 supply = 1 day&amp;rsquo;s food/water. 3 supplies = 1 Load. You can buy 1 supply for 1 SP in most towns. Heal has been adjusted. It&amp;rsquo;s now 1d6 + Wisdom, and you must touch the target.</description>
     </item>
     
     <item>
@@ -42,7 +39,7 @@ Downtime Rest up (3 Health) Train or Study (+1 to an Attribute) Work (20 Gold) R
       
       <guid>http://alexhartford.org/lambda/party/</guid>
       <description>The Party An at-a-glance reference.
-Character Class HP AC Speed Passive Load Skill Recovered Damage Alice Thief 8 13 30 7 5 4 4,2 / 2,1 d4 / ? Lance Leader 10 11 40 13 8 3 5,1 / 2,1 d4 / ? Aditzi Magi 7 11 30 13 5 4 4,2 / 2,1 d4 / 5 &amp;mdash;&amp;mdash; &amp;mdash;- &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; / &amp;mdash; &amp;mdash;/&amp;mdash; &amp;mdash;&amp;mdash; &amp;mdash;- &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; &amp;mdash; / &amp;mdash; &amp;mdash;/&amp;mdash; Mountain the Mule can carry 8 Load.</description>
+Character Class HP SP AC SPD Passive Load Recovered Damage Alice Thief 8 2 13 30 7 5 4,1 / 2,1 d4 / d4+3d6 Lance Leader 10 3 11 40 18 8 5,1 / 2,1 d6 / ? Asha Magi 7 4 11 30 13 5 3,2 / 1,1 d4 / 5 Eugenia Wizard 9 4 11 30 7 11 4,2 / 2,1 d6 / ?</description>
     </item>
     
     <item>
@@ -53,10 +50,10 @@ Character Class HP AC Speed Passive Load Skill Recovered Damage Alice Thief 8 13
       <guid>http://alexhartford.org/lambda/reference/</guid>
       <description>Alice The second in line to the baking dynasty of the Brown family.
 An overconfident child, with no talents useful to her.
-She spends her restless days slinking around town, getting into trouble, and hating her sister.
+She spends her restless days slinking around town, getting into trouble, and hating her sister Andy and family.
+Motivation: To prove herself.
 Lance An old hermit from the black hills.
-In another life, he was a merchant. His business partner cheated him out of his riches.
-Ever since, bitter and afraid, Lance has hidden in the woods, and he has grown old.</description>
+In another life, he was a merchant. His business partner cheated him out of his riches. Ever since, bitter and afraid, Lance has hidden in the woods, and he has grown old.</description>
     </item>
     
     <item>

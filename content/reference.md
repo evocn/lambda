@@ -6,7 +6,9 @@ The second in line to the baking dynasty of the Brown family.
 
 An overconfident child, with no talents useful to her.
 
-She spends her restless days slinking around town, getting into trouble, and hating her sister.
+She spends her restless days slinking around town, getting into trouble, and hating her sister Andy and family.
+
+Motivation: To prove herself.
 
 # Lance
 ![lance](/lambda/images/lance.jpg)
@@ -14,20 +16,50 @@ She spends her restless days slinking around town, getting into trouble, and hat
 An old hermit from the black hills.
 
 In another life, he was a merchant. His business partner cheated him out of his riches.
-
 Ever since, bitter and afraid, Lance has hidden in the woods, and he has grown old.
 
-# Aditzi
-![aditzi](/lambda/images/aditzi.jpg)
+Lance is a very polite man, even after his years of isolation. He is courteous and noble, like the old ways.
+
+Motivation: Rediscover myself.
+
+# Asha
+![asha](/lambda/images/asha.jpg)
 
 A Myelar Elf, born in the great turning period of a thousand years ago, but only awoken in the last hundred.
 
 Immune to the moon-sickness. Alone.
 
-Motivation: To find peace. Within herself, and with the lonely past of her people.
+Asha is quiet, but curious. She does not really know herself, or how to know any other.
+
+Motivation: Find peace.
 To live on for her people's sake.
 
 ---
+
+# Eugenia
+A middle-aged loner from the village of Khmer. She is a five-foot tall woman with grimy features and a tendency to strong emotion.
+
+She spent her youth pining after a love which was not reciprocated.
+During her self-imposed exile, she encountered a warlock, ***Sha'virr***, who took her in and supported her.
+Alice of the village found her and began bringing her bread, and Sha'virr began showing her the mysteries of magic.
+To his surprise, Eugenia, a pitiful creature by this point, showed great promise in the arcane.
+For four years she has been his pupil, and has learned much, though is still ignorant of the world and her own dreams.
+
+Motivation: Become someone lovable.
+
+# Lazarus
+A traveler of the precipice.
+
+Originally from the deserts of the west, he spends his days wandering, bare of foot, between the desert and the verdane.
+He peddles his specialty wares - salted lizards - and enjoys whatever company he finds on the road.
+
+To what end he searches, he will not tend to say.
+But deep in his heart, he sees his journey with a single, clear destination: to find the right place to die.
+He has not found it yet.
+
+Lazarus believes in courage above all else. He will suffer no fools or cowards. He speaks his mind.
+
+Motivation: Find good death.
 
 # Khmer
 A village of 150 people. Farmers.
@@ -102,25 +134,23 @@ Others include...
 * ***Quill***, who is well-known as a cutpurse from Emory - hiding in plain sight, with a bribe to Lund to keep his place here from some unknowable stash of loot,
 * ***Tyrosh***, called such by his home city from the desert, who farms the green lands as good as any from Errol, but carries a bejeweled saber at his side at all functions,
 
-## Captain Lund, of the Errol Guard
-A restless city man, tired of the quiet of the Khmer valley.
+## Captain Warren, of the Errol Guard
+While at times Captain Warren will drink with his men and make merry, he takes his responsibility in Khmer very seriously.
+He loves his men and the people of this town, and he does not make decisions lightly.
 
-Once a promising tactician, meant for the knighthood. Assigned to Emory, and then to Khmer, due to disagreements about the wilderness's threats.
-Lund believes peaceful times breed weak men, and he might be right, though not in the way he intends.
+Once a promising tactician, meant for the knighthood. Assigned to Emory, and then to Khmer, due to disagreements with management.
 
-In any case, his defense of the village of Khmer is an Iron one, and the townsfolk are grateful for it, especially in light of the Goblin problem.
+Warren is a good-hearted man, but is not negotiated with, and does not believe in trading lives. He will avoid bloodshed at all cost.
 
-Lund has never received the funds or the men to pursue the threats lurking in the southern wood, nor has he received the command.
-He will aim for any excuse.
+His defense of the village of Khmer is an iron one, and the townsfolk are grateful for it, especially in light of recent threatening events.
 
 The other men who fill out the four rooms of the Khmer Guardhouse are either locals or the less savory of their brothers in oath at the bigger cities.
 Notable is 
 * ***Oaf***, the deputy, who lives up to his name, and 
-* ***Rainier***, a local-born Marconi who is just teetering on adulthood.
+* ***Pascal***, an honorable servant of the House of Errol. Seeks the good of the people here.
+* Otherwise, there's ***Ron***, and ***Little John***, a pair of local delinquents turned guards.
 
-Otherwise, there's ***Carl***, ***Ronald***, ***Tyson***, and ***Little John***.
-
-## Amos and Avery Brown, Hereditary bakers of the West of Errol.
+## Amos and Avery Baker, Hereditary bakers of the West of Errol.
 The single most famous people in the village of Errol, and perhaps in Emory as well.
 
 Their bread is the primary food of the people of the village, and the primary export of Errol.
@@ -128,9 +158,13 @@ Their bread is the primary food of the people of the village, and the primary ex
 Though their bread's quality is perhaps better explained by the freshness of the grain, by the nearness of its processing to its growing,
 their craft is indeed a magic of its own.
 
-They have five sons after two daughters. Amy will inherit the bakery, and has already her mother's talents. Alice... not so much.
-The sons are all named after famous Browns: Alm, Amos Jr., Alexander, Atman, and young Andrew.
-They also take care of their retired family - grandparents Asa and Autumn, and the great old matriarch Alice, whom our character is named after.
+They have ten children.
+There are four girls besides Alice: Allie, Aggie, Annie, 
+There are five boys, all named after famous Bakers: Alm, Amos Jr., Alexander, Atman, and young Andrew.
+They also take care of their grandmother, Augustina.
+
+***Andy*** will inherit the bakery, and has already her mother's talents. Alice... not so much.
+Andy is married to ***Maurice***, a farmer who will take over the baker's trade soon.
 
 ## Shamir, Merchant of the Far West.
 Though Shamir comes only from the nearby Oasis city of Aqia, the villagers of Khmer know him as of the "Far West", a place he speaks of often and theatrically.
@@ -150,6 +184,14 @@ Shamir will sell all of the following, and is willing to haggle with someone who
 He travels his wares by Camel, an old, ragged thing, grateful for many days of travel in the Four Kingdoms ahead.
 
 ---
+
+## Sha'virr, Warlock of the Wastes.
+Sha'virr is an old master of druid craft from the distant sands.
+
+He lives near Khmer in a hollow tree stump. He works at strange potions and scrolls.
+His apprentice is the hero Eugenia. He calls her by the Nafud term "Maia", meaning "Feminine one".
+
+Soon after Eugenia leaves, he disappears, leaving only a note.
 
 # Castle Black
 Long ago, Castle Black was a Wizard's hold called the ***Amber Keep***.
