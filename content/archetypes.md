@@ -394,8 +394,8 @@ Cause a dead plant or animal to live again, or to grow very quickly.
 A creature you can see gains 1d6+Wisdom Health.
 
 ***Sanctuary*** | 1 Skill | 
-Concentrate to create a Zone which no enemies can enter, and which no objects can move into or out of.
-It can last, at maximum, for one hour.
+Concentrate to create a Zone which nothing can pass in or out of around you.
+It can last, at maximum, for 10 minutes.
 
 ***Curse*** | 1 Skill |
 A creature you can see has disadvantage on all checks until the end of their next turn.
