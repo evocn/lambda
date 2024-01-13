@@ -86,6 +86,7 @@ A good list of treasures to seed in dungeons.
 # Abilities
 ## Thief
 ***Second-Story Work***
+***Double Knife Attack***
 
 ## Fighter
 ***Second Wind***

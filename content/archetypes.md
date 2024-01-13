@@ -25,6 +25,8 @@ An individual with particular skills.
 
 ### Sneaky
 You gain advantage on stealth, and can move silently even at full speed.
+You can stealthily guide up to two characters who can travel lightly and quietly at a time.
+When rolling stealth checks, you roll one check for the group.
 
 ### Skills
 You are trained in some particular arts of thievery, whether it be espionage or assassination.

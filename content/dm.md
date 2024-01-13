@@ -9,20 +9,16 @@ Keep out!
 [ideas](/lambda/ideas) |
 [reference](/lambda/reference) |
 [treasure](/lambda/treasure) |
+[weather](/lambda/weather) |
 
-**Adjustments for Session 3:**
+**Adjustments for Session 4:**
+Recurve bow -> Hunting bow
 
-Supplies are simpler.
-* 1 supply = 1 day's food/water. 
-* 3 supplies = 1 Load.
-* You can buy 1 supply for 1 SP in most towns.
+The Thief's Stealth ability has been adjusted for Group Stealth.
+They can now guide up to two allies through a stealth scenario who are unimpeding.
 
-Heal has been adjusted. It's now 1d6 + Wisdom, and you must touch the target.
+Sneak Attack will be 2d6. However, you can attempt to regain the ability to use it by choosing a target, and trying to conceal yourself to them as an action on your turn.
+You make a stealth check against a DC variable by the scenario, but most likely against their perception, and if you succeed, you can make the sneak attack on the following turn.
+This is contingent on the scenario, though. You will be unsuccessful hiding against an opponent that has a clear line of sight.
 
-Sanctuary requires the caster to remain inside it while concentrating.
-
-Move now only targets three allies at once, and it's a full action.
-
-Lazarus' weapon has a minor change - d8 damage die instead of the d10.
-
-Armor and weapon prices have been adjusted.
+Rage does not reduce incoming damage by half, but instead prevents the berserker from being reduced below 1 Health until the rage is over.

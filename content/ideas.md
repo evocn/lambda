@@ -1,6 +1,15 @@
 
+Faisal
+
 Tortoise-shell shield.
 Gemstones set in swords change their properties.
+
+# The Keystone
+The old Kings of Myelar wore crowns made by the gods.
+The Crowns of Light.
+
+It is said that the old kings of Myelar brought enemies to their cause. They were invincible.
+In times of darkness, the kings provided for all their subjects, and kept the darkness at bay.
 
 # Ideals
 An episodic, personal samurai tale about wanderers getting mixed up with local troubles.

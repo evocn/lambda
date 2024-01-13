@@ -37,10 +37,10 @@ The weapons are grouped into categories based on relative price.
 | Sling         | Dexterity      |   d4  |   3 GP | Short | Ammunition |
 | ***Common*** | | | | | |
 | Axe / Hammer  | Strength       |   d6  |   5 GP | Melee / Thrown | |
-| Spear         | Strength       |   d6  |  10 GP | Reach | |
-| Sword         | Strength / Dexterity   |   d6  |  15 GP | Melee | |
-| Scimitar      | Dexterity      |   d6 + 1  |  20 GP | Melee | |
-| Hunting Bow   | Dexterity      |   d6  |  20 GP | Long  | Ammunition |
+| Spear         | Strength       |   d6  |   6 GP | Reach | |
+| Sword         | Strength / Dexterity   |   d6  |  10 GP | Melee | |
+| Scimitar      | Dexterity      |   d6 + 1  |  15 GP | Melee | |
+| Hunting Bow   | Dexterity      |   d6  |  15 GP | Long  | Ammunition |
 | ***Martial*** | | | | | |
 | Battle Axe / Mace   | Strength |   d8  |  20 GP | Melee | Two-Handed |
 | Longspear     | Strength       |   d8  |  30 GP | Reach | Two-Handed |
@@ -71,17 +71,18 @@ Below is the list of basic armors.
 
 | Armor     | AC            | Load  | Cost  | Properties |
 | --------- |:-------------:|:-----:|:-----:|:----------:|
-| None      | 11+Dexterity/2  | 0     | Free  | |
-| Light     | 13+Dexterity/3  | 2     | 20 GP | |
-| Medium    | 15+Dexterity/4  | 3     | 30 GP | |
-| Heavy     | 17              | 4     | 50 GP | Disadvantage on stealth and acrobatics. -10 Speed. |
+| None      | 11+Dexterity/2| 0     | Free  | |
+| Light     | 13+Dexterity/3| 2     | 20 GP | |
+| Medium    | 15            | 3     | 30 GP | |
+| Heavy     | 17            | 5     | 50 GP | |
 | | | | | |
 | Buckler   | +1 AC         | 1     | 5 GP  | Takes up a free hand. |
-| Shield    | +2 AC         | 1     | 10 GP | Takes up a free hand. |
+| Shield    | +2 AC         | 1     | 15 GP | Takes up a free hand. |
 | Helm      | +1 AC         | 1     | 10 GP | Disadvantage on perception. |
 
 Note that more specialized armors exist, for scenarios like wilderness travel and cold / heat resistance.
 These are mere categories.
+Most armor has special properties, per suit.
 
 ---
 
