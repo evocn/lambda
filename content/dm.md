@@ -11,14 +11,22 @@ Keep out!
 [treasure](/lambda/treasure) |
 [weather](/lambda/weather) |
 
-**Adjustments for Session 4:**
-Recurve bow -> Hunting bow
+## Adjudications
+None, for now!
 
-The Thief's Stealth ability has been adjusted for Group Stealth.
-They can now guide up to two allies through a stealth scenario who are unimpeding.
+## Main Goals
+Faisal's men are still here, and are in various places. He had two.
 
-Sneak Attack will be 2d6. However, you can attempt to regain the ability to use it by choosing a target, and trying to conceal yourself to them as an action on your turn.
-You make a stealth check against a DC variable by the scenario, but most likely against their perception, and if you succeed, you can make the sneak attack on the following turn.
-This is contingent on the scenario, though. You will be unsuccessful hiding against an opponent that has a clear line of sight.
+Lazarus ... have to show their past, and have a clear and defined struggle for them to overcome.
+What would be cool is if Eugenia started to foster dark power, due to her proficiency.
+Then Lazarus has to decide whether to trust her or to try and stop her.
 
-Rage does not reduce incoming damage by half, but instead prevents the berserker from being reduced below 1 Health until the rage is over.
+Lance will become a knight someday. He will see the whole world.
+
+Garreth
+
+Geoffrey
+
+# Ideals
+An episodic, personal samurai tale about wanderers getting mixed up with local troubles.
+Set in a time of chaos, with a gray war fast approaching, and the forces of nature close at hand.

@@ -55,6 +55,17 @@ Motivation: Find good death.
 
 ---
 
+# Items and Legends
+# The Keystone
+The old Kings of Myelar wore crowns made by the gods.
+The Crowns of Light.
+
+It is said that the old kings of Myelar brought enemies to their cause. They were invincible.
+In times of darkness, the kings provided for all their subjects, and kept the darkness at bay.
+
+# The Four Kingdoms
+#   The Verdane
+#     The Precipice
 # Khmer
 A village of 150 people. Farmers.
 
@@ -125,7 +136,8 @@ she's almost to shy to take orders from customers.
 A few other regulars come here nightly, including Walter and Averron, who are good friends.
 Others include...
 * ***Reagan***, a boy enamoured with Wendy,
-* ***Quill***, who is well-known as a cutpurse from Emory - hiding in plain sight, with a bribe to Lund to keep his place here from some unknowable stash of loot,
+* ***Quill***, who is well-known as a cutpurse from Emory - hiding in plain sight, with a bribe to Helen to keep his place here from some unknowable stash of loot,
+  He is in fact a member of the Shadow Guild, an order of honorable thieves across the Four.
 * ***Tyrosh***, called such by his home city from the desert, who farms the green lands as good as any from Errol, but carries a bejeweled saber at his side at all functions,
 
 ## Captain Warren, of the Errol Guard
@@ -198,10 +210,120 @@ This is the proprieter of the finest clothes and wares of the west.
 Eckhardt, the owner, is also the one through whom the Blackbirds were selling their slaves.
 He has two slaves right now, both of Aqia.
 
-## Ryman - Forge and Leatherworking
-Ryman has most services for sale, and a great many good pieces here too.
+## Donnel - Forge and Leatherworking
+Donnel has most services for sale, and a great many good pieces here too.
+He's the brother of Walter, from Khmer. They're both Lankhmari smiths, though Donnel has more chance to forge real steel.
 
-# 
+# Castle Black
+Long ago, Castle Black was a Wizard's hold called the ***Amber Keep***.
+Now, it molds, and is home not to a master of magicks, but to a band known as the ***Blackbirds***.
+
+# Fort Moonlight
+An ancient castle of the Myelar.
+
+Only two towers remain, half destroyed. All else is rubble.
+
+## Rain
+A mysterious Myelar.
+Old and thin.
+His knowledge is vast, as are his opinions.
+He has seen many, many years.
+The comings and goings of men. The risings and fallings of kingdoms. Now he is alone.
+His powers wane in his old age, and he speaks dearly of swimming out to sea someday soon, but he has work yet to do.
+The Spirit drew him here, and bade him guide the young Asha.
+
+# The Blackbirds
+A band of brigands on the Precipice.
+Covertly funded by the Marconi Family of the far east to investigate the supernatural claims of one of the last living sorcerers.
+
+They are dead now.
+Only Geoffrey remains, with a whip and a pike, and a broken arm, and Garreth, though he is a blackbird no longer.
+
+## Geoffrey
+Leader, built the Blackbirds from nothing. His tongue procures deals with lords, as well as the loyalty of his brigand brethren.
+He is not a strong man, but his cruelty is feared. He's young.
+
+## Garreth
+an aging brigand, who did not always live this life. But a chance encounter with the law had him stripped of his knightly
+valor and exiled to the gray wastes. A decade spent in the harsh sands weakened his resolve, and led him back to Errol, but as a brigand.
+* He had a special connection with Alice.
+* He has survived the battle at Blackstone Keep. He now wanders the wilderness in search of a new cause.
+
+## Ronan
+Was a shaggy-haired brute of a man, the brawn of the Blackbirds.
+
+#     Errol
+# The House of Errol
+The family responsible for the hundred thousand citizens of the Verdane.
+Their heraldry bears the evergreen tree, a sign of the age and strength of the great house.
+Their colors are green and brown.
+
+## King William, of the Verdane.
+
+## Lord Edmund, Heir to the throne
+
+## Lord Lowain, Ward of Evergreen
+
+## Lady Cerwyn, Host of Umber
+The lands to the north of Errol fall under the lady's domain.
+She is the most prominent of the lords of Errol, and commands a host of one thousand, staged from Castle Umber.
+
+## Neral, Sorcerer Supreme
+The one who identified the Keystone.
+# The Golden Fields
+A region to the north of Errol. A place where placid streams snake through golden fields of wheat.
+
+# The Crescent
+# Chalcedony
+A castle of glimmering stone in the eastern lands.
+
+The home of the Albinoni, a prominent Marconi family with ties to many places in the four kingdoms.
+Their heraldry bears a gallant horse, with studded jewels on its cloak. Their colors are deep purple and light blue.
+# The Gray Wastes
+#   Cities
+# Katalon City
+## Prince Faisal
+Faisal is the heir to the Katalon.
+He is the last of the old blood of the west.
+
+He seeks the keystone in the precipice and the lands beyond, as some way to ensure a future.
+His mother had prophecied the thing, and he seeks it against his father's command.
+
+Faisal made his way to Errol, but was unable to establish an audience with the King due to Lady Cerwyn.
+He did, however, discover The Sorcerer Neral's prophecy, and attempted to return with that knowledge.
+He was captured by the blackbirds before a chance encounter with the party, where they rescued him.
+Captain Moss was ordered to ensure his return to his home country. However, the party ensured the prince's escape from Errol.
+He returned to the Farwatch under the protection of Pascal, Guard of Errol.
+
+## King Katalon
+The King Faisal, the Eighth of his Name, is descended from the Katalon Sultans of old.
+
+A kindhearted man, who has watched the realm he is sworn to lead crumble, due to factors both within and beyond his control.
+Through this, he grows weary, uncertain, and brash.
+But in his country's most dire hour of need, he now will seek whatever solutions he can - at whatever cost to pride or his self.
+
+## Queen Nadya
+Nadya was wife to Katalon and prime sorceress of the sands before her passing at the hands of Abrash riders a decade past.
+Her son is Faisal the Ninth, heir apparent to the Throne of Katalon.
+
+Her life was a long one, counting herself and her expertise among the old masters of her order.
+She could see the future, and predicted dark times ahead.
+Her husband could not bear the threat to his already struggling lands, and denied her visions.
+
+## Ayaz
+A place which was once the Jewel of the Nafud.
+The veritable Babylon of its time, it has fallen to ruin.
+Now, the streets are filled with Shades, and its people scatter and hide.
+
+Its location in the center of the Nafud once made it a hub for travel to all corners of the wastes.
+Its single great well brought endless water to what most felt was a paradise among the sands.
+But its time is come, and it is like any other ruined citadel.
+
+# Aqia City
+The furthest East of the great desert cities, Aqia is an independent mercantile city under the command of a rotating cabinet of merchant princes.
+These princes generally descend from wealthy families, and broker power and wealth among themselves.
+However, the council is sometimes called to discuss problems collectively.
+They are called the Council of Aqia, and their judgements are absolute when unanimous.
 
 ## Shamir, Merchant of the Far West.
 Though Shamir comes only from the nearby Oasis city of Aqia, Emory says Shamir is from the "Far West", a place he speaks of often and theatrically.
@@ -221,76 +343,82 @@ Shamir will sell all of the following, and is willing to haggle with someone who
 
 He travels his wares by Camel, an old, ragged thing, grateful for many days of travel in the Four Kingdoms ahead.
 
----
+#   The Twelve Tribes
+# Katalon
+The Noble Tribe of the Nafud.
+Ever since the early days, since King Katalon, the First of His Name, united the Twelve Tribes under the Crown of the Sun,
+to drive back the invaders of the East, the Katalon have ruled the Council of the twelve tribes.
 
+Their lineage is chock full of legends. Sorceresses, great Kings, God-Warriors, and Champions of Men.
+Today, the bloodline dwindles, the great City of Katalon sleeps, and dark tidings herald the end of the age of the Nafud.
 
-# Castle Black
-Long ago, Castle Black was a Wizard's hold called the ***Amber Keep***.
-Now, it molds, and is home not to a master of magicks, but to a band known as the ***Blackbirds***.
+# Abrash
+One of the tribes of the Nafud.
+The Abrash were, for a long time, a quiet folk.
+They would work with the tribes in matters concerning the Baraza, but they were not travellers by any means.
+The host they assembled ten years ago was vast. It remains the primary activity of the Abrash: to conquer.
 
----
+The Abrash has always hosted its dark feelings towards the tribes.
+It has never been blessed with a Sorceress of true blood.
+The lands it lies on are the most desolate of all the tribes.
+Foul Ash diseases taint the Abrash, killing most in childhood.
+For those reasons, the Abrash rely on strength and endurance.
+And for those reasons as well, they seek conquest.
 
-# The Blackbirds
-A band of brigands on the Precipice.
-Covertly funded by the Marconi Family of the far east to investigate the supernatural claims of one of the last living sorcerers.
+# Aqia
+The Aqia are not a true-blood tribe, though there are some princes who claim that right.
+Instead, it is a loose consolidation of trading powers.
 
-## Geoffrey
-Leader, built the Blackbirds from nothing. His tongue procures deals with lords, as well as the loyalty of his brigand brethren.
-He is not a strong man, but his cruelty is feared. He's young.
+# Victar
+A lesser tribe. Known in times of old for spiritual guides and mystics, for many years the Victar have prophecied to deaf ears.
+They hold little land or influence, but the Victar rituals are observed in many of the cities of the wastes even now when a man dies or is born.
 
-***Garreth*** is 
-an aging brigand, who did not always live this life. But a chance encounter with the law had him stripped of his knightly
-valor and exiled to the gray wastes. A decade spent in the harsh sands weakened his resolve, and led him back to Errol, but as a brigand.
-* He had a special connection with Alice.
-* He has survived the battle at Blackstone Keep. He now wanders the wilderness in search of a new cause.
+# Raissa
+The Raissa are glorious, even now.
+Their wealth is substantial, and their excess is implacable.
+The women of Raissa embed jewels in their flesh,
+and the men sew gold into their cloaks.
 
-***Ronan*** was
-a shaggy-haired brute of a man, the brawn of the Blackbirds.
+The Citadel of Ash, named for the great dormant volcano beside, is a true sight to behold.
 
-They are dead now.
-Only Geoffrey remains, with a whip and a pike, and a broken arm.
+# Thekla
+The Great Builders, once. Their methods of combining slag and stone led to all the great structures of the Nafud.
+They found materials in the foothills at the end of the world.
+The pyramids they built baffle explanation. They are simply too large to imagine construction - for this or any age.
 
----
+Their current state is unknown. The lands of the Thekla were the first to be swallowed by The Shade.
 
-# The House of Errol
-The family responsible for the hundred thousand citizens of the Verdane.
-Their heraldry bears the evergreen tree, a sign of the age and strength of the great house.
-Their colors are green and brown.
+# Andria
+Andria has always been a small tribe of warrior monks.
+From their ranks can be counted the most legendary of Nafud heroes.
+Mirrah, the Shadow was of Andria, as was Hy-al, Sorcerer Princess of Katalon.
+In Andria, men are scarce.
 
-## King William, of the Verdane.
+# Terranise
+A reclusive people, different from the other tribes.
+They reside on a peninsula on the northern coast.
+These lands are stormy, swampy, and very different from the deserts to the south.
+The people here are agrarian, secretive, and strange.
+Some say they came from across the North sea. Others say they are of a different species of man entirely.
+Others still believe them to be psychics of some strange magic.
 
-## Lord Edmund, Heir to the throne
+# Ell
+Ancestrally untrusting and fearful, this tribe has squandered its once plentiful resources, and now slides inexorably towards destruction.
+The only question asked of the Ell is this: Which will take them first? The Shade, or the Famine?
 
-## Lord Lowain, Ward of Evergreen
+# Ain
+The Ain are the southern coastal folk of the Nafud.
+Their lands are vast, and they grow fruits and even some grains among the strip of the sea.
+They share their lands with the Ashurnabi, a nomadic sailing folk.
+The Ain hold the lands, the Ashurnabi sail the seas.
 
-## Lady Cerwyn, Host of Umber
-The lands to the north of Errol fall under the lady's domain.
-More below.
+# Ashurnabi
+The Ashurnabi are sailers along the southern sea.
+The winds are strong and harsh here, and the Ashurnabi are a crafty sort to handle them.
 
-# The Golden Fields
-A region to the north of Errol. A place where placid streams snake through golden fields of wheat.
-
-## Lady Cerwyn, Host of Umber
-The lands to the north of Errol fall under the lady's domain.
-She is the most prominent of the lords of Errol, and commands a host of one thousand, staged from Castle Umber.
-
-## Neral, Sorcerer Supreme
-The one who identified the Keystone.
-
-# Chalcedony
-A castle of glimmering stone in the eastern lands.
-
-The home of the Albinoni, a prominent Marconi family with ties to many places in the four kingdoms.
-Their heraldry bears a gallant horse, with studded jewels on its cloak. Their colors are deep purple and light blue.
-
-# Ayaz
-A tiny village, far to the west in the gray wastes.
-Once, these people were the kings of the desert. Great Sultans, they were heralded.
-The Ayaz are no more, and only a few tribes survive.
-
-## Prince Faisal
-Faisal is the heir to the Ayaz.
-His father has been killed, his family lost to slavery.
-He is the last of the old blood of the west.
-
-He seeks the keystone in the precipice and the lands beyond, as some way to ensure a future.
+# The Unknown Ones
+The tales all speak of Twelve Tribes of the Nafud. That is how it has always been.
+But the twelfth tribe, traditionally, is not spoken of.
+To some, the Twelfth is the place where a man goes when he dies, to share brotherhood with all Nafud.
+To others, the Twelfth is a true tribe, with history which shames the ancestors, and which has fallen.
+None are certain.
