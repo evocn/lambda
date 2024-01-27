@@ -13,10 +13,9 @@
       
       <guid>http://alexhartford.org/lambda/dm/</guid>
       <description>CAUTION | Dungeon Master&amp;rsquo;s Notes! These are personal notes and ideas which no player should see. Keep out!
-party | ideas | reference | treasure | weather |
-Adjudications None, for now!
-Main Goals Faisal&amp;rsquo;s men are still here, and are in various places. He had two.
-Lazarus &amp;hellip; have to show their past, and have a clear and defined struggle for them to overcome. What would be cool is if Eugenia started to foster dark power, due to her proficiency.</description>
+party | ideas | reference | treasure | weather | time
+Adjudications Scry - is useless right now! It is now a way to look into something or someone that you know of. Some things are harder than others to find. It should be a long ritual though, like 10 minutes.
+Grow - Small things works as a cantrip.</description>
     </item>
     
     <item>
@@ -51,6 +50,16 @@ She spends her restless days slinking around town, getting into trouble, and hat
 Motivation: To prove herself.
 Lance An old hermit from the black hills.
 In another life, he was a merchant. His business partner cheated him out of his riches. Ever since, bitter and afraid, Lance has hidden in the woods, and he has grown old.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://alexhartford.org/lambda/time/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://alexhartford.org/lambda/time/</guid>
+      <description>Time Calendar This is a rough timeline of the events of the party.
+Date Events Year 943 Of the Empire of Yoria March 1 The meeting of the three at Castle Amber March 4 Arrival at Khmer March 7 The Annihilation of Blackstone Keep March 16 The party sets forth from Khmer March 17 First encounter with Goblins March 18 Meeting with Rain at Fort Moonstone April 2 Alice&amp;rsquo;s 18th name day </description>
     </item>
     
     <item>

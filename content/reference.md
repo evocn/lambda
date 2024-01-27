@@ -63,9 +63,12 @@ The Crowns of Light.
 It is said that the old kings of Myelar brought enemies to their cause. They were invincible.
 In times of darkness, the kings provided for all their subjects, and kept the darkness at bay.
 
+# Goblins
+Creatures of the Earth. They gave trouble to the Myelar in the days of sunlight.
+
 # The Four Kingdoms
-#   The Verdane
-#     The Precipice
+# Errol
+#   The Precipice
 # Khmer
 A village of 150 people. Farmers.
 
@@ -181,41 +184,8 @@ His apprentice is the hero Eugenia. He calls her by the Nafud term "Maia", meani
 Soon after Eugenia leaves, he disappears, leaving only a note.
 His mission is to investigate the magical imbalances in Umber, and elsewhere in the world.
 
-# Emory
-A city, the biggest in the west. 3000 men live here, and their wives and children make near 10000.
-Known for harvest, trade, and craft.
-Well out of Errol, and thus a hub for outriding and smuggling, though small-time in nature.
-
-## Captain Moss, of the King's Guard
-Captain Moss commands over 200 men in Emory, and near 400 in Western Errol, including the towns and the Farwatch.
-
-He is a stern man. Humorless.
-Sworn to the House of Errol.
-
-Works as Cerwyn's hand, though covertly and in a small capacity.
-
-## The Cran, Home of the Shadow Guild.
-This place is the front of a legendary guild known as the Shadow Guild.
-A band of mercenary outlaws. They do crimes, but only for the right cause, and the right coin both.
-Harald, Doorman.
-Kitty, Barmaid.
-
-Curl, the Brain.
-Jain, the Brawn.
-Ivory, the Fingers.
-Kevan, the Blade. - Deceased.
-
-## Eckhardt's - Fineries ( And slaveries )
-This is the proprieter of the finest clothes and wares of the west.
-Eckhardt, the owner, is also the one through whom the Blackbirds were selling their slaves.
-He has two slaves right now, both of Aqia.
-
-## Donnel - Forge and Leatherworking
-Donnel has most services for sale, and a great many good pieces here too.
-He's the brother of Walter, from Khmer. They're both Lankhmari smiths, though Donnel has more chance to forge real steel.
-
-# Castle Black
-Long ago, Castle Black was a Wizard's hold called the ***Amber Keep***.
+# Blackstone Keep
+Long ago, Blackstone Keep was a Wizard's hold called the ***Amber Keep***.
 Now, it molds, and is home not to a master of magicks, but to a band known as the ***Blackbirds***.
 
 # Fort Moonlight
@@ -232,27 +202,94 @@ The comings and goings of men. The risings and fallings of kingdoms. Now he is a
 His powers wane in his old age, and he speaks dearly of swimming out to sea someday soon, but he has work yet to do.
 The Spirit drew him here, and bade him guide the young Asha.
 
-# The Blackbirds
-A band of brigands on the Precipice.
-Covertly funded by the Marconi Family of the far east to investigate the supernatural claims of one of the last living sorcerers.
+# Emory
+A city, the biggest in the west. 3000 men live here, and their wives and children make near 10000.
+Known for harvest, trade, and craft.
+Well out of Errol, and thus a hub for outriding and smuggling, though small-time in nature.
 
-They are dead now.
-Only Geoffrey remains, with a whip and a pike, and a broken arm, and Garreth, though he is a blackbird no longer.
+Emory is a walled city, though they are short and thin walls, of wood. Like Jamestown.
+Around the walls is a deep moat, carved long ago and filled regularly. It is squalid and thick-smelling.
+There is a main drag, with a square and market stalls. There are homes along the edges, stacked well atop eachother.
+Emory was rebuilt within recent memory, and old Emory stands to the south by a half dozen leagues, a ruin of a burning long ago.
 
-## Geoffrey
-Leader, built the Blackbirds from nothing. His tongue procures deals with lords, as well as the loyalty of his brigand brethren.
-He is not a strong man, but his cruelty is feared. He's young.
+The city's population is about a fifth Nafud folk, but mostly ancestral Errol folk.
+They are mostly uneducated, peasants.
 
-## Garreth
-an aging brigand, who did not always live this life. But a chance encounter with the law had him stripped of his knightly
-valor and exiled to the gray wastes. A decade spent in the harsh sands weakened his resolve, and led him back to Errol, but as a brigand.
-* He had a special connection with Alice.
-* He has survived the battle at Blackstone Keep. He now wanders the wilderness in search of a new cause.
+## Captain Moss, of the King's Guard
+Captain Moss commands over 200 men in Emory, and near 400 in Western Errol, including the towns and the Farwatch.
 
-## Ronan
-Was a shaggy-haired brute of a man, the brawn of the Blackbirds.
+He is a stern man. Humorless.
+Sworn to the House of Errol.
 
-#     Errol
+Works as Cerwyn's hand, though covertly and in a small capacity.
+
+## The Cran, Home of the Shadow Guild.
+This place is the front of a legendary guild known as the Shadow Guild.
+The business is in truth a brothel, but it also holds its secrets.
+
+A band of mercenary outlaws. They do crimes, but only for the right cause, and the right coin both.
+Harald, Doorman.
+Kitty is the owner of the establishment, and is a cheerful, suggestive sort.
+
+The Shadow Guild hideout is within one of the whore's rooms, behind a false panel in the closet.
+You descend two stories of stone steps before arriving at a dirty door in the stone, which opens into a natural cavern.
+A stream runs through the middle of this place, which is lit by torchlight.
+
+Curl, the Brain.
+Jain, the Brawn.
+Ivory, the Fingers.
+Kevan, the Blade. - Deceased.
+
+## Eckhardt's - Fineries ( And slaveries )
+This is the proprieter of the finest clothes and wares of the west.
+Eckhardt, the owner, is also the one through whom the Blackbirds were selling their slaves.
+He has two slaves right now, both of Aqian descent.
+
+His place is at the edge of town, and has a secret tunnel out of the city where he does his business through.
+
+## Donnel - Forge and Leatherworking
+Donnel has most services for sale, and a great many good pieces here too.
+He's the brother of Walter, from Khmer. They're both Lankhmari smiths, though Donnel has more chance to forge real steel.
+
+## The Stone Bridge
+The largest Inn in Emory beds up to 50, or near enough, and it does so cheaply.
+
+*Orys* is the innkeep, a bawdy, raucous man with a booming laugh and a sharp tongue.
+
+Other travellers in the Stone Bridge include:
+* *Trundle Gorm*, a sword hand for hire. He'll charge a silver a day to escort travellers.
+* *Najai*, man of Aqia. A tradesman, carpentry.
+* *Bart Bracken*, a known thug who picks fights almost as often as he drinks himself to senselessness.
+
+## The Fold of Chanterelle
+This building holds the honor of being the largest in Emory, with a tall steeple four stories high, and a great bell exposed at the top.
+
+the Priest here is named *Wendyn*, and he makes an effective sermon.
+If he learns of Asha's growth powers, he will try to proclaim her as a prophet, and make for a big deal of it.
+He is an honest enough man, seeking only to fill his bread bowl, and he tries to help the small folk.
+There are a lot of poor people in this city, and they find hope in the promise of nature's bounty.
+
+# Helios
+The city of the main road of Errol.
+This is where the lord of the Precipice rules - Lord Lowain Errol, brother of the King.
+
+## Yurian Elm, Merchant of Helios
+A man with a fair hold on the trinket market in Helios.
+Ethnically of the Ain Nafud. Is a second-generation Errol man.
+He inherited the family business from his father, Zorba, who was a legendary treasure hunter who settled in Helios.
+Zorba took the family name Elm when he came to these lands.
+The business has been good, selling the treasures accumulated by his father.
+He was rescued by the party after kidnapping by the Blackbirds.
+
+#   The Verdane
+# Errol Keep
+The home of the House of Errol, Protectors of the Realm.
+
+
+#   The Golden Fields
+# Umber
+Lady Cerwyn is the protector of the Golden Fields, and she governs from her seat of Umber.
+
 # The House of Errol
 The family responsible for the hundred thousand citizens of the Verdane.
 Their heraldry bears the evergreen tree, a sign of the age and strength of the great house.
@@ -264,15 +301,13 @@ Their colors are green and brown.
 
 ## Lord Lowain, Ward of Evergreen
 
+## King Warren, the prior king.
 ## Lady Cerwyn, Host of Umber
 The lands to the north of Errol fall under the lady's domain.
 She is the most prominent of the lords of Errol, and commands a host of one thousand, staged from Castle Umber.
 
 ## Neral, Sorcerer Supreme
 The one who identified the Keystone.
-# The Golden Fields
-A region to the north of Errol. A place where placid streams snake through golden fields of wheat.
-
 # The Crescent
 # Chalcedony
 A castle of glimmering stone in the eastern lands.
@@ -342,4 +377,45 @@ Shamir will sell all of the following, and is willing to haggle with someone who
 * A makeshift compass, which is said to guide one to their true love. 1 Gold.
 
 He travels his wares by Camel, an old, ragged thing, grateful for many days of travel in the Four Kingdoms ahead.
+
+# Myelar
+# Fort Moonstone
+An old Myelar fortress in the foothills of Maegor's range on the Precipice of Errol.
+
+The home of Rain, an ancient Myelar with a dutiful bent.
+He stalls the darkness here, and will stand firm until he dies, protecting the realms of man.
+
+# The Citadel of the Sun
+The center of the Myelar's remaining power in this land.
+It is invisible to the human eye.
+It is located in the center of the continent, between the three human cities they call the Sisters.
+
+Here there are a number of Myelar, who are dying slowly, blinking to preserve their longevity.
+
+# Organizations
+# The Shadow Guild
+A brotherhood of honest thieves.
+The Robin Hood types, but they take few jobs, and do not take any reward for their exploits.
+
+
+# The Blackbirds
+A band of brigands on the Precipice.
+Covertly funded by the Marconi Family of the far east to investigate the supernatural claims of one of the last living sorcerers.
+
+They are dead now.
+Only Geoffrey remains, with a whip and a pike, and a broken arm, and Garreth, though he is a blackbird no longer.
+
+## Geoffrey
+Leader, built the Blackbirds from nothing. His tongue procures deals with lords, as well as the loyalty of his brigand brethren.
+He is not a strong man, but his cruelty is feared. He's young.
+
+## Garreth
+an aging brigand, who did not always live this life. But a chance encounter with the law had him stripped of his knightly
+valor and exiled to the gray wastes. A decade spent in the harsh sands weakened his resolve, and led him back to Errol, but as a brigand.
+* He had a special connection with Alice.
+* He has survived the battle at Blackstone Keep. He now wanders the wilderness in search of a new cause.
+
+## Ronan
+Was a shaggy-haired brute of a man, the brawn of the Blackbirds.
+
 
