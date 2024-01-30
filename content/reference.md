@@ -247,19 +247,28 @@ He has two slaves right now, both of Aqian descent.
 
 His place is at the edge of town, and has a secret tunnel out of the city where he does his business through.
 
+*James* Is the primary Blackbird informer here.
+
 ## Donnel - Forge and Leatherworking
 Donnel has most services for sale, and a great many good pieces here too.
 He's the brother of Walter, from Khmer. They're both Lankhmari smiths, though Donnel has more chance to forge real steel.
 
 ## The Stone Bridge
 The largest Inn in Emory beds up to 50, or near enough, and it does so cheaply.
+The main selling point
 
 *Orys* is the innkeep, a bawdy, raucous man with a booming laugh and a sharp tongue.
+*Pot Boy* helps him.
 
 Other travellers in the Stone Bridge include:
+* *Lem*, a member of the Shadow Guild, working as a bard.
 * *Trundle Gorm*, a sword hand for hire. He'll charge a silver a day to escort travellers.
-* *Najai*, man of Aqia. A tradesman, carpentry.
 * *Bart Bracken*, a known thug who picks fights almost as often as he drinks himself to senselessness.
+  He has a pack of louts.
+* *Curtain Eater* Was the old leader of the bunch.
+
+* *Gunther Trant*, a knight of House Trant, a local house of the Verdane.
+* *Bram Jorah*, a knight of House Jorah, of Umber.
 
 ## The Fold of Chanterelle
 This building holds the honor of being the largest in Emory, with a tall steeple four stories high, and a great bell exposed at the top.

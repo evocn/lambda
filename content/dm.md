@@ -13,71 +13,47 @@ Keep out!
 [time](/lambda/time)
 
 ## Adjudications
-Scry - is useless right now! It is now a way to look into something or someone that you know of. Some things are harder than others to find.
-It should be a long ritual though, like 10 minutes.
 
-Grow - Small things works as a cantrip. Big things are 1 SP. Huge things are more.
+## Session 7 - A Night of Dreams.
+The Shadow Guild - They won't train her, since she doesn't have a good reason to do what she says she wants to do.
+* She needs a reason besides proving herself. They've had plenty of thieves who want to prove themselves, but the shadow guild only accepts thieves who believe in something.
+* Lem, the Brain, lost his land to nobility, and so he sticks up for commoners.
+* Jain, the Brawn, hurt his wife in a drunken rage long ago, and wants to save women from the wroth of men.
+* Ivory, the Fingers, lost a hand while acquiring ill-gotten gains, and he wants to earn money the right way this time, while using his talents. His dream is home ownership in the countryside.
+* Kevan, the Blade, the last leader, had infiltrated the House of Errol to root out corruption. He was once a lord, but lost his power to corruption.
 
-## Session 6 - What happens?
-The party heads towards Emory. They find that things are alright on the roads here.
+She returns to the inn, defeated, and a little bit lost. She dreams of home, unbidden, and of a destiny she cannot decide upon.
 
-Once they reach the crossroads, they encounter a band of four blind monks, travelling to a holy site on the steppes of Maegor's Peak.
-They are guarded by a knight, Sir Leomund, who seems bored, but dutiful enough.
-I want this to be an interesting little encounter, where the party can learn about the Monks of the Moon, and warn them about the tidings they bring.
-They might try to convince the monks to turn back, to return to civilization where it is safe.
+Asha dreams of Rain, and of the Citadel of the Sun. Of the old empire of the Sun.
 
-They will need to sleep outside tonight, and though they post guards, nothing will attack them from without.
-There are bears in this spring time, but they are not aggressive.
+Sha'virr's horse comes outside the inn in the dead of night. Its eyes glow blue, and it can communicate with Eugenia.
+* They have a normal conversation. Sha'virr apologizes for his short notice disappearance, and informs her that he has sensed her scrying.
+* He says he is sorry he cannot be there with her, but that he is glad to see she still has courage to go on.
+* He tells her that he had visited Errol to investigate the situation, and now heads to the Desert to restrain the shades.
+* He asks if she has found any information on the darkness. He is shocked when she tells him of the Keystone. "Of course! Neral, that old fool, he must be right."
+* He has an important place he needs her to investigate, the Keep at Helios, which was an old Myelar fortress.
+* His strongest scrying can detect some remnant of the Crown of Light there.
+* Sha'virr warns Eugenia that the situation is dire, and that she must stay strong...
 
-I want Alice to be considering her decision before she arrives in Emory. Ask her what she feels about the Shadow Guild.
+Lance dreams of a girl, from his past life. A memory, playing over and over, of
+the last night they spent drinking here in Emory. Of a fond farewell, her off
+to Umber, him to the Sands. Of her confident smile.
 
-They will encounter more passers-by out here as they get closer to Emory.
-But we will have to do Emory proper this time.
-
-Emory is in full swing when they arrive, and the markets are open.
-Yurian asks how long they'll spend in Emory, and heads to the Merchant's guild to try and squeeze some credit for his journey home.
-
-They will probably find lodgings cheaply enough at the Stone Bridge, an inn in the center of town, built around a finely crafted bridge of stone cobbles.
-Eating here is different from in Khmer. Strangers are more common here, but people are more bold as well. Bart Bracken tries his hand at the young maidens.
-He is inebriated, and will pick a fight if offered.
-
-There is a bounty on the wall for information on the Goblin threat.
-Any man with knowledge of a hideout, cavern, or of the behaviors of goblins will be rewarded with silver.
-The bounty has an addendum, hastily scrawled, stating that proof of an encounter must be given.
-It says to report to the Guard House at soonest convenience.
-
-They might also encounter the Fold of Chanterelle, where the priest is making a sermon in the streets.
-They feed the poor, and give out small bundles from the King's mercy.
-
-If Alice decides to check out the Cran, she probably does so alone, while the others are passing on the news.
-She says the words, and passes to the place below.
-Jain is the only one there, and he laughs in her face when she says she wants to join.
-He tries to corner her to tie her up. He has like a billion hit points, and tries his best.
-Ivory breaks them up, and respects her a little more.
-In any case, she can talk with the three who are here.
-They offer her training, if she can stay for some time.
-But to join the guild, they first need her to do a job for them.
-To infiltrate Eckhardt's place, to release the slaves they believe he is trading from there.
-
-The Words of the Shadow Guild
-    To my people, I have a responsibility.
-    As a Shadow, I have power.
-    The dark of night will be my shield,
-    And the light of the moon my blade.
-
-    I will do what I know must be done,
-    and sink back into the shadows, to strike ever again.
+Lazarus dreams of Eugenia morphing into a sorceress. 
 
 ## To Remember
 Alice's birthday coming soon. Make it the day she arrives in Errol?
 
-The Myelar Rain should stop the darkness for a time, enough for the party to arrive in Errol and get their bearings.
+NPCs
+* Garreth, ex-bandit. Sellsword.
+* Rain, the Myelar of the West.
+* Shar and Gascoigne, Blades of Katalon, the Retinue of Prince Faisal.
+* Lem, the Bard. Brains of the Shadow Guild in the West.
 
-Faisal's men are still here, and are in various places. He had two.
+Blackbirds
+* Geoffrey
+* James
 
-Garreth
-
-Geoffrey
 
 ## Journeys to Undertake
 Alice |
