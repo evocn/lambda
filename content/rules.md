@@ -144,8 +144,8 @@ Additionally, all injuries come with some mental or physical mark for a hero to 
 | (d4)| Effect |
 |:---:|:------:|
 | 1-2 | Lose 1d4 of a random Attribute. |
-| 3   | Your weapon or armor (d2) is broken and must be repaired. |
-| 4   | All checks have disadvantage until the next rest. |
+| 3   | Lose 4 Maximum Health. |
+| 4   | All checks have disadvantage for one week. |
 
 ## Recovery
 In order to regain spent Health and Skill, as well as heal particular status ailments, heroes must rest.

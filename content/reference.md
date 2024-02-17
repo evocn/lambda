@@ -278,9 +278,20 @@ If he learns of Asha's growth powers, he will try to proclaim her as a prophet, 
 He is an honest enough man, seeking only to fill his bread bowl, and he tries to help the small folk.
 There are a lot of poor people in this city, and they find hope in the promise of nature's bounty.
 
+## Old Emory
+A two-hour's walk from Emory, to the south.
+
+It's a ruin, picked clean by looters over the fifty years since its destruction and abandonment.
+The place was taken by the Blackbird bandits during the War of the Ninth Century.
+King Warren and the Knights of Errol took the city back, and saved the people, but the city was destroyed.
+
+That's the tale, but in truth, the city was retaken, and reconstruction began, but a dark spirit had inhabited the earth beneath the city, and the King had the city sealed.
+The Crypt was sealed, with the great knights of the retaking buried beneath.
+Among them was Robin Trant and his Knights of Glory.
+
 # Helios
 The city of the main road of Errol.
-This is where the lord of the Precipice rules - Lord Lowain Errol, brother of the King.
+This is where the lord of the Precipice rules - Lord Lowain Fairheart, cousin of the King.
 
 ## Yurian Elm, Merchant of Helios
 A man with a fair hold on the trinket market in Helios.
@@ -308,7 +319,7 @@ Their colors are green and brown.
 
 ## Lord Edmund, Heir to the throne
 
-## Lord Lowain, Ward of Evergreen
+## Lord Lowain Fairheart, Ward of Evergreen
 
 ## King Warren, the prior king.
 ## Lady Cerwyn, Host of Umber
