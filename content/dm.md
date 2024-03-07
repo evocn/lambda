@@ -15,38 +15,14 @@ Keep out!
 ## Adjudications
 None
 
-## Session 8 - A Journey to the City of Light
-Yurian has set up camp at the Boulder outside of Emory.
-The group will probably take some time to lick their wounds, think about things, and get their bearings.
-
-Describe the scars from the creature of darkness. All over Lazarus' right arm, on Lance's hands, Eugenia's right arm, and Alice and Asha's legs.
-It's the same look as Asha's corruption stuff.
-
+## Session 9 - The City of Light
 Eugenia can study her sheaf. Card: Three days of dedicated study or one week of majority study - get a spell!
 
 The shard of light gives Eugenia a way to find the other pieces.
-She can sense them precisely. There are... four more?
+She can sense them precisely. There are... three more?
 * One in Helios
 * One in Errol
-* One in Umber ? Maybe Maegor's Peak instead?
-* One in the Errol Wood.
-
-The journey will now take almost three full days, and they'll arrive in Helios in the late afternoon.
-
-The travelling will be sunny and bright for two days, but not having a real bed is hard after the brutal fight. Asha is lightheaded and frail.
-Lance's medicine was able to save her from the worst, but she's still recovering.
-
-The road will be solid, and they encounter a number of folk.
-A passing merchant's band, with carts full of strawberries.
-A band of passing nurses and surgeons.
-Another group of the Cult of the Moon, travelling with a hired hand.
-
-On the second night, there is rain on the horizon. A great storm to the west. Cracking lightning.
-A great Rain is falling.
-
-The heroes walk their way into it on the third day. It pours for the whole journey there.
-
-But through the grey skies, the characters make out the Tower of Helios across a muddy plain.
+* One at Maegor's Peak.
 
 ---
 

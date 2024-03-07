@@ -301,6 +301,10 @@ Zorba took the family name Elm when he came to these lands.
 The business has been good, selling the treasures accumulated by his father.
 He was rescued by the party after kidnapping by the Blackbirds.
 
+Yurian has a daughter renee and two sons, you gest wants to be an artist.
+Yurian was a sheep salesman before, now runs a general store in city.
+Once ran a caravan for Jarman, Lance's business partner
+
 #   The Verdane
 # Errol Keep
 The home of the House of Errol, Protectors of the Realm.
