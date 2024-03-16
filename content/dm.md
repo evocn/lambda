@@ -15,79 +15,132 @@ Keep out!
 ## Adjudications
 None
 
-## Session 9 - The City of Light
-Eugenia can study her sheaf. Card: Three days of dedicated study or one week of majority study - get a spell!
+## Session 10 - The City of Light
+Key Components:
+* Overview. Reminder of the situation, the day to come, the meeting in the evening, and the shard of light's beacon.
+* The Festival
+* Town Crier - Omens
+* Lord Lowain's Arrival!
+* The Storm rolls in
+* The Start of the Lists and the First Challenger
+  * Rain pours from the sky. Challenger is Bruck of Umber, a mercenary with a few hits in him, but a coward's bent.
+* Lance's old business partner, Jarman Gent, is at the hand of the Lord here.
+  * He won't recognize Lance unless confronted, but I just want to see Lance's reaction.
+  * He's betting on "whoever fights that Wastes-man next". His cadre laugh.
+* The Second Challenger
+  * The Lord's brother, Leonster Fairhart.
+  * He's a Fighter with a gleaming set of armor and some tricks.
+  * He can't really take a solid hit, though. He'll yield if you make it past his suit.
+  * He's embarrassed and outraged.
+* The Horse
+  * Eugenia's Master, Sha'virr, appears in the form of a donkey at the festival.
+  * The rain is pouring heavily now, and they take a break to find covering for the lord and retinue.
+  * Eugenia hides in a place she can talk with him. Sha'virr is anxious.
+    * He says that he is at the brink of the desert, and he is going within.
+    * When he hears she is in helios, he asks her to go to the scrying pool at the temple of Torm, to observe the situation.
+    * He leaves unexpectedly.
+* The Third Challenger
+  * Ser Robin is an aged paladin of Torm. He is quietly revered as the finest fighter this side of the continent.
+  * He will be hard to defeat, but will take victory or defeat well.
+  * He will be open-ended about them meeting again.
+  * If he wins, he will ask the Lord to please consider the matter they had discussed.
+* The Storm - The Festival Ends
+  * Little fanfare, as lightning crackles through the sky, and the Lord is ushered back towards the Tower of Helios.
+  * The sky darkens quickly, and a great tempest rises from the West.
+  * The group recollects themselves, and evening comes.
+  * At one of these flashes of lightning, brighter than the rest, Asha's mind is rent. It feels as though something has happened to Rain.
+  * As the group tries to help Asha, a commotion rises. There is something happening beyond the walls of Helios!
+* Massacre!
+  * The dark forces have mustered here, and will slaughter the folk outside the city walls.
+  * There is one main Dark Beast, much larger than the one encountered in the Crypt, and two dozen Goblins, though they are shrouded in darkness.
+    * The Goblins's eyes glow red, like the Dark Beast.
+  * The Town Guard is commanded to man the walls, and fire down on the creatures.
+  * Ser Robin rides forth, and orders the Gates to be Opened. Leonster, commander at the gates, orders they remain shut, to keep the corruption out.
+  * Decisions:
+    * Do the party leave the folks out there to die? Or go to fight the darkness?
+    * Do the party try to convince the guards to open the gates to let them out into the fray, risking penetration? Or do they find another way out of the city walls?
+    * How long do they stay out there?
+    * Save lady Lorraine? Or show no preference?
 
-The shard of light gives Eugenia a way to find the other pieces.
-She can sense them precisely. There are... three more?
-* One in Helios
-* One in Errol
-* One at Maegor's Peak.
+The Fight itself:
+100 Townsfolk. ~10 die each round.
+
+24 Goblins. Divided amongst the battle, so the party probably encounters about 6 at a time.
+I can just describe these guys as a horde, who keep coming. If they kill like a dozen, then maybe it will loosen up.
+
+Goblin
+2-5 HP
+13 AC
+d4 - d6 Damage with bone weapons.
+Low Mental Stats.
+
+Beast
+80 HP
+11 AC
+Resistant to non-magic damage.
+Shard does damage to him - 10 HP a swing.
+Two Actions:
+* Rend - 2d6 Damage.
+* Twist - DC 12 Con save or spend the turn writhing on the ground.
+
+This fight will likely lead to a Retreat, so we should always leave an option open.
+Also, don't let up. Don't let the group get in over their heads.
+
+Ser Robin
+20 HP
+16 HP
+d10 Damage, not resisted by darkness.
+Command - every turn.
+Faith - Allies in zone get +2 to all checks.
+
+* The Chapel
+  * The group regroups at the Chapel. (See Below)
+  * Eugenia can use the Scrying Pool.
+
+* The Plan
+  * There are three ways the plan can go:
+    * The group can try and talk their way to getting the shard from Helios.
+    * The group can try to steal the shard.
+    * The group can try to ride forth without the second shard.
 
 ---
 
-Helios - A city built around a Myelar Citadel. It even retains the name that the Myelar gave it once.
-Somewhere below this city is a shard of light.
+The Chapel
 
-Helios is the first place the heroes have come across which is so permanently populated.
-Homes dot the landscape starting miles from the walls of the stone city.
+Torm is the God of Courage. He gives men and women the courage to face that which they fear.
+There is little structure in the church.
+Acolytes are those who work in service of the faith.
+There are Four Holy Knights in this and any age, who are considered the leaders of the faith.
+Ser Robin is one of them!
 
-The gate - an iron portcullis - is new, but the walls themselves are of the old silvery gray stone of the city's origin.
+The chapel of Torm has an important meeting within this evening. The party arrives, and they begin soon after.
+Acolytes pray to a central statue of a great knight bearing a sword, wrought in gold.
+The likeness of Sir Pardis, an old Knight of the Order of Torm, from an age long past.
 
-The guardsmen - sworn soldiers of Helios - eye the travellers with suspicion.
-* Yorrn is an upright man with a square jaw. He talks like Markiplier, with an eyebrow raised y'know?
-* Flanaghan is a man of the Centerlands, with an irish tilt and an honest nature.
+The acolytes organize, and discuss with the group.
+Sir Robin reveals himself as their leader.
 
-These two are important, because they'll be the ones escorting the characters through town.
+He wants to lead a band of heroes to the West, to liberate the citizenry from the darkness.
+He has made calls to the East, to assemble the Knights of Torm.
 
-When the characters arrive, these two give the party a hard time. They rib them about the road, and ask to see everyone's face.
-They inform them that security in Helios is the strictest in the Four Kingdoms, and that Lord Lowain requests no weapons within the city's walls.
+He sees the shard of light. He sees it as a chosen sign.
 
-The party can maybe talk their way out of this one, but as soon as the weapons are confiscated or an agreement is settled, and they're about to let them in (for a fare of three silvers per traveller),
-a messenger girl, wearing a cowl of soaked white cloth arrives with a message.
-She's a girl, not much older than Alice. She acts with courtesy and consideration for the party, and only abstains from answering their requests when it goes against her lord.
-Andrea, she is called. A servant of the Fairhearts, she was born into her role.
-She is an acolyte of Torm, the Great God of Courage. It is a religion borne by most folk in the southern empire.
-
-Torm's faith is not a fearful religion. In fact, it does not persecute its rule, or enforce its claim.
-It inspires courage in individuals, and they spread their good nature to those around them.
-Many live lives of authentic truth due to Torm's light.
-
-The Lord Lowain requests the presence of the one wearing the helmet.
-* It's a little eerie, as the Lord would not be able to see them from here.
-* The party will probably get freaked out. Good.
+They seek to Ride West.
 
 ---
 
-The city is all indoors, save for the occasional passer-by, who runs to the next overhang or tree.
-The streets are symmetrical, broad, and clean-cut in uniform stones of interlocking geometric shapes.
-The grime of many, many years has taken its toll, but the rain makes the shapes gleam and sparkle in the torchlight of the overhung lofts and awnings.
+Audience with the Lord
 
-Most Curious of all, inbetween the roads and homes grow trees of all kinds. In the rain, their branches droop heavy, but colorful splotches dot the ground around many, and while stopping to smell one, you note a particularly sweet-smelling flower, thick with the season.
+The Shard of Light which Lord Lowain possesses is no doubt pointing straight at the party's shard, so he can find them.
 
-The Tower is more remarkable now than ever, it is visible from nearly every place in the city. The lines of the planning have cut a line of sight through nearly every cove and cranny.
-Its spire rises above two buttressing buildings, towers of their own, of three distinct heights in sum.
-(They symbolize the three kings of the myelar. The Dark, The Light, and The Twilight.
+The Knights come soon after the Festival is over. They claim the Lord has requested an audience, but do not elaborate.
 
-Those individuals you do see are watching the watery world through a window, orange and golden glow hugging their warm, cozy abodes.
-Within the walls of the city are certified masters of craft, married merchants, and low nobility.
+The party needs to get a feel for the Lord's opinions on the matters here.
+Lord Lowain wants to take a ranging of knights and go west, to find the source of the Darkness.
+His brother Leonster opposes, as does the Lady Cerwyn.
+He is waiting on word from King William as to what he must do.
 
-* They are led to the tower.
-* Asha smells magic in one of the rooms as they pass by, but she is forbidden to go.
-  * Down a flight of stairs is a special dungeon, where a myelar, Ynes is kept.
-  * Ynes is kept here by Lord Lowain, where her powers are used to scry for the lord, and to help.
-  * She has imprisoned herself here, trapped by her own guilt over her people's demise.
-* They pass under the towers, coming to a great hall.
-* They meet Lord Lowain, and his cousin Leonster. Lowain is an honest Lord, but he cares desparately for his own, and will not open the gates once the illness is known.
-  * Since the party left, the illness is spreading. Helios has already felt it a couple times.
-  * Leonster is a yes-man, a little slimy. He's also an incredible swordsman, one of the finest in the realm. He has a dark sense of humor.
-* I want the party to go on a quest for Lowain.
-* Then I want them to return to the city in the glorious sunshine.
-* Lowain might refuse the party entrance to the city after the quest, so the party has to sneak into the Tower of Helios. I love this idea.
-* Without their weapons even! That would be sick.
-
-My idea is that Lowain will seem very responsible, and gain trust, and eventually, will seek the crown like lady cerwyn.
-The only responsible lord in the West is The King of Errol, William, who is too weak to make his power known.
+---
 
 ## To Remember
 Alice's birthday coming soon. Make it the day she arrives in Errol?
