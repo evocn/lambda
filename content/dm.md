@@ -15,41 +15,28 @@ Keep out!
 ## Adjudications
 None
 
-## Session 10 - The City of Light
-Key Components:
-* Overview. Reminder of the situation, the day to come, the meeting in the evening, and the shard of light's beacon.
-* The Festival
-* Town Crier - Omens
-* Lord Lowain's Arrival!
-* The Storm rolls in
-* The Start of the Lists and the First Challenger
-  * Rain pours from the sky. Challenger is Bruck of Umber, a mercenary with a few hits in him, but a coward's bent.
-* Lance's old business partner, Jarman Gent, is at the hand of the Lord here.
-  * He won't recognize Lance unless confronted, but I just want to see Lance's reaction.
-  * He's betting on "whoever fights that Wastes-man next". His cadre laugh.
-* The Second Challenger
-  * The Lord's brother, Leonster Fairhart.
-  * He's a Fighter with a gleaming set of armor and some tricks.
-  * He can't really take a solid hit, though. He'll yield if you make it past his suit.
-  * He's embarrassed and outraged.
-* The Horse
-  * Eugenia's Master, Sha'virr, appears in the form of a donkey at the festival.
-  * The rain is pouring heavily now, and they take a break to find covering for the lord and retinue.
-  * Eugenia hides in a place she can talk with him. Sha'virr is anxious.
-    * He says that he is at the brink of the desert, and he is going within.
-    * When he hears she is in helios, he asks her to go to the scrying pool at the temple of Torm, to observe the situation.
-    * He leaves unexpectedly.
-* The Third Challenger
-  * Ser Robin is an aged paladin of Torm. He is quietly revered as the finest fighter this side of the continent.
-  * He will be hard to defeat, but will take victory or defeat well.
-  * He will be open-ended about them meeting again.
-  * If he wins, he will ask the Lord to please consider the matter they had discussed.
-* The Storm - The Festival Ends
-  * Little fanfare, as lightning crackles through the sky, and the Lord is ushered back towards the Tower of Helios.
-  * The sky darkens quickly, and a great tempest rises from the West.
-  * The group recollects themselves, and evening comes.
-  * At one of these flashes of lightning, brighter than the rest, Asha's mind is rent. It feels as though something has happened to Rain.
-  * As the group tries to help Asha, a commotion rises. There is something happening beyond the walls of Helios!
+## Session 11 - The City of Light
+The party will talk with the lord, and discuss the ongoing situation:
+Lord Lowain identifies lazarus as what he thinks is an envoy of Prince Faisal, who had been wrongly imprisoned here. He's wrong, but he reveals that he thinks he never should have kept the prince here, it was his brother's advice, and he hopes that the prince is safe on his way home.
+It will be up to eugenia to convince him that the people outside need to be let in.
+He will explain the power of the walls, and how the altar protected the myelar against dark forces long ago.
+It will be unlikely he parts with such an important artifact lightly. It will be like dooming the city.
+Or maybe it shouldn't be? I want the heroes to be able to be victorious!
+
+The storm rages on outside, getting worde by the second. Lightning crashes, thunder rumbles, and the world seems to be rending itself in two!
+
+Would be cool for lance to go to the graveyard, see the old names of folks he knew before, when he was young.
+Otherwise, not sure what his story is right now.
+
+Alice can begin speaking with ser robin, and they can have a conversation about duty and purpose. It will start innocently enough, but i want this to be meaningful. Ser Robin can probably mention Alice's family to the west, and how he is unsure they are still alive.
+I want to really get to the heart of Alice and what she feels right now. Ser Robin will be vulnerable, but won't push her too far. He is a stranger after all.
+
+Write a card which gives alice some more strength! Then let her use it! Maybe she has to haul a body for some distance.
+
+Don't let Lazarus rest. He's used that rage, we can dip deeper!
+
+I like the unvertainty of when the massacre is going to occur. Let the heroes negotiate on an unknown timeline.
+
 * Massacre!
   * The dark forces have mustered here, and will slaughter the folk outside the city walls.
   * There is one main Dark Beast, much larger than the one encountered in the Crypt, and two dozen Goblins, though they are shrouded in darkness.
