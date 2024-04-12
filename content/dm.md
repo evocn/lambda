@@ -15,51 +15,13 @@ Keep out!
 ## Adjudications
 None
 
-## Session 11 - The City of Light
-The party will talk with the lord, and discuss the ongoing situation:
-Lord Lowain identifies lazarus as what he thinks is an envoy of Prince Faisal, who had been wrongly imprisoned here. He's wrong, but he reveals that he thinks he never should have kept the prince here, it was his brother's advice, and he hopes that the prince is safe on his way home.
-It will be up to eugenia to convince him that the people outside need to be let in.
-He will explain the power of the walls, and how the altar protected the myelar against dark forces long ago.
-It will be unlikely he parts with such an important artifact lightly. It will be like dooming the city.
-Or maybe it shouldn't be? I want the heroes to be able to be victorious!
-
-The storm rages on outside, getting worde by the second. Lightning crashes, thunder rumbles, and the world seems to be rending itself in two!
-
-Would be cool for lance to go to the graveyard, see the old names of folks he knew before, when he was young.
-Otherwise, not sure what his story is right now.
-
-Alice can begin speaking with ser robin, and they can have a conversation about duty and purpose. It will start innocently enough, but i want this to be meaningful. Ser Robin can probably mention Alice's family to the west, and how he is unsure they are still alive.
-I want to really get to the heart of Alice and what she feels right now. Ser Robin will be vulnerable, but won't push her too far. He is a stranger after all.
-
-Write a card which gives alice some more strength! Then let her use it! Maybe she has to haul a body for some distance.
-
-Don't let Lazarus rest. He's used that rage, we can dip deeper!
-
-I like the unvertainty of when the massacre is going to occur. Let the heroes negotiate on an unknown timeline.
-
-* Massacre!
-  * The dark forces have mustered here, and will slaughter the folk outside the city walls.
-  * There is one main Dark Beast, much larger than the one encountered in the Crypt, and two dozen Goblins, though they are shrouded in darkness.
-    * The Goblins's eyes glow red, like the Dark Beast.
-  * The Town Guard is commanded to man the walls, and fire down on the creatures.
-  * Ser Robin rides forth, and orders the Gates to be Opened. Leonster, commander at the gates, orders they remain shut, to keep the corruption out.
-  * Decisions:
-    * Do the party leave the folks out there to die? Or go to fight the darkness?
-    * Do the party try to convince the guards to open the gates to let them out into the fray, risking penetration? Or do they find another way out of the city walls?
-    * How long do they stay out there?
-    * Save lady Lorraine? Or show no preference?
-
-The Fight itself:
-100 Townsfolk. ~10 die each round.
-
-24 Goblins. Divided amongst the battle, so the party probably encounters about 6 at a time.
-I can just describe these guys as a horde, who keep coming. If they kill like a dozen, then maybe it will loosen up.
+## Session 12
+Finish the fight
 
 Goblin
 2-5 HP
 13 AC
 d4 - d6 Damage with bone weapons.
-Low Mental Stats.
 
 Beast
 80 HP
@@ -70,25 +32,64 @@ Two Actions:
 * Rend - 2d6 Damage.
 * Twist - DC 12 Con save or spend the turn writhing on the ground.
 
-This fight will likely lead to a Retreat, so we should always leave an option open.
-Also, don't let up. Don't let the group get in over their heads.
-
 Ser Robin
 20 HP
 16 HP
 d10 Damage, not resisted by darkness.
-Command - every turn.
 Faith - Allies in zone get +2 to all checks.
 
-* The Chapel
-  * The group regroups at the Chapel. (See Below)
-  * Eugenia can use the Scrying Pool.
+---
 
-* The Plan
-  * There are three ways the plan can go:
-    * The group can try and talk their way to getting the shard from Helios.
-    * The group can try to steal the shard.
-    * The group can try to ride forth without the second shard.
+The fight rages on.
+Goblins spring forth from the earth.
+Two great beasts bear down, their illusory forms screeching down at a burning line of wood and fur.
+
+Most of the people are within the walls already.
+Lady Lorraine is one of the last to be making her way past the line of Fairhart guards.
+But there's one last wrinkle in the escape plan - Asha has found a Myelar, unconscious and unmoving, and a Dark Beast lurks close at hand.
+
+Alice and Sir Robin dart across the central road, to help Asha escape.
+Eugenia, paralyzed, is protected by Lazarus and a trio of Robin's men against the dark beast bearing down. One last civilian flees behind the wall of flame.
+Lance calls out commands as the battle line of guards is set upon by unprecedented hordes of goblins from the left and right.
+What happens next?
+
+Player Turn
+* Asha must try to carry the body, with a difficult check to do so.
+* Alice and Robin dart towards Asha's tent, but they cannot make it there this turn. The beast is about to set upon the tent where she is.
+* Lazarus and Eugenia are behind the wall of flame, but the knights of Torm are in front of it. They face the beast down with their sparks. Eugenia is still paralyzed, but will Lazarus go beyond the wall to fight the thing?
+
+Ally Turn
+* The Knights of Torm do not flee behind the wall of flame. They fight!
+* Arrows from the Wall. Fire arrows, directed half and half.
+
+Enemy Turn
+
+* The First Dark Beast will eviscerate the Knights of Torm as it goes. It will be deterred by the wall of flame, but it can make a paralysis check against Laz at sight range.
+* The Second Dark Beast rips its way into the tent on its turn, and uses its ability to freeze Asha and deal damage if it can.
+* Goblins keep up the fight, and the line falters. The guards beg Leonster to close the gates, to protect the city.
+
+More
+* Goblins keep coming. Things get dire here. Let them breach the city walls, kill some innocents. Let them kill some of the squires that Robin was training.
+* Dark Beasts get increasingly powerful. They can attack now, and move faster.
+* If the players stay too long, throw some more Goblins at them.
+* The Retreat is the big thing here. We want it to be awesome!
+  The choice is Lance's, ultimately. Leonster doesn't want to, but he's not above making this sacrifice.
+
+
+Aftermath
+
+* The walls protect the city from the beasts.
+* The shard is the key.
+* Lord Lowain praises the party, Sir Robin for protection.
+* Fear lingers among all, as the party is led to rest in the tower.
+* The Myelar remains unconscious.
+
+* The Monks of the Moon crowd around the two Myelar, chanting in strange whispers and songs.
+  It is a blessed ritual - one of celebration. Of the promised day.
+
+* Ser Robin calls for Eugenia, and informs the party that he's called a gathering at the church.
+
+---
 
 ---
 
@@ -104,71 +105,109 @@ The chapel of Torm has an important meeting within this evening. The party arriv
 Acolytes pray to a central statue of a great knight bearing a sword, wrought in gold.
 The likeness of Sir Pardis, an old Knight of the Order of Torm, from an age long past.
 
-The acolytes organize, and discuss with the group.
-Sir Robin reveals himself as their leader.
+Sir Robin reveals his plan.
 
 He wants to lead a band of heroes to the West, to liberate the citizenry from the darkness.
 He has made calls to the East, to assemble the Knights of Torm.
 
-He sees the shard of light. He sees it as a chosen sign.
 
-They seek to Ride West.
+Eugenia scries in the pool here, and sees the storms which wrack the west.
+She sees the doom which has befallen their old home.
 
----
-
-Audience with the Lord
-
-The Shard of Light which Lord Lowain possesses is no doubt pointing straight at the party's shard, so he can find them.
-
-The Knights come soon after the Festival is over. They claim the Lord has requested an audience, but do not elaborate.
-
-The party needs to get a feel for the Lord's opinions on the matters here.
-Lord Lowain wants to take a ranging of knights and go west, to find the source of the Darkness.
-His brother Leonster opposes, as does the Lady Cerwyn.
-He is waiting on word from King William as to what he must do.
+And she sees where the rest of the Crown of Light is - at the crest of Maegor's Peak.
 
 ---
 
-## To Remember
-Alice's birthday coming soon. Make it the day she arrives in Errol?
+The Pilgrimage
 
-## NPCs
-*Khmer*
-* Garreth, ex-bandit. Travelling Knight.
-* Rain, the Myelar of the West
-* Pascal, guard of Errol. | Going to become a desert warrior.
-  * His letter is from his parents, who were destitute and left him as a child.
+Lord Lowain has a discussion with the group about the shard, about its magical abilities. About how the walls of Helios will only hold magic for so long.
+Lady Lorraine offers to equip the party in whatever gear they require.
+
+Monks of the Moon gather to join the party on their ride West. Fifty or more, by estimation.
+Sir Leonster rallies a contingent of the guards that Helios can muster. twenty five soldiers, along with ten knights, and their squires. He's coming with, as well.
+Sir Robin gathers a dozen sparkworkers and priests of varying skill.
+
+Yurian's Goodbye
+Master of Coin will come with? Maybe?
+The Knight who was injured in the tourney ?
+
+---
+
+The Journey Begins
+
+The Rain continues for a great while. Two days have passed, with no indication of a stoppage.
+Does the party wait it out? Or do they begin their journey in the storm?
+
+Either way, let them get going. They have a long journey ahead of them.
+
+## Session 13
+
+Travel
+
+The journey is easy at first.
+Then the Beasts begin attacking.
+They must be slow, but quick enough to get the stragglers.
+The Monks of the Moon are the ones to go. Let Asha struggle to keep healing them.
+
+While the group is out in the storm, those of them with the scars of void cannot move. Even in the day.
+
+---
+
+Encounter with something scary - Zombies?
+
+---
+
+The group should also see something hopeless, like a band of survivors, all killed by the dark beasts on the road.
+
+---
+
+Emory
+
+Emory is a desolate place. A small band of survivors hold out against the storm, including some old friends.
+
+* Captain Moss is the leader here, but he's looking worse for wear. He's got wounds up and down his back, and he barely gets around.
+* Shar and Gascoigne, Blades of Katalon, the Retinue of Prince Faisal. These two are Captain Moss's closest help now, funnily enough.
+
+* Sir Albinoni attempts to flee when he sees the party, but he doesn't get away. He's been hiding here all along.
+  Let the party have some fun with him, but as they get information, he will spill some weird things.
+  Lady Cerwyn and Neral came through town, stopped contact with him, and went West into the storms.
+
+* Serra - Wife of Pascal - is still alive.
+* Lem, Head of the Shadow Guild in the West - has gathered what few Shadow Hands he can, and has found the local source of darkness here.
+  The group can choose to try and seal the cave here, or leave Emory and try to trudge onwards towards Maegor's Peak.
+
+* Garreth's return! He's a protector of Emory now. A nameless fighter, but he recognizes Alice and talks with her.
+  He's changed his ways since the Blackbirds, and he's trying to do everything he can to help out.
+
+---
+
+Fight over Emory
+
+The forces of darkness, led by Geoffrey, Zombie Mode, try to take Emory by force.
+
+---
+
+Maybe the Dungeon?
+
+---
+
+## Session 14 & beyond
+As the group gets closer to Maegor's Peak, resistance becomes stronger.
+
+They'll find a bit of respite in the ruins of Fort Moonstone, but will have to trudge onward.
+
+They have the option to go south, to try and save the last of the Bakers, etc. in Khmer, but it's a tough sell.
+
+More Magic Items, Abilities, etc. coming up!
+
+## Threads
+Lady Cerwyn and The Wizard Neral are part of the darkness spreading. They'll be a face for the players to hate.
+Geoffrey of the Blackbirds is their Lieutenant, and is undead.
+
+* Rain, the Myelar of the West, has died fighting the darkness. His spirit continues to protect Fort Moonstone, and fight the darkness, even in death.
+
+* Pascal, guard of Errol - will become a desert warrior.
+ * His letter is from his parents, who were destitute and left him as a child.
 * Faisal, Prince of Katalon
-* Shar and Gascoigne, Blades of Katalon, the Retinue of Prince Faisal
-
-*Emory*
-* Serra - Wife of Pascal
-* Lem, Head of the Shadow Guild in the West
-* Captain Moss
-
-*Blackbirds*
-* Geoffrey - Really evil, whip and sword. In a cast for now though.
-* James - Silver hair, dry voice.
-* Eckhardt - Old man, leader of the bunch.
-
-## Journeys to Undertake
-*Alice*
-* Who is she? What does she want?
-
-*Lazarus*
-* ... have to show their past, and have a clear and defined struggle for them to overcome.
-* What would be cool is if Eugenia started to foster dark power, due to her proficiency.
-  Then Lazarus has to decide whether to trust her or to try and stop her.
-
-*Lance*
-* Sees the world. Does something important with his wisdom.
-* Would be cool if he became a knight.
-* He will have to work with his old business partner again, that would be funny.
-
-*Asha*
-* Her goal is to live on for the sake of the Myelar.
-* My idea is that she must become a leader, and must sacrifice herself and the last of the Myelar to stop evil.
-* I think it would be cool if most of her people were against helping, and she had to inspire them to do it.
-
-*Eugenia*
+These two are going to make it to the city of Aqia, and rally the folks there to come to the group's aid on Maegor's Peak.
 * Becomes the witch of the Rift?
