@@ -20,7 +20,7 @@ d4 - d6 Damage with bone weapons.
 Zombie
 5-10 HP
 11 AC
-+1 | d6 - d8 Damage on bites.
++1 | d6 - d8 Damage on bites. Causes scarring.
 Cannot be killed except by light.
 
 Zombie Horse
@@ -70,6 +70,13 @@ Let Asha figure this one out.
 ### The Journey
 
 Window dressing:
+* The journey begins, tension is high, but eventually abates into mundaneity.
+  Asha feels the Myelar, tied behind her.
+* Few of the companions talk. The clopping of hooves is nearly the only sound besides the whip of the wind and a rumble of thunder in the distance.
+* The flat plains here are flooded. You enter a sunken place, where all but the raised road is flooded, and even that is watery in places.
+  The water moves with the wind, but besides that faint movement, you can hardly tell the sky from the pools of rainwater.
+  It's a little unsettling at times.
+
 * A sillhouette atop the crest of a mountaintop. Larger than a goblin, but wretched like one.
   It looks down upon the valley with glinting eyes.
   It shambles over the ridgeline and is not seen again.
@@ -125,11 +132,52 @@ When they encounter beasts, goblins, or other creatures of night, they avoid all
 They see stranger things than the beasts of before. They see beasts which slither along the ground, larger than horses, crawling their way towards an unknown destination.
 They see spiders. They see creatures which are a combination of both traits.
 
+### Near Emory
+
+The party sees the great stone boulder, a half day's ride from Emory, after four long days of near-sleepless travel.
+It's late afternoon. By today's estimation, the party should arrive at Emory mid-day tomorrow.
+They see the great boulder here, where they camped before.
+
+It's a ways off, but to the south, you see the small foot path which would take you to the ruins of Old Emory.
+And before you urge your steeds onward down the path towards the boulder, Lance catches a glimpse of a glint of something from the rock. Movement.
+
+After noticing the movement, he takes a closer look, and recognizes that the rock is different than when they had left it.
+It appears as if the massive thing, which once towered thirty feet overhead, is now tipped over, and stands on its side.
+
+The mouth of a Goblin cave sits underneath it. There are only four goblins here now, but the party will have to decide how to proceed.
+If the Goblins see them, they might flee underground, and then the party really will have a hard time dealing with them.
+
+If the Goblins get away, then the party will have some company soon. They'll have to ride hard to reach Emory by nightfall, or else face Goblins tonight after they make camp.
+It will be a cool set-piece, but I hope the party is able to stop them. Either way, will be fun.
+
 ### Emory
 
-Emory is a desolate place. A small band of survivors hold out against the storm, including some old friends.
+There! You see it. In the pale evening light of the Moon, it's almost imperceptible.
+Only Lance and Asha can make out the sillhouette of the city. No fires burn within, no lights illuminate the wooden city.
 
-* Captain Moss is the leader here, but he's looking worse for wear. He's got wounds up and down his back, and he barely gets around.
+As you approach the walls, you peer through the darkness to find movement. Eventually, you do.
+Four heads slide out from behind wooden battlements. Four arrows are nocked. Drawn. For a second, they nearly loose.
+
+But in a moment of silence and tension, the men holding the strung weapons lay their arrowheads down, and peer at you through the misty night.
+
+They're townsfolk, warning intruders to stay away.
+They've had a hell of a time with it, and they're skeptical.
+If the party mentions Captain Moss, however, he'll appear.
+He, along with a contingent of volunteers, are casting watch here. Fifty or so men and women. Some older children.
+They are forever vigilant, never resting, always with a dozen or so watchers on the walls.
+There are not more than two hundred survivors in the camp.
+
+Emory is a desolate place. The walls stand, the gates appear sealed, but once you're inside, you see that the town has already been raided.
+You wonder at what it was which came here. You see Goblin weapons littered about - bone and stone - but also the viscous puddles of the dark beasts in cracks in buildings.
+The contingent of guards leads you through the ragged streets. Around pools of dark liquid. Past shattered doorways and burned homes.
+No one passes by. It's a ghost town.
+
+Captain Moss has lost nearly all of his men. He hobbles around on a crutch. His volunteer army is the only thing keeping the walls from falling.
+He's got the scars pretty bad, but he's still able to get around at nightfall.
+
+You walk down the main street, over the Stone Bridge, beside which the inn you stayed at long ago is on its last legs.
+He leads you to a familiar street, if you're Alice. Cran's Place
+
 * Shar and Gascoigne, Blades of Katalon, the Retinue of Prince Faisal. These two are Captain Moss's closest help now, funnily enough.
 
 * Sir Albinoni attempts to flee when he sees the party, but he doesn't get away. He's been hiding here all along.
