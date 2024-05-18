@@ -17,19 +17,6 @@ Goblin
 13 AC
 d4 - d6 Damage with bone weapons.
 
-Zombie
-5-10 HP
-11 AC
-+1 | d6 - d8 Damage on bites. Causes scarring.
-Cannot be killed except by light.
-
-Zombie Horse
-16-18 HP
-12 AC
-50 SPD
-+3 | d6 - d8 Damage on bites.
-Cannot be killed except by light.
-
 Beast
 80 HP
 11 AC
@@ -58,37 +45,11 @@ They are accompanied by...
   * Alman?
   * Lucian?
 * An unconscious Myelar.
+* A lone babe, found in a destroyed caravan.
 
-## Session 13
-
-Travel
-
-The journey is easy at first.
-While the group is out in the storm, those of them with the scars of void cannot move. Even in the day.
-Let Asha figure this one out.
-
-### The Journey
-
-Window dressing:
-* The journey begins, tension is high, but eventually abates into mundaneity.
-  Asha feels the Myelar, tied behind her.
-* Few of the companions talk. The clopping of hooves is nearly the only sound besides the whip of the wind and a rumble of thunder in the distance.
-* The flat plains here are flooded. You enter a sunken place, where all but the raised road is flooded, and even that is watery in places.
-  The water moves with the wind, but besides that faint movement, you can hardly tell the sky from the pools of rainwater.
-  It's a little unsettling at times.
-
-* A sillhouette atop the crest of a mountaintop. Larger than a goblin, but wretched like one.
-  It looks down upon the valley with glinting eyes.
-  It shambles over the ridgeline and is not seen again.
-
-* A few hours in, encounter Dark Beasts. Can ensure that the party is undetected. They continue to travel, wary of storm clouds.
-
-* The party sees a hole in the earth, which appears to have been recently torn open. It is in the middle of a pasture.
-  Signs of entrails line the passage down.
-  * The party won't encounter any Goblins here, they've all been slain in the fighting. But if they explore very deep, they'll find
-  caverns which are too tight for men to fit through.
-
+## Session 14
 ### Ser Robin's point about gods:
+
 "A God is something to beg for mercy. To hide behind.
  Torm is not the name of God, it is just the word, in the old Myelar tongue, for courage.
  When a man prays to Torm, he is just searching for the strength he has within himself."
@@ -96,59 +57,6 @@ Window dressing:
 
 > Ser Robin, should he ever pass, will pass on his powers to Lazarus, alongside his high charisma score.
 > That will give him high SP as well, which will make the powers much more usable.
-
-### The desolate caravan
-
-The party comes across what looked to have once been a band of refugees.
-Their carts are slashed and torn, their horses are unmoving, and bodies cover the ground.
-
-They bear the marks of the dark beasts. The black scars. They bring you unease.
-
-They were perhaps fifty, and among them are guards of Errol. Every man and woman was armed. Every frozen corpse carried a spear, a knife, a bow.
-They were not enough to stop their fate.
-
-
-The scene seems completely lost. Even the rations have been spoiled by what Lance asserts to have been a week of rain.
-Only Asha notices an oddity, a strange sense of life coming from underneath an overturned cart.
-She can't hear or smell anything besides the pattering of light rain and the scent of decay, but she senses it all the same.
-
-The cart is difficult but not impossible to overturn.
-They find a woman's corpse, wrapped tightly around a wooden bucket.
-It's difficult to see what's within the bucket, but she's been dead for a week.
-
-Prying her off the thing is harder than expected.
-As soon as you do, you see it. In the bucket is a human baby, frozen in fear, but alive.
-
-It lets out a quiet cry in the silent field.
-
-And the corpses begin to move.
-
-### Uncertainty
-
-In the days to come, the party lives in fear of being found in the night.
-They can mostly track the weather, using Asha's senses, but they can't find a place where they can safely rest for more than a few hours at a time.
-When they encounter beasts, goblins, or other creatures of night, they avoid all contact, even going far off the path to do so.
-
-They see stranger things than the beasts of before. They see beasts which slither along the ground, larger than horses, crawling their way towards an unknown destination.
-They see spiders. They see creatures which are a combination of both traits.
-
-### Near Emory
-
-The party sees the great stone boulder, a half day's ride from Emory, after four long days of near-sleepless travel.
-It's late afternoon. By today's estimation, the party should arrive at Emory mid-day tomorrow.
-They see the great boulder here, where they camped before.
-
-It's a ways off, but to the south, you see the small foot path which would take you to the ruins of Old Emory.
-And before you urge your steeds onward down the path towards the boulder, Lance catches a glimpse of a glint of something from the rock. Movement.
-
-After noticing the movement, he takes a closer look, and recognizes that the rock is different than when they had left it.
-It appears as if the massive thing, which once towered thirty feet overhead, is now tipped over, and stands on its side.
-
-The mouth of a Goblin cave sits underneath it. There are only four goblins here now, but the party will have to decide how to proceed.
-If the Goblins see them, they might flee underground, and then the party really will have a hard time dealing with them.
-
-If the Goblins get away, then the party will have some company soon. They'll have to ride hard to reach Emory by nightfall, or else face Goblins tonight after they make camp.
-It will be a cool set-piece, but I hope the party is able to stop them. Either way, will be fun.
 
 ### Emory
 
@@ -203,7 +111,7 @@ Maybe the Dungeon?
 
 ---
 
-## Session 14 & beyond
+## Session 15 & beyond
 As the group gets closer to Maegor's Peak, resistance becomes stronger.
 
 They'll find a bit of respite in the ruins of Fort Moonstone, but will have to trudge onward.
