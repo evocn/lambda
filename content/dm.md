@@ -12,6 +12,302 @@ Keep out!
 [weather](/lambda/weather) |
 [time](/lambda/time)
 
+---
+
+## Session 15
+Main things:
+* Interview with Sir Albinoni.
+  This is where the answers start to come!
+  * Albinoni is shocked, and begins to cry.
+  * First, Eugenia can sense they're being scryed on and manipulated.
+    * Give Eugenia the spell "Block", which jams scrys and stuff for a day for an SP.
+    * Once Eugenia blocks the spell, Albinoni changes instantly, realizing he is really speaking to the party.
+  * Albinoni is sorry, and understands now. He changes his tone, but keeps his proud nature.
+  * He describes the whole situation from the beginning, how he was approached along with many Marconi noblemen by this mysterious Errol Lady named Cerwyn.
+  She never showed her face, but offered enormous sums of money, as well as titles and land in Errol for information and bandit activity.
+  He describes the situation well, how he was suspicious, but took the deal as his house was on the brink of destitution.
+  Chalcedony was to be reposessed by another cadet family, and Albinoni had little choice.
+  He, along with other lords, employed search groups to find the Keystone. He believes there were a great number of these across the whole of Yoria's empire.
+  * Albinoni realizes the feeling he had from the beginning was that Cerwyn was not human.
+  Like she was a puppet all along.
+  * Albinoni is not forgiven, but he offers information freely, and tells them whatever they ask of him.
+
+* Discussion with Captain Moss.
+* Lem, Head of the Shadow Guild in the West - has gathered what few Shadow Hands he can, and has found the local source of darkness here.
+  The group can choose to try and seal the cave here, or leave Emory and try to trudge onwards towards Maegor's Peak.
+  Ivory is also here.
+  * According to Lem, if someone can get beneath Old Emory and the Boulder and seal those two spots, then the darkness will be pushed back.
+
+* Plans for the journey to King Maegor's Peak.
+  There are a few contingents. I'll let the party choose what to do, but there are a great many things to be done.
+  * A group can seal the darkness around Emory.
+  * A group can go to investigate Davon's Keep, which is the last known location of Neral, and which Hyal says has something important.
+  * A group can head towards Fort Moonstone to prepare for the journey to Maegor's Peak.
+    * Prince Faisal's retainers Shar and Gascoigne agree to accompany the party.
+    * Garreth sneaks out with the party.
+
+* Fighting out of Emory.
+
+* Discussion with Hyal.
+
+* Big shocking fight near the end of the session - I want to leave the party in desparate straits before we go on vacation for a bit.
+
+### Ser Robin's point about gods:
+"A God is something to beg for mercy. To hide behind.
+ Torm is not the name of God, it is just the word, in the old Myelar tongue, for courage.
+ When a man prays to Torm, he is just searching for the strength he has within himself."
+"I pray to no God except that strength."
+
+> Ser Robin, should he ever pass, will pass on his powers to Lazarus, alongside his high charisma score.
+> That will give him high SP as well, which will make the powers much more usable.
+
+## Beyond
+As the group gets closer to Maegor's Peak, resistance becomes stronger.
+
+They'll find a bit of respite in the ruins of Fort Moonstone, but will have to trudge onward.
+
+## Characters
+* Mort the Dog
+* Bucket the Baby
+* Hyal, Myelar Prince
+
+Umber
+* Lady Cerwyn
+* Neral, the Sorcerer
+
+The Precipice
+* Sir Albinoni
+* Geoffrey of the Blackbirds - Human Lieutenant of darkness, Puppet of Neral.
+* Garreth
+
+* Rain, the Myelar of the West, resides in Fort Moonstone. Fights Darkness.
+
+* Sha'virr, Warlock of the Wastes.
+
+Khmer
+* Amos Baker
+* Avery Baker
+  * Andy, married to Maurice.
+  * Allie
+  * Aggie
+  * Annie
+  * Alm
+  * Amos Jr.
+  * Alexander
+  * Andrew
+  * Grandma Augustina
+
+* Captain Warren
+
+* Helen, Tavern Keeper
+
+Nefud
+* Faisal, Prince of Katalon
+* Shar and Gascoigne, Blades of Katalon, the Retinue of Prince Faisal. These two are now sworn to Lady Eugenia.
+
+Emory
+* Captain Moss
+* Pascal, guard of Errol - has become a desert warrior.
+* Serra - Wife of Pascal
+
+* Lem, Head of the Shadow Guild in the West
+* Ivory, fingerless shadow guild member.
+
+* Carpet Eater
+
+Helios
+* Lowain Fairheart - Deceased.
+* Lady Lorraine Fairheart. The ruler of Helios and the Verdane.
+* Leonster Fairheart - bent on vengeance.
+* Jarman, Master of Coin, once a friend of Lance's.
+
+* Ser Robin, Paladin of Torm
+  * Alman, Young Sparkmaster
+  * Lucia, Young Sparkmaster
+
+* Yurian Elm, Merchant. Ain Nefud.
+  * Mrs. Elm, his wife.
+  * Renee, daughter
+  * Two sons.
+
+
+## Threads
+Shar and Gascoigne are sworn to Eugenia's magical prowess.
+
+Lazarus is still afraid of magic and stuff I guess...
+
+Faisal and Pascal reach Aqia, and rally support to come to the group's aid on Maegor's Peak.
+
+Neral and Sha'virr are locked in battle, but Sha'virr will lose eventually.
+
+The Citadel of the Sun is the final destination for Asha - the place where Myelar go to pass on, and to leave this land to Humankind.
+
+## Ideas
+I really need a scenario in which only Alice can do something, but she would sacrifice herself in order to do it.
+Or something absurdly dangerous which she has to take on for the good of the party...
+
+More Magic Items, Abilities, etc. coming up!
+
+## How does this whole fuckin thing come together?
+### Long Ago
+Long ago, the Myelar create the world. They hang out in this nice place they call Elturel.
+
+Human Beings, originally from far, far away across the ocean and the mountains, migrate into the land of the Myelar.
+They find a utopia! Inhabited by awesome elf people who have advanced technology!
+
+The Myelar are benevolent, and let the people stay in their lands.
+They don't understand eachother, you see, but the Myelar are friendly hosts.
+They have nice feasts, and they hang out just fine. 
+Some Myelar even teach some little secrets about magic and technology to the primitive humans.
+Human Civilization in Elturel is the most advanced on the planet.
+
+But at some point, things start to go bad. Some of the people start to get upset about the way the elves run the lands.
+They start talking about the elves like they're proud or something, like they're making fun of the people.
+
+To make matters worse, the elves start acting strange. Some of the elves start acting sort of like the people, being proud and taking things personally.
+They worry about the people and their weapons, and start to think about kicking them out of their lands again.
+But most of the elves still felt pretty generous, and it just didn't feel right kicking them out of this nice land.
+Most of the people had come from lands which were war-torn and dangerous. This is a place where all these people could really get along.
+
+Something changed one day when a person killed a Myelar for the first time.
+It was a sin - an act of rage and malice, without justice behind it to motivate.
+
+And while in life, the Myelar was a gentle sort of elf, with a kind spirit and goodwill towards his human neighbors,
+when he fell, something terrible happened! A Myelar had never been killed in malice before, so they had no idea what would happen.
+Out of his body sprang a wicked pox, a sickness which filled the air. It was like some evil thing was within him, and since he was a Myelar - so full of power - it was very strong.
+The thing spread, methodically killing humans and scarring them with a black pus.
+Worse, when they buried the dead humans and myelar elves, about a week later, they came back from the dead, as these wretched little things they called goblins or gremlins or shades.
+They were insatiable to kill humans and elves alike - like they were driven by some anti-life spirit of death.
+
+Eventually, the elves got the thing controlled, and tried to figure out what had caused it, but they were blind to their own feelings.
+The corruption had already spread to all of them, and they couldn't clearly distinguish that they were upset. That they were mourning!
+
+So crimes of this kind began to be more common, and people started to plan in big groups what kinds of things they were going to do to fight the Myelar.
+There was eventually a big war, since the people wanted revenge, and so did the elves. They weren't that different in the end.
+Pretty much everyone died, and it was even kind of close, since the Myelar were split between those that fought the humans and those which fought the corrupt elves.
+
+Things were really pretty bad, so eventually, there was this big sacrifice where the Myelar kings shattered their crowns to seal the goblins underground,
+destroy the darkness, and make a peace.
+The Myelar gave up the west of Elturel for the people to live in, and made a bunch of mountains to keep the people out of the East.
+They stayed away from eachother for a long time.
+
+The West became this gnarly desert, where hardly anything grew.
+It was hard for the people, but they learned how to live in the inhospitable environment.
+Eventually, it had been long enough for the people to have forgotten the last war.
+The Myelar and the Nefud (as they called themselves) became friends again. The Myelar gave them little gifts and stuff.
+The Nefud, since they were so humbled by their environment, just appreciated it all. It was a good time.
+
+But the Myelar saw things they feared. They were still sensitive.
+So they were divided, eventually fighting among themselves.
+The Goblin creatures they slayed in the last war all rose from the dead as soon as things got bad.
+And the Myelar's powers were weaker than ever since they shattered the crowns.
+
+Anyways, after a long civil war, the last remaining Myelar got together and made a plan.
+They'd make the world hospitable for the human beings, and leave them the verdant lands of Elturel to live in.
+They'd seal the darkness, and make everything right. Then, they would leave this world.
+
+They did it, and only a few Myelar remained in the East, dedicated to being wardens over the darkness for humankind.
+
+Eventually, the Nefud found that their Myelar friends were gone. They were sad and mourned for years. They told stories about the people.
+But slowly they found their way to the East, where things were green and good.
+
+They founded kingdoms in the old Myelar Citadels, and prospered for 1000 years.
+Of course, they fought like people often do, but they did so in the ways of men, in familiar ways to our world.
+And things slowly improved, like in our world, too.
+
+### Recent History
+So that peace lasted for 1000 years. The Myelar all went away back then, except a few stragglers, Myelar who were born near the end
+who still had more to learn before they went on to the next life.
+That's like what Asha is. She was born right after the Exodus, and she had to figure out life on her own.
+
+So back to today.
+We've got the Nefud in the West, in tribes, sticking it out in the Desert.
+We've got the Four Kingdoms in Elturel, who each have their own history and quarrels and whatever.
+There's even been some wars between the Nefud and the Kingdoms, but mostly the Precipice keeps them to themselves.
+There's still some old wizards and magic-knowers who carry on the traditions of the Myelar, but their powers wane, and it's mostly a mundane world.
+In the Nefud, there's still magic blood from the Myelar passed down by the Sorcerer Queens!
+
+The people of both lands worship gods whose stories are sort of all tied in with the real-life history of the Myelar.
+There's an order of paladins called the Knights of Torm, the Monks of the Moon, and some other groups with religious bent,
+but for the most part folk care about their lives and try to keep their lords happy.
+
+There was a big war about 50 years ago, when the folk of the Verdane tried to claim the Imperial Throne from the Reuss.
+It was all orchestrated by the Marconi of the far East, but it all came to naught.
+Lots of bloodshed, for nothing. Since then, it's been all peace and rebuilding. Swords to Plowshares and all that.
+
+### The Inciting Incident
+So about a decade ago, something really crazy happened. It sort of set off everything that is happening now.
+
+There was a wizard who figured out what had happened to the Myelar. Who pieced together that they willingly disappeared.
+That Wizard was called Neral, and he was one of the last remaining master wizards in the Four Kingdoms.
+
+So he figured out what happened, and he got to thinking... What if the Myelar really should have had this land in the first place?
+I mean, his reasoning made sense at the time, he was just thinking about how the human beings who live here now were sort of unwelcome,
+and they didn't really have the right to kick the Myelar out the way they did.
+
+He's sort of thinking about what it all means, when he meets this Myelar, the first one he's ever met.
+The elf's name is Hyal. Hyal's a young Myelar, born after the Exodus, who has lived for 1000 years and watched the humans claim this land.
+
+Hyal is sort of held against his will by Neral, though the two grow a sort of unsteady friendship.
+Hyal is curious, and they have long discussions about what history means.
+Neral is convinced that the Myelar have the right to this land. Meanwhile, Hyal doesn't really have a personal stake in the matter.
+
+Eventually, Neral convinced Hyal to use his powers to connect to the souls of his ancestors, in the other world.
+There, Hyal met his forefathers. The ones on the ledge between living and dead, in purgatory.
+They told him to use Neral to try to reforge the Crown of Moonlight, to exterminate all the Goblins and reclaim Elturel for the Myelar.
+
+So he returned to this world, sort of uncertain about what to do, but he grudgingly works with Neral on this reclaiming business.
+They sort of investigate for a few years, then go off the grid. The last anyone heard of them, they were headed West.
+No one knows what happened to those two.
+
+Lady Cerwyn, the patron of Neral, discovered Neral's notes. She pieced together the same conclusions he did.
+She brought this idea to the lords council of Errol, and even secretly to the Imperium.
+She was generally rebuked, but many scholars began research into the documents Neral discovered.
+
+It was at this point that Cerwyn was killed by Neral. Working through her as a puppet, Neral commanded the forbidden magic of possession
+to use her power and influence to help him search for the keystone, hiring bandits across the world, both to help search and to spread disarray
+among the kingdoms of men.
+
+In the meanwhile, Neral and Hyal discovered that in order to return the Crown of Moonlight to power, they needed to release the seal.
+Hyal refused, but Neral forced him to. Past the point of no return, Neral unleashed the evil sealed away in the far West of the World, and the Dark Beasts
+began resurrecting the Goblins buried beneath the sand as shades, and spreading across the desert sands.
+
+Meanwhile, Hyal managed to escape Neral's clutches. Blaming himself for what has happened, he set off to find the Crown of Moonlight, to seal the darkness.
+By the time the party finds him, unconscious and nearly destroyed by darkness, He has found it, but it has come at a cost.
+
+Anyways, the darkness spreads, and the Four Kingdoms find themselves utterly unprepared for it.
+
+### Now
+The Darkness has spread. Neral's forces grow across nearly all of Errol at this point.
+Along their path, old Myelar strongholds have kept them at bay for short periods of time.
+But an army of Shades grows across the Four Kingdoms.
+The Nefud are almost completely swarmed, and only the Citadels survive in the vast desert.
+Assistance is coming from the East, but is slow to arrive. The Four are in disarray, and communication is difficult.
+
+The Party has, through either sheer luck or savvy, discovered half of the Crown of Light.
+They set out from Helios to unite the halves and hopefully save the realm.
+Eugenia the sorceress and Asha the Myelar hold great potential in their souls,
+and their companions Lazarus the warrior and Alice the thief have been essential to their travels.
+Lance, their elderly leader, has led them this far, but his old bones can only take him so far. This is most likely his final journey.
+
+Hyal, retaining most of the Crown of Moonlight, has made his way to the Verdane of Errol, but has been corrupted by his journey.
+The party, as we know, has found him outside the city of Helios.
+
+They, along with Hyal, Ser Robin of Torm, and Leonster Fairheart of Helios, have set out to Maegor's Peak for their ultimate goal:
+To save the world from Darkness!
+
+### The Future
+Neral and Sha'virr stand locked in battle over the Nefud desert.
+Sha'virr will lose, and pass his powers on to Eugenia.
+
+Neral will personally assault Maegor's Peak, and will stop the party from acquiring the Crown of Light.
+Also Hyal will probably be kidnapped again, and turned into a godlike entity known as The Moonlight.
+
+Eventually, the party will have to come up with some crafty way to defeat Neral and re-seal the darkness.
+I want something which takes collaboration, coordination, and everyone's skills to do.
+Like a real heist.
+
+## Stats
 Goblin
 2-5 HP
 13 AC
@@ -32,102 +328,3 @@ Ser Robin
 d10 Damage, not resisted by darkness.
 Smite, 3d6 damage from afar.
 Faith - Allies in zone get +2 to all checks.
-
----
-
-The Situation:
-
-The Party journeys into the western storm to liberate Emory, find the last piece of the crown of light at Maegor's Peak, and drive back the darkness.
-They are accompanied by...
-* Leonster, Lord of Fairheart.
-* Ser Robin, Paladin of Torm.
-* Two young Sparkmasters of Helios.
-  * Alman?
-  * Lucian?
-* An unconscious Myelar.
-* A lone babe, found in a destroyed caravan.
-
-## Session 14
-### Ser Robin's point about gods:
-
-"A God is something to beg for mercy. To hide behind.
- Torm is not the name of God, it is just the word, in the old Myelar tongue, for courage.
- When a man prays to Torm, he is just searching for the strength he has within himself."
-"I pray to no God except that strength."
-
-> Ser Robin, should he ever pass, will pass on his powers to Lazarus, alongside his high charisma score.
-> That will give him high SP as well, which will make the powers much more usable.
-
-### Emory
-
-There! You see it. In the pale evening light of the Moon, it's almost imperceptible.
-Only Lance and Asha can make out the sillhouette of the city. No fires burn within, no lights illuminate the wooden city.
-
-As you approach the walls, you peer through the darkness to find movement. Eventually, you do.
-Four heads slide out from behind wooden battlements. Four arrows are nocked. Drawn. For a second, they nearly loose.
-
-But in a moment of silence and tension, the men holding the strung weapons lay their arrowheads down, and peer at you through the misty night.
-
-They're townsfolk, warning intruders to stay away.
-They've had a hell of a time with it, and they're skeptical.
-If the party mentions Captain Moss, however, he'll appear.
-He, along with a contingent of volunteers, are casting watch here. Fifty or so men and women. Some older children.
-They are forever vigilant, never resting, always with a dozen or so watchers on the walls.
-There are not more than two hundred survivors in the camp.
-
-Emory is a desolate place. The walls stand, the gates appear sealed, but once you're inside, you see that the town has already been raided.
-You wonder at what it was which came here. You see Goblin weapons littered about - bone and stone - but also the viscous puddles of the dark beasts in cracks in buildings.
-The contingent of guards leads you through the ragged streets. Around pools of dark liquid. Past shattered doorways and burned homes.
-No one passes by. It's a ghost town.
-
-Captain Moss has lost nearly all of his men. He hobbles around on a crutch. His volunteer army is the only thing keeping the walls from falling.
-He's got the scars pretty bad, but he's still able to get around at nightfall.
-
-You walk down the main street, over the Stone Bridge, beside which the inn you stayed at long ago is on its last legs.
-He leads you to a familiar street, if you're Alice. Cran's Place
-
-* Shar and Gascoigne, Blades of Katalon, the Retinue of Prince Faisal. These two are Captain Moss's closest help now, funnily enough.
-
-* Sir Albinoni attempts to flee when he sees the party, but he doesn't get away. He's been hiding here all along.
-  Let the party have some fun with him, but as they get information, he will spill some weird things.
-  Lady Cerwyn and Neral came through town, stopped contact with him, and went West into the storms.
-
-* Serra - Wife of Pascal - is still alive.
-* Lem, Head of the Shadow Guild in the West - has gathered what few Shadow Hands he can, and has found the local source of darkness here.
-  The group can choose to try and seal the cave here, or leave Emory and try to trudge onwards towards Maegor's Peak.
-
-* Garreth's return! He's a protector of Emory now. A nameless fighter, but he recognizes Alice and talks with her.
-  He's changed his ways since the Blackbirds, and he's trying to do everything he can to help out.
-
----
-
-Fight over Emory
-
-The forces of darkness, led by Geoffrey, Zombie Mode, try to take Emory by force.
-
----
-
-Maybe the Dungeon?
-
----
-
-## Session 15 & beyond
-As the group gets closer to Maegor's Peak, resistance becomes stronger.
-
-They'll find a bit of respite in the ruins of Fort Moonstone, but will have to trudge onward.
-
-They have the option to go south, to try and save the last of the Bakers, etc. in Khmer, but it's a tough sell.
-
-More Magic Items, Abilities, etc. coming up!
-
-## Threads
-Lady Cerwyn and The Wizard Neral are part of the darkness spreading. They'll be a face for the players to hate.
-Geoffrey of the Blackbirds is their Lieutenant, and is undead.
-
-* Rain, the Myelar of the West, has died fighting the darkness. His spirit continues to protect Fort Moonstone, and fight the darkness, even in death.
-
-* Pascal, guard of Errol - will become a desert warrior.
- * His letter is from his parents, who were destitute and left him as a child.
-* Faisal, Prince of Katalon
-These two are going to make it to the city of Aqia, and rally the folks there to come to the group's aid on Maegor's Peak.
-* Becomes the witch of the Rift?
