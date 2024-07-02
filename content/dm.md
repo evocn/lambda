@@ -14,45 +14,51 @@ Keep out!
 
 ---
 
-## Session 15
-Main things:
-* Interview with Sir Albinoni.
-  This is where the answers start to come!
-  * Albinoni is shocked, and begins to cry.
-  * First, Eugenia can sense they're being scryed on and manipulated.
-    * Give Eugenia the spell "Block", which jams scrys and stuff for a day for an SP.
-    * Once Eugenia blocks the spell, Albinoni changes instantly, realizing he is really speaking to the party.
-  * Albinoni is sorry, and understands now. He changes his tone, but keeps his proud nature.
-  * He describes the whole situation from the beginning, how he was approached along with many Marconi noblemen by this mysterious Errol Lady named Cerwyn.
-  She never showed her face, but offered enormous sums of money, as well as titles and land in Errol for information and bandit activity.
-  He describes the situation well, how he was suspicious, but took the deal as his house was on the brink of destitution.
-  Chalcedony was to be reposessed by another cadet family, and Albinoni had little choice.
-  He, along with other lords, employed search groups to find the Keystone. He believes there were a great number of these across the whole of Yoria's empire.
-  * Albinoni realizes the feeling he had from the beginning was that Cerwyn was not human.
-  Like she was a puppet all along.
-  * Albinoni is not forgiven, but he offers information freely, and tells them whatever they ask of him.
+## Session 16
 
-* Discussion with Captain Moss.
-* Lem, Head of the Shadow Guild in the West - has gathered what few Shadow Hands he can, and has found the local source of darkness here.
-  The group can choose to try and seal the cave here, or leave Emory and try to trudge onwards towards Maegor's Peak.
-  Ivory is also here.
-  * According to Lem, if someone can get beneath Old Emory and the Boulder and seal those two spots, then the darkness will be pushed back.
+---
 
-* Plans for the journey to King Maegor's Peak.
-  There are a few contingents. I'll let the party choose what to do, but there are a great many things to be done.
-  * A group can seal the darkness around Emory.
-  * A group can go to investigate Davon's Keep, which is the last known location of Neral, and which Hyal says has something important.
-  * A group can head towards Fort Moonstone to prepare for the journey to Maegor's Peak.
-    * Prince Faisal's retainers Shar and Gascoigne agree to accompany the party.
-    * Garreth sneaks out with the party.
+We just need around 5 encounters. They are...
 
-* Fighting out of Emory.
+1. The Fight!
+2. Conversation with Hyal.
+	1. Hyal's memory is shaky. He's not sure what happened before being left in Helios. Neral modified his memory after the two of them split. He acts and thinks like a child, sort of. Innocent to what's going on in the workd.
+	2. He doesn't have any powers. Just a normal guy. Once he gets his memories back, he'll have equivalent powers to Asha.
+	3. Hyal feels drawn to Davon's Keep, like it holds some secret for him.
+	4. Because of this, the party will have two goals: Davon's Keep and Maegor's Peak. They'll have to decide which to follow. No particular time limit, but they know that every day they waste is another day the blight spreads across Errol. By now, it might have covered the whole country.
+3. Making a plan with two objectives.
+4. Journey to the next spot (skip mostly), then intro the next area.
+5. Another fight?
 
-* Discussion with Hyal.
+The two objectives:
 
-* Big shocking fight near the end of the session - I want to leave the party in desparate straits before we go on vacation for a bit.
+Davon's Keep
+1. Scoping the place out.
+2. Planning the heist.
+3. Heist! Sneaking past smell-sensitive goblins and beasts.
+4. The Library, where all is revealed.
+5. Escape from the Keep.
 
-### Ser Robin's point about gods:
+Fort Moonstone
+1. Landscape nearby the 
+
+---
+
+The Party:
+* Ivory
+* Ser Robin and Leonster
+* Hyal
+* Shar and Gascoigne
+
+* Goblin assault. Dark Beast comes out of Hyal. Close fight!
+  * I want this to be pretty dire, but I need to have things be pretty well-defined too.
+  * TODO!!!
+
+
+* Ser Robin and Leonster return.
+  * Ser Robin is really upset about having left his retainers, Alman and Lucia, to die.
+  * Now we have Leonster, who wants revenge at any cost, and Robin, who is sort of broken.
+
 "A God is something to beg for mercy. To hide behind.
  Torm is not the name of God, it is just the word, in the old Myelar tongue, for courage.
  When a man prays to Torm, he is just searching for the strength he has within himself."
@@ -60,6 +66,45 @@ Main things:
 
 > Ser Robin, should he ever pass, will pass on his powers to Lazarus, alongside his high charisma score.
 > That will give him high SP as well, which will make the powers much more usable.
+
+
+* Ivory goes ahead to investigate, to inform the party of dangers.
+  * He'll communicate by signs.
+
+* Discussion with Hyal.
+  * He explains what happened with the spark masters and the goblins.
+    * His story is a little shaky, but he doesn't seem to be malicious, so the party will probably let him slide.
+  * He has forgotten many of the things from before... Obviously one of these memory-altering spells.
+  * He seems to feel like Davon's Keep holds some connection to him.
+
+
+* The final push
+  * Davon's Keep - Hyal wants to go here.
+    * The place where Hyal and Neral did their research. Hyal's memory will be returned if they go here.
+    * Also lots of spells and things here too.
+    * More corrupted dark beast creatures this way.
+
+  * Fort Moonstone - the first stop on the way to Maegor's Peak.
+    * On the way... militant goblins! A few groups of enslaved men. Party has to decide whether to try to free them?
+    * Desolate fields.
+    * Ivory helps the party avoid the big stuff.
+
+
+Fights aren't that interesting.
+What we want are things which really challenge the party!
+Like a fort that the party has to sneak into,
+Or a puzzle as to how the party can trick some goblins,
+Or some interrogation situation.
+Things where the characters really have to show their true colors.
+
+Maybe one thing we have to do is split the party up.
+See what they're like alone, where they can't hide behind their friends.
+
+That's how you or I usually discover ourselves.
+
+At the very least, we need Leonster and Ser Robin to leave, along with Shar and Gascoigne.
+It's gotta just be the five of the party, along with maybe Hyal, who causes chaos.
+
 
 ## Beyond
 As the group gets closer to Maegor's Peak, resistance becomes stronger.
